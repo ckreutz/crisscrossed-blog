@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>{{ page.title }}</title>
+<link rel="stylesheet" href="/css/style.min.css" type="text/css" media="screen, projection" />
+<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+<script type='text/javascript' src='/js/jquery.min.js'></script>
+</head>
+<body class="custom 
+  {% if page.layout == 'start' %}
+  blog
+  {% endif %}
+">
+<div id="container">
+<div id="page">
+  {% include nav.html %}
+	<div id="header">
+		<p id="logo"><a href="http://www.crisscrossed.net">crisscrossed</a></p>
+		<p id="tagline">Exploring the web for change. Connecting people and ideas.</p>
+	</div>
