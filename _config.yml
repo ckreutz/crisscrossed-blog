@@ -25,11 +25,21 @@ maruku:
   png_url:    /images/latex
   
 mini_magick:
+  small:
+    source: images/_photos/original
+    destination: images/photos/small
+    gravity: center    
+    extent: "150x150"    
+    resize: "150x150"
   thumbnail:
-    source: images/photos/original
+    source: images/_photos/original
     destination: images/photos/thumbnail
-    resize: "100x100"
+    gravity: center    
+    extent: "360x300"    
+    resize: "360x200"
   medium:
-    source: images/photos/original
+    source: images/_photos/original
     destination: images/photos/medium
-    resize: "600x400"
+    gravity: center    
+    extent: "670x280"    
+    resize: "670x280"

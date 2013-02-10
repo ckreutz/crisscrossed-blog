@@ -9,6 +9,8 @@ body{font-size:62.5%;font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
 a.post_image_link{outline:none}
 blockquote{border-left:1px solid #ddd;color:#666}
 abbr,acronym{line-height:1em;text-transform:uppercase;letter-spacing:1px;border-bottom:none;cursor:help}
+.caption{margin-bottom: 20px; margin-top: -10px;font-size: 11px;}
+.project_title{margin: 40px 0 20px 0; background: #eee; color: #205580; font-size: 22px; padding: 5px; }
 code{line-height:1em;background:#eee}
 pre{background:#eee;border:1px solid #ddd;overflow:auto;clear:both}
 p.center{text-align:center!important}
@@ -100,7 +102,7 @@ table#wp-calendar td#prev{text-align:left;padding-left:.545em}
 #page{background:#FFF;padding:2.2em}
 .no_sidebars{background:none!important}
 #content{width:73.4em;float:left}
-.post_box,.teasers_box,.full_width #content_box .page{margin:0 2.3em 0 1.1em}
+.post_box,.teasers_box,.full_width #content_box .page{margin:0 2.3em 0 0}
 .full_width #content_box .page{width:auto}
 .no_sidebars .post_box{margin:0 1.1em}
 .teasers_box{width:70em;padding-top:2.2em;padding-bottom:2.2em}
@@ -122,13 +124,13 @@ table#wp-calendar td#prev{text-align:left;padding-left:.545em}
 #image_box img.two_by_one{width:26.6em;height:13.3em}
 #image_box img.one_by_two{width:26.6em;height:53.2em}
 #comments{margin-right:2.3em;margin-left:2.2em;margin-top:4.4em}
-.headline_area{margin-bottom:2.2em}
+.headline_area{margin-bottom:1.5em}
 #header #logo{font-size:3.6em;line-height:1.167em}
 #header #tagline{font-size:1.4em;line-height:1.429em}
 .nav,.menu li ul{border-width:0 0 .1em}
 .menu li ul{margin-top:-.1em}
 .menu ul a{width:11.818em;border-left-width:.091em}
-.headline_area h1,.headline_area h2{font-size:2.4em;line-height:1.4em}
+.headline_area h1,.headline_area h2{font-size:2.4em;line-height:1.4em; padding-bottom: 10px;}
 .format_text h2,.format_text h3{font-size:1.286em;line-height:1.222em;margin:1.833em 0 .611em}
 #archive_info h1{font-size:1.8em;line-height:1em}
 .headline_meta .pad_left{padding-left:.9em}
@@ -180,10 +182,10 @@ li.widget li ul{margin:.692em 0 0 1.385em}
 .format_text input,#commentform input,#commentform textarea{width:45%;border-width:.071em;padding:.214em}
 .format_text input.form_submit,#commentform .form_submit{font-size:1.143em;padding:.313em .25em}
 #footer p{font-size:1.2em;line-height:1.667em}
-.teaser h2{font-size:1.6em;line-height:1.375em}
-.teaser .format_teaser{font-size:1.2em;line-height:1.5em;margin-top:1.5em;margin-bottom:1.5em}
+.teaser h2{font-size:1.6em;line-height:1.375em; margin-bottom: 10px;}
+.teaser .format_teaser{font-size:1.2em;line-height:1.5em;margin-top:1.5em;}
 .teaser .teaser_author,.teaser .teaser_category,.teaser .teaser_date,.teaser .teaser_comments,.teaser .edit_post{font-family:Arial, "Helvetica Neue", Helvetica, sans-serif}
-.teaser .teaser_link{font-size:1.2em;line-height:1.5em}
+.teaser .teaser_link{font-size:1.2em;line-height:1.5em; margin-bottom: 10px;}
 .teaser .post_tags{font-size:1.1em;line-height:1.636em}
 .teaser .post_image_link img.alignleft{margin-right:1.8em;margin-bottom:1.8em}
 .teaser .post_image_link img.alignright{margin-left:1.8em;margin-bottom:1.8em}
@@ -226,12 +228,14 @@ body.custom{background:#F7F7F7}
 .custom .teasers_box{width:32em;float:left;clear:none;padding-top:0;margin:0}
 .custom .teaser{border:1px solid #efefef;clear:both;margin-bottom:2em;width:29em;float:right;padding:1em}
 .custom .top{border:1px solid #efefef!important}
-.custom .hfeed .comment_bubble{background:transparent url(../images/comment_bubble.png) no-repeat scroll 0 0;width:28px;height:25px;text-align:center;margin-top:-2em;float:right;font-size:1.2em;padding-top:3px}
+.custom .hfeed .comment_bubble{background:transparent url(../images/comment_bubble.png) no-repeat scroll 0 0;width:42px;height:25px;text-align:center;margin-top:-3.1em;float:right;padding-top:3px}
+.comment_bubble a {margin-left: -15px; font-weight: bold; font-size: 11px; line-height: 16px;}
 .custom .comment_bubble a{color:#fff}
 .custom abbr.published{background:transparent url(../images/datebg.png) 0 0 no-repeat;color:#205580;width:87px;height:19px;font-size:9px;letter-spacing:0;font-style:normal;display:block;padding:.3em .5em}
+.custom abbr.published-de{background:transparent url(../images/datebg.png) 0 0 no-repeat;color:#205580;width:87px;height:19px;font-size:11px;letter-spacing:0;font-style:normal;display:block;padding:.3em .5em}
 .custom .format_teaser p{padding-bottom:2em}
 .custom .teaser_link,.custom .more-link{background:url(../images/teaser_link.png) no-repeat;color:#205580;width:78px;height:19px;font-size:1.1em;text-decoration:none;display:block;padding:1px 0 0 8px}
-.custom .more-link{font-size:.9em;padding-top:0}
+.custom .more-link{font-size:.8em;padding-top:0}
 .custom .sidebar_list{padding:0}
 .custom .widget{width:auto;margin-bottom:1em;border:1px solid #efefef;background:#FFF;color:#C4C4C4;padding:1em}
 .custom #text-4{background:#205580;color:#F7F7F7;border:none;position:relative}
@@ -295,7 +299,7 @@ body.custom{background:#F7F7F7}
 * html #homepage_widgets li,* html .clearfix{height:1%;overflow:visible}
 *+html #homepage_widgets li,*+html .clearfix{min-height:1%}
 #homepage_widgets li:after,.clearfix:after{clear:both;content:".";display:block;height:0;visibility:hidden}
-.entry-content img{float:left;display:block;border:3px solid #eee;max-width:500px;margin:0 10px 10px 0}
+.entry-content img{float:left;display:block;border:3px solid #eee; margin:0 10px 10px 0}
 dl.tags{display:block;width:auto;overflow:hidden;padding-top:4px;margin:14px 0 18px -9px}
 dl.tags dt,dl.tags dd{float:left;display:inline;margin-left:9px;margin-bottom:4px}
 dl.tags dt{color:#999;font-weight:400}

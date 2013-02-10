@@ -14,18 +14,20 @@
         <div class="image">
           <img src="/images/photos/medium/{{ page.image }}">
         {% if page.caption %}
-        <div class="caption">{{ page.caption }}</div>
+          <div class="caption">{{ page.caption }}</div>
         {% endif %}
         </div>
         {% endif %}
         
         {{ content  }}
-      <dl class="tags">
-        <dt>Tagged as:</dt>
-						{% for category in page.categories %}
-              <dd><a href="/categories/{{ category }}">{{ category }}</a></dd>
-            {% endfor %}
-			</dl>
+      <!-- <dl class="tags">
+        <dt>Tags:</dt>
+        {% for post in site.categories.de %}
+          {% for tag in post.categories %}
+              <dd><a href="/categories/{{ tag }}">{{ tag }}</a></dd>
+          {% endfor %}
+        {% endfor %}
+      </dl> -->
 		</div>
 	</div>
 	<div id="comments">

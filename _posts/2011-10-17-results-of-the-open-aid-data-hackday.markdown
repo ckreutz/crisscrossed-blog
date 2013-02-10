@@ -5,6 +5,7 @@ layout: post
 slug: results-of-the-open-aid-data-hackday
 title: 'Results of the Open Aid Data Hackday '
 wordpress_id: 1364
+lang: en
 categories:
 - activism
 - ICT4D

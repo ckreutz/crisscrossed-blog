@@ -4,7 +4,7 @@
     {% assign main = 1 %}
     {% assign teaser = 1 %}
     {% for post in site.posts %}
-    {% if post.lang != 'de' %}      
+    {% if post.lang == 'de' %}      
         {% if main < 2 %}      
     <div class="post type-post status-publish hentry format-standard post_box top">
 		  <div class="headline_area">
@@ -21,7 +21,7 @@
         </div>
         {% endif %}   
 			  <p>{{ post.content | truncatewords: 180 }} </p>
-        <p><a href="{{ post.url }}" class="more-link">Read more</a></p>
+        <p><a href="{{ post.url }}" class="more-link">Weiter lesen</a></p>
  			</div>
     </div>
     {% assign main = 2 %}
@@ -44,7 +44,7 @@
           {% endif %}
             <p>{{ post.content | strip_html | truncatewords: 80 }} </p>
 				  </div>
-            <a class="teaser_link" href="{{ teaser.url }}" rel="nofollow">Read more</a>
+            <a class="teaser_link" href="{{ teaser.url }}" rel="nofollow">Weiter lesen</a>
           </div>
         </div>
        {% assign teaser=teaser | plus:1 %}   

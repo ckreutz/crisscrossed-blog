@@ -5,6 +5,7 @@ layout: post
 slug: a-world-of-big-closed-data-and-its-unused-potential
 title: A world of big (closed) data and its unused potential
 wordpress_id: 1387
+lang: en
 categories:
 - communication
 - technology

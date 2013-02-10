@@ -14,7 +14,7 @@ layout: nil
  </author>
 
  {% for post in site.posts limit: 20 %}
- {% if post.lang != 'de' %}      
+ {% if post.lang == 'de' %}      
  <entry>
    <title>{{ post.title | xml_escape }}</title>
    <link href="http://www.crisscrossed.net{{ post.url }}"/>

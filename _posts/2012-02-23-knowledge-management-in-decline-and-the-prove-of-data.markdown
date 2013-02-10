@@ -4,7 +4,7 @@ date: 2012-02-23 14:30:59
 layout: post
 slug: knowledge-management-in-decline-and-the-prove-of-data
 title: 'Knowledge management in decline and the prove of data  '
-wordpress_id: 1377
+lang: en
 categories:
 - knowledge management
 ---
