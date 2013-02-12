@@ -40,6 +40,6 @@ Spannend wird es aber wenn andere Datensätze hinzugefügt werden. Dank der Open
 ![Trends](/images/2013/indikatoren.png)
 
 ## Ausblick
-Doch dafür muss bei den deutschen Organisationen der Entwicklungszusammenarbeit erst ein Bekenntnis zu offenen Daten kommen. Gerade Nichtregierungsorganisationen sind hier leider kein Vorbild. Mit Ausnahmen werden auch hier keine detaillierte Finanzdaten veröffentlicht. Eine [IFG-Anfrage](http://de.wikipedia.org/wiki/Informationsfreiheitsgesetz) hier wenigstens [eine Übersicht der von BMZ in Jahr 2011 geförderten Organisationen](https://fragdenstaat.de/anfrage/liste-aller-vom-bmz-geforderten-organisationenen-in-2010/) aufgezeigt. Wir hoffen das [offene-entwicklungshilfe.de](http://www.offene-entwicklungshilfe.de) hier Inspiration für weitere solche Angebote ist. 
+Doch dafür muss bei den deutschen Organisationen der Entwicklungszusammenarbeit erst ein Bekenntnis zu offenen Daten kommen. Gerade Nichtregierungsorganisationen sind hier leider kein Vorbild. Mit Ausnahmen werden auch hier keine detaillierte Finanzdaten veröffentlicht. Eine [IFG-Anfrage](http://de.wikipedia.org/wiki/Informationsfreiheitsgesetz) hat wenigstens [eine Übersicht der von BMZ in Jahr 2011 geförderten Organisationen](https://fragdenstaat.de/anfrage/liste-aller-vom-bmz-geforderten-organisationenen-in-2010/) hervorgebracht. Wir hoffen das [offene-entwicklungshilfe.de](http://www.offene-entwicklungshilfe.de) hier Inspiration für weitere solche Angebote ist. 
 
 
