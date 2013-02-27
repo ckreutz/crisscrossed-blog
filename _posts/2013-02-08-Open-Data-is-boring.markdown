@@ -30,7 +30,7 @@ What is clear is that such data will not motivate a single developer. It is 100%
 
 The above image shows one such data set, which is probably only readable to an insider. In my research these are often the case on other portals as well. One can rarely find appealing and valuable data. 
 
-## The case of geo data"
+## The case of geo data
 Or take the case of geo data. It is the basis of many apps, but finding for example, administrative borders for cities, districts or post codes is almost impossible for many countries. But this is exactly what needs to become a very detailed data service to best serve a user. A lot has been done to offer more geo data openly, but unfortunately governments rarely offer such essential, mostly tax-payed information, for re-use. 
 
 In Germany, for example, the statistic office offers a [ridicolous small amount of "geocoded" data](https://www.regionalstatistik.de/genesis/online/logon). In 2011 they offered data sets of marriages, child care, unemployment rate, car accidents, election results. The problem not only is that it is very little, but also lacks "ground data" such as a list of kindergardens or playgrounds across Germany.  
