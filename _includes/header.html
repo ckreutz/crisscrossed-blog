@@ -1,7 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>{{ page.title }}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="{{ content | strip_html | truncatewords: 60 }}" /> 
+<meta name="keywords" content="{% for category in page.categories %}{{ category }}{% endfor %}" /> 
+<link rel="author" href="https://plus.google.com/108387825462426516671" />
 <link rel="stylesheet" href="/css/style.min.css" type="text/css" media="screen, projection" />
 <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen, projection" /><![endif]-->
 <script type='text/javascript' src='/js/jquery.min.js'></script>

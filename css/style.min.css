@@ -231,7 +231,6 @@ body.custom{background:#F7F7F7}
 .custom .hfeed .comment_bubble{background:transparent url(../images/comment_bubble.png) no-repeat scroll 0 0;width:42px;height:25px;text-align:center;margin-top:-3.1em;float:right;padding-top:3px}
 .comment_bubble a {margin-left: -15px; font-weight: bold; font-size: 11px; line-height: 16px;}
 .custom .comment_bubble a{color:#fff}
-.custom abbr.published{background:transparent url(../images/datebg.png) 0 0 no-repeat;color:#205580;width:87px;height:19px;font-size:9px;letter-spacing:0;font-style:normal;display:block;padding:.3em .5em}
 .custom abbr.published-de{background:transparent url(../images/datebg.png) 0 0 no-repeat;color:#205580;width:87px;height:19px;font-size:11px;letter-spacing:0;font-style:normal;display:block;padding:.3em .5em}
 .custom .format_teaser p{padding-bottom:2em}
 .custom .teaser_link,.custom .more-link{background:url(../images/teaser_link.png) no-repeat;color:#205580;width:78px;height:19px;font-size:1.1em;text-decoration:none;display:block;padding:1px 0 0 8px}

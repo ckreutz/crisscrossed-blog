@@ -7,7 +7,12 @@
           <a href="#disqus_thread" rel="nofollow" data-disqus-identifier="{{ page.url }}"></a>
         </div>
   			<h1 class="entry-title">{{ page.title }}</h1>
-				<p class="headline_meta"><abbr class="published" title="{{ page.date | date: '%d-%m-%Y'  }}">{{ page.date | date: "%b / %d / %Y"  }}</abbr></p>
+			<p class="headline_meta">
+        <span class=”updated”>
+        <abbr class="published" title="{{ page.date | date: '%d-%m-%Y'  }}">{{ page.date | date: "%d.%m.%Y"  }}</abbr>
+      </span> |  
+      <span class=”vcard author”><span class=”fn”>Christian Kreutz</span></span>
+        </p>
 			</div>
 			<div class="format_text entry-content">
         {% if page.image %}
