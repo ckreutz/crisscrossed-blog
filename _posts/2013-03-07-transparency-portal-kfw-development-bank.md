@@ -6,7 +6,7 @@ image: country-kfw.png
 lang: en
 caption: 'Country page of the new transparency portal'
 categories:
-- open data  
+- open data
 - open development
 - open aid
 - data-portal
@@ -17,7 +17,7 @@ Organisations working in development cooperation generally have nice websites wi
 We had already been working with KfW on their [funding report for Germany](http://okfn.de/2012/04/mehr-transparenz-kooperation-kfw-bankengruppe/), and as a result we were approached by KfW-Entwicklungsbank, who wanted to know if we could present their aid data in a new way. At that time we were already working on [offene-Entwicklungshilfe.de](http://www.offene-Entwicklungshilfe.de) and were pleased to be able to extend that approach to more data sets.
 
 
-## Transpareny portal 
+## Transpareny portal
 
 Recently the [transparency portal (transparenz.kfw-entwicklungsbank.de)](http://transparenz.kfw-entwicklungsbank.de) went live online: There we present data from KfW-Entwicklungsbank from a number of angles. Alongside the typical financial data, the results of [project evaluations are also shown in a school grade format](http://transparenz.kfw-entwicklungsbank.de/wirkungen/detail/index.html). This year we should also be adding an exhaustive data bank, and we hope that this will be just the beginning of a fuller disclosure of data. 
 
@@ -27,7 +27,7 @@ The data which have now been made available can also be downloaded in machine-re
 ## A start has been made
 But it’s quite clear that the data sets are only a start. A further step is publication of data on open contracting: [a conference took place](http://www.open-contracting.org/johannesburg) on this recently between the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) and the World Bank. It is precisely in contracting that greater transparency is called for, as there are frequent cases of corruption in this area. Data on this subject have recently been published by the World Bank, and they paved the way for [some interesting analyses](http://europeandcis.undp.org/blog/2013/01/31/big-data-and-development-organizations-what-happens-when-you-move-from-theory-to-practice/).
 
-## Interview 
+## Interview
 [Interview extract](http://www.kfw-entwicklungsbank.de/ebank/DE_Home/Ueber_uns/News/News_2012/Im_Gespraech/20121221_43991.jsp)
 
 **KfW:** The criticism has been raised that transparency only benefits non-governmental organisations and IT specialists. So how do poor countries gain from more transparency?
