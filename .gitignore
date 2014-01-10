@@ -3,3 +3,4 @@ _drafts/
 _site/
 *.sublime-project
 *.sublime-workspace
+s3_website.yml
