@@ -2,7 +2,7 @@
 date: 2013-03-21 15:20:23
 layout: post
 title: "Data dive: Measuring poverty through real-time data"
-image: 
+image:
 lang: en
 caption: ''
 categories:

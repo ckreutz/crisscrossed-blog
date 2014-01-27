@@ -21,23 +21,23 @@ maruku:
   png_engine: blahtex
   png_dir:    images/latex
   png_url:    /images/latex
-  
+
 mini_magick:
   small:
     source: images/_photos/original
     destination: images/photos/small
-    gravity: center    
-    extent: "150x150"    
+    gravity: center
+    extent: "150x150"
     resize: "150x150"
   thumbnail:
     source: images/_photos/original
     destination: images/photos/thumbnail
-    gravity: center    
-    extent: "360x300"    
+    gravity: center
+    extent: "360x300"
     resize: "360x200"
   medium:
     source: images/_photos/original
     destination: images/photos/medium
-    gravity: center    
-    extent: "670x280"    
+    gravity: center
+    extent: "670x280"
     resize: "670x280"
