@@ -10,6 +10,8 @@ categories:
 - crowdsourcing
 ---
 
+**Crossposted from the [WE THINQ Blog](https://www.we-thinq.de/en/blog/2014/01/27/10-reasons-open-innovation-fails.html)**
+
 Open innovation can be a powerful force. When hundreds of people collaborate openly things can evolve in all kinds of creative ways. That kind of energy is fantastic to see and I am always excited to follow real-time open innovation events implemented through our application [WE THINQ](https://www.wethinq.com/en/). Ideas spread like wild fire and comments come in by the minute as lately seen in an exciting project with the Deutsche Welle.
 
 Hack-a-thon, idea contest, innovation lab – there are so many forms of open innovation nowadays, but there are also many times when open innovation fails to solve problems or attract participation. Here are 10 things NOT to do if you want your open innovation challenge to succeed:
