@@ -3,7 +3,7 @@
   <div id="content" class="hfeed">
     {% assign main = 1 %}
     {% assign teaser = 1 %}
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts %}
     {% if post.lang != 'de' %}
         {% if main < 2 %}
     <div class="post type-post status-publish hentry format-standard post_box top">
