@@ -24,7 +24,7 @@ This a great incentive to attract a large number of participants, but does not u
 Ideas have to develop and that's why a major part of  open innovation is about the collaboration around ideas. Sometimes the "losing" ideas, when given a fresh set of eyes, become great ideas. Too often open innovation contests are focused solely on public relation events and less on the ideas itself.
 
 3. Setup an idea contest and believe people will just show up.
-In my experience, the mobilization of campaigns is one of the cornerstones of success for open innovation. Not only for higher participation, but for attracting a wider diversity of participants and knowledge, which encourages better dialogue and a fruitful exchange of ideas.
+In my experience, the mobilization of campaigns is one of the cornerstones of success for open innovation. Not only for higher participation, but for attracting a wider diversity of participants and knowledge, which encourages better dialogue and a fruitful exchange of ideas. Paul Miller has [some great tips for pitching](http://www.paulmiller.org/tips-for-pitching-at-a-social-innovation-camp/) at a Social Innovation Camp.
 
 4. Being obsessed with rules of behavior and communication policies.
 If you do not inherently believe in the constructive way people can communicate and collaborate then do not try to innovate openly. The so-called social media policies are often only read by its creators.
@@ -33,7 +33,7 @@ If you do not inherently believe in the constructive way people can communicate 
 It is absolutely essential to engage in the conversation as organizers: facilitate, don't just observe. Input and support from the top management is very helpful, and you only learn how it works if you engage yourself.
 
 6. Don't have an implementation plan.
-If Participants don't see their ideas being implemented, they will lose trust in the organization, and will not participate again in the future. A lot of effort goes into creating projects and ideas in open innovation contests. Reward that effort by showing your appreciation and commitment: have a plan to put the winning (and losing) projects to good use.
+If participants don't see their ideas being implemented, they will lose trust in the organization, and will not participate again in the future. A lot of effort goes into creating projects and ideas in open innovation contests. Reward that effort by showing your appreciation and commitment: have a plan to put the winning (and losing) projects to good use.
 
 7. You believe social media is a waste of time.
 Open innovation processes are large conversations. Such free knowledge sharing can range from the trivial to the complex, but best ideas happen in the coffee house. Social media platforms such as Facebook, Google +, Twitter and LinkedIn allow participants to share ideas in an informal setting and directly interact with your organization. Don't lose this great opportunity for engagement by dismissing social media.
