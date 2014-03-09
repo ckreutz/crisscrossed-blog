@@ -1,47 +1,50 @@
 ---
-date: 2014-01-29 15:20:23
+date: 2014-01-27 15:20:23
 layout: post
-title: "10 Gründe warum Open Innovation oft scheitert"
+title: "10 reasons Open Innovation fails"
 image: "open-innovation-group.jpg"
-lang: de
+lang: en
 caption: 'Taken at a Social Innovation Camp http://www.flickr.com/photos/sicamp/7356916932 (CC)'
 categories:
 - open innovation
 - crowdsourcing
 ---
 
-Offene Innovation kann eine starke Kraft sein. Wenn Hunderte von Menschen offen zusammenarbeiten, können sich viele kreative Möglichkeiten entwickeln. Diese Art Energie ist fantastisch und ich finde es immer spannend live Open Innovation Prozesse, die über unsere Anwendung [WE THINQ](https://www.wethinq.com/en/) implementiert wurden, zu sehen. Ideen verbreiten sich wie ein Lauffeuer und im Minutentakt kommen Kommentare, wie zuletzt bei einem spannenden Projekt mit der Deutschen Welle zu sehen war.
+**Crossposted from the [WE THINQ Blog](https://www.we-thinq.de/en/blog/2014/01/27/10-reasons-open-innovation-fails.html)**
 
-Hack-a-thon, Ideenwettbewerb, Innovation Lab – heute es gibt so viele Formen der offenen Innovation, aber es gibt auch viele Fälle, wo offene Innovation nicht funktioniert, Probleme zu lösen oder Teilnehmer zu motivieren. Hier sind 10 Dinge, die Sie aus meiner Erfahrung nicht tun sollten, wenn Sie bei Open  Innovation erfolgreich sein wollen:
+Open innovation can be a powerful force. When hundreds of people collaborate openly things can evolve in all kinds of creative ways. That kind of energy is fantastic to see and I am always excited to follow real-time open innovation events implemented through our application [WE THINQ](https://www.wethinq.com/en/). Ideas spread like wild fire and comments come in by the minute as lately seen in an exciting project with the Deutsche Welle.
 
-1. Den Teilnehmern große Geldpreise anbieten.
-Dies ist ein großer Anreiz, viele Teilnehmer zu gewinnen, aber in der Regel motivieren Sie die Teilnehmer nicht, die besten Ideen zu entwickeln. In vielen Studien wurde bewiesen, dass Geld- oder Sachleistungen für die Motivation, bessere Ideen zu entwickeln oder Produkte zu schaffen, sekundär sind.
+Hack-a-thon, idea contest, innovation lab – there are so many forms of open innovation nowadays, but there are also many times when open innovation fails to solve problems or attract participation. Here are 10 things NOT to do if you want your open innovation challenge to succeed:
 
-2. Konzentration nur auf die „besten Ideen“ und Gewinner.
-Ideen müssen entwickelt werden und deshalb geht es bei der offenen Innovation hauptsächlich um die Zusammenarbeit bei der Entwicklung von Ideen. Manchmal werden anfangs vermeintlich „schlechte“ Ideen zu großartigen Ideen, wenn man diesen nur Zeit lässt. Zu oft reduzieren sich offene Innovations-Wettbewerbe ausschließlich auf PR-Veranstaltungen und die Ideen werden vernachlässigt.
+1. **Offer big, monetary prizes to participants.**
+This a great incentive to attract a large number of participants, but does not usually motivate participants to come up with the best ideas. It is proven through many studies that monetary or material benefits are secondary for people's motivation in creating better ideas or products. [Check this post](http://www.innovationexcellence.com/blog/2013/08/04/rewarding-innovation-2/
+) for more detailed thoughts on this point.
 
-3. Einen Ideenwettbewerb machen und glauben, dass die Leute einfach auftauchen.
-Nach meiner Erfahrung sind die Mobilisierung und eine Kampagne die Eckpfeiler für den Erfolg offener Innovation. Nicht nur wegen einer höheren Beteiligung, sondern auch um eine breitere Vielfalt von Teilnehmern und Wissen zu gewinnen, für bessere Dialoge und einen fruchtbaren Austausch von Ideen.
+2. **Focus only on the "best ideas" and winners.**
+Ideas have to develop and that's why a major part of  open innovation is about the collaboration around ideas. Sometimes the "losing" ideas, when given a fresh set of eyes, become great ideas. Too often open innovation contests are focused solely on public relation events and less on the ideas itself.
 
-4. Versuchen mit Verhaltens- und Kommunikationsregeln alles "abzusichern".
-Wenn Sie nicht von Natur aus an die konstruktive Art der zwischenmenschlichen Kommunikation und Zusammenarbeit glauben, dann versuchen Sie nicht, offen zu innovieren. Die so genannten Social-Media-Richtlinien werden oft nur von ihren Schöpfern gelesen.
+3. **Setup an idea contest and believe people will just show up.**
+In my experience, the mobilization of campaigns is one of the cornerstones of success for open innovation. Not only for higher participation, but for attracting a wider diversity of participants and knowledge, which encourages better dialogue and a fruitful exchange of ideas.
 
-5. Moderatoren und Organisatoren beteiligen sich nicht an den Gesprächen.
-Es ist unbedingt notwendig sich in die Konversation einzuschalten. Nicht die Gespräche nur koordinieren, sondern Teil dieser zu werden. Gerade der Input und die Unterstützung durch das Management sind sehr hilfreich, und Sie lernen nur, wie es funktioniert, wenn Sie sich engagieren.
+4. **Being obsessed with rules of behavior and communication policies.**
+If you do not inherently believe in the constructive way people can communicate and collaborate then do not try to innovate openly. The so-called social media policies are often only read by its creators.
 
-6. Sie haben keinen Plan zur Umsetzung.
-Wenn die Teilnehmer nicht sehen, dass ihre Ideen umgesetzt werden, werden sie das Vertrauen in den Prozess verlieren, und sich in Zukunft nicht mehr beteiligen. Versuchen Sie von Anfang an kommende Widerstände und konträre Interessen einzuplanen. Gerade bei der Ideen-Umsetzung laufen Sie schnell gegen Wände.
+5. **Moderators and organizers do not engage in the conversations.**
+It is absolutely essential to engage in the conversation as organizers: facilitate, don't just observe. Input and support from the top management is very helpful, and you only learn how it works if you engage yourself.
 
-7. Glauben, dass Soziale Medien Zeitverschwendung sind.
-Offene Innovationsprozesse sind eine große Konversation. Der freie Wissensaustausch reicht von trivial zu komplex, aber die besten Ideen reifen im Austausch. Open Innovation Plattformen erlauben Teilnehmern Ideen in formlosem Rahmen zu teilen und direkt mit Ihrer Organisation zu interagieren. Lassen Sie sich diese großartige Chance nicht entgehen, indem Sie die Sozialen Medien übergehen.
+6. **Don't have an implementation plan.**
+If participants don't see their ideas being implemented, they will lose trust in the organization, and will not participate again in the future. A lot of effort goes into creating projects and ideas in open innovation contests. Reward that effort by showing your appreciation and commitment: have a plan to put the winning (and losing) projects to good use.
 
-8. Der Glaube, dass offene Innovation von A-Z geplant werden kann.
-Offene Innovation ist eine Reise, die einen guten Anteil Flexibilität braucht. Es ist wichtig, einen Plan zu haben, aber das bedeutet nicht, dass Sie alles im Voraus planen sollten. Die meisten offenen Innovationsprozesse verlaufen irgendwie anders, als die Organisatoren es erwartet haben. Eine Präsentation von Judo Antin von Facebook, namens „Die Grundlagen der Motivation im Zeitalter von Sozialen Medien“, zeigt auf faszinierende Weise die Komplexität der Benutzerdynamik. Sehen Sie das Video unten.
+7. **You believe social media is a waste of time.**
+Open innovation processes are large conversations. Such free knowledge sharing can range from the trivial to the complex, but best ideas happen in the coffee house. Social media platforms such as Facebook, Google +, Twitter and LinkedIn allow participants to share ideas in an informal setting and directly interact with your organization. Don't lose this great opportunity for engagement by dismissing social media.
 
-9. Langweilige Themen.
-Welche Herausforderung trifft den Nerv? Langweilige Themen sind ein Rezept für Misserfolg. Versuchen Sie das richtige Thema und Fragestellung für die passende Zielgruppe zu finden. Der sehr empfehlenswerte [Feverbee Blog]( http://www.feverbee.com/2012/03/real-motivation.html ) bietet einen großartigen Beitrag, was die Motivation in Online Communities ausmacht.
+8. **You believe open innovation can be planned from A-Z.**
+Open innovation is a journey which needs a fair share of flexibility. It is important to have a plan,  but that does not mean you should plan  to plan everything ahead. Most open innovation processes that I have observed turn out somehow differently than clients have anticipated. A presentation by Judo Antin from Facebook called "What Lies Beneath: The Foundations of Motivation in the Age of Social Media", shows intriguingly the complexity about user dynamics. See the video below.
 
-10. Gute Ideen umformulieren und sie als Eigene verkaufen.
-Das ist das Schlimmste. Die Leute kommen mit großartigen Ideen und Diskussionen. Das Management erntet diese Früchte und verkauft sie als seinen Erfolg.  Anerkennung ist so wichtig bei offener Innovation. Ehre, wem Ehre gebührt. Beteiligen Sie die Teilnehmer am Umsetzungsprojekt une zeigen Sie transparent die Beiträge.
+9. **Boring topics.**
+What challenge hits a nerve? Boring topics are a recipe for failure. If Ricky Gervais can create an engaging comedy about a paper company, you can come up with an engaging open innovation challenge. The highly recommended [Feverbee blog](http://www.feverbee.com/2012/03/real-motivation.html) has a great post about what drives motivation in communities.
+
+10. **Rephrasing good ideas and selling them as your own.**
+This is the worst. People come up with great ideas and discussions. The management picks these fruits as their success.  Recognition is so important in open innovation. It leads to incredible frustration if people are undervalued in the process.  Give credit where credit is do, and include participants in the implementation project.
 
 <iframe width="520" height="345" src="//www.youtube.com/embed/Rr1gvReCfZQ" frameborder="0" allowfullscreen></iframe>

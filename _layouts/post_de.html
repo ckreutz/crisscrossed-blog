@@ -4,7 +4,7 @@
     <div class="post type-post status-publish format-standard hentry post_box top">
 		  <div class="headline_area">
         <div class="comment_bubble">
-          <a href="#disqus_thread" rel="nofollow" data-disqus-identifier="{{ page.url }}"></a>
+          <a href="https://www.twitter.com/ckreutz" target="_blank" title="Twitter" id="tweets"></a>
         </div>
   			<h1 class="entry-title">{{ page.title }}</h1>
 			<p class="headline_meta">
@@ -52,6 +52,14 @@
 	  {% include sidebar.html %}
 
   </div>
-
+    <script>
+      dug({
+        endpoint: 'https://sharedcount.appspot.com/?url=http://www.crisscrossed.net{{ page.url }}/&api=85601d8f552d0da709682cd919d4e9c1f2e06aef',
+        target: 'tweets',
+        {% raw %}
+        template: '{{Twitter}}'
+        {% endraw %}
+       });
+    </script>
     {% include footer.html %}
 

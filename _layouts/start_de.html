@@ -9,9 +9,10 @@
     <div class="post type-post status-publish hentry format-standard post_box top">
 		  <div class="headline_area">
         <div class="comment_bubble">
-          <a href="#disqus_thread" rel="nofollow" data-disqus-identifier="{{ post.url }}"></a>
+          <a href="https://www.twitter.com/ckreutz" target="_blank" id="tweets1"></a>
         </div>
-  			<h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark" title="Permanent link to A world of big (closed) data and its unused potential">{{ post.title }}</a></h2>
+        {% assign post_url1 = post.url %}
+  			<h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
 				<p class="headline_meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
 			</div>
 			<div class="format_text entry-content">
@@ -29,10 +30,7 @@
     {% if teaser < 3 and okay == 1 %}
        <div class="teasers_box">
       <div class="post type-post status-publish format-standard hentry teaser">
-        <div class="comment_bubble">
-          <a href="#disqus_thread" rel="nofollow" data-disqus-identifier="{{ post.url }}"></a>
-        </div>
-        <h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark" title="Permanent link to Knowledge management in decline and the prove of data">{{ post.title }}</a>
+        <h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
           </h2>
           <abbr class="teaser_date published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr>
 
@@ -56,4 +54,13 @@
 
 
 		{% include sidebar.html %}
+      <script>
+        dug({
+          endpoint: 'https://sharedcount.appspot.com/?url=http://www.crisscrossed.net{{ post_url1 }}/&api=85601d8f552d0da709682cd919d4e9c1f2e06aef',
+          target: 'tweets1',
+          {% raw %}
+          template: '{{Twitter}}'
+          {% endraw %}
+         });
+       </script>
       {% include footer.html %}
