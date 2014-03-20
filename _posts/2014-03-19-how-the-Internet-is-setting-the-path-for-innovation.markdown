@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Innovation hubs - how the Internet is setting the path for innovation"
+image: "tech-hubs.png"
+lang: en
+caption: 'Taken from the GIZ publication http://10innovations.net'
+categories:
+- open innovation
+- crowdsourcing
+---
+
+Only a few years ago ['unconferences'](http://en.wikipedia.org/wiki/Unconference) where a new and different type of event, where people organized themselves online to meet somewhere to listen and exchange about crazy ideas. The web-based model of open innovation developed into face-to-face events. Years later, we are now witnessing how innovation hubs are popping up across the world. Spaces are being opened for anyone to exchange ideas and find help and solutions to seriously implement these. The Internet, as platform for open innovation, has been transforming the way we collaborate, which makes companies, for instance, experiment with incubators, accelerators or [open innovation challenges](https://www.wethinq.com/en/blog/2014/03/18/How-to-Run-Open-Innovation-Challenge.html).
+
+Luckily, these innovation hubs are not reserved to capitals from the Northern hemisphere; in contrary, the most vibrant communities are located in the Southern hemisphere. I wonder if the dynamic and energy in African or transition countries, which is often so different to old-european countries such as Germany, are the reason for this. Set side by side, even the most 'state-of-the-art' spaces in Berlin lack the drive one finds in Africa. Either way innovation hubs are to me a postmodern offline version of what online collaboration throughout the Internet has since past years been. Such hubs have a totally different approach to innovation – ideas flow freely, are discussed openly and can be easily collaborated on or [forked](http://en.wikipedia.org/wiki/Fork_(software_development) in all directions. They form a culture, where ideas are as good as the networks around them; with or without an organization behind them, things develop fast in a rapid prototyping approach. Simply put, the atmosphere in such hubs is the complete opposite to most top-down or hierarchical companies and organizations and their attempt to innovate.
+
+Not long ago, I was asked to take part as editor on a publication about Open Innovation for the [GIZ](https://www.giz.de/). Given the subject, I was excited to put together some great authors to collaborate with, and delve into the different dimensions of open innovation worldwide and how transformative global collaboration has become. [I wrote back in 2008 an article](http://www.crisscrossed.net/2008/02/01/a-network-of-ideas-development-20/) what consequences that will have for development cooperation. This time around, I am presenting the first chapter of the publication by [Geraldine de Bastion](https://twitter.com/geralbine), who in 2012 curated the presenters list at the [re-publica](http://re-publica.de/) conference. She gives us an insight into why technology hubs are at the forefront of innovation in Africa.
+
+
+## Creating space for change: Africa’s technology innovation hubs
+
+Social media have by now spread to all corners of the world, including the remotest areas in Africa. They have changed our personal and professional communication, our news and consumption habits and the way we share information. New markets and industries are emerging as these technologies, in particular mobile internet services, are now globally accessible. While these creative and digital industries are driven by the Internet, they also require physical space to evolve in. Creating such space as well as physical social networks is crucial for digital innovation, especially in spots where fledgling technology communities are just beginning to evolve, like Addis Ababa or Dar Es Salaam. Beyond the bad news about famines and civil wars, Africa is also undergoing a profound telecoms and IT boom that sees young entrepreneurs invent anything from mobile payment systems to rooftop gardens.
+
+Download the [complete chapter](http://10innovations.alumniportal.com/fileadmin/10innovations/dokumente/GIZ_10innovations_Technology-Hubs_Brochure.pdf)
+
+## Background about the publication
+This chapter is taken from the GIZ publication: 10 Innovations - How to leverage social media for new forms of cooperation, edited by Christian Kreutz. All chapters can be accessed for free here: [10innovations.net](http://10innovations.net) and will be published over the next months. I am grateful to GIZ and particular Jan Schwaab, who made this publication possible, which also be soon published as an ebook.
+
+## Excerpt
+Some of the greatest repercussions of the Internet are the push for openness, transparency and creativity. Social networks are giving rise to an unseen expansion of global collaboration and innovation. Open innovation embraces business, activists and governments as well as individual citizens in a world without borders, where ideas are constantly emerging and evolving. Open source is no longer linked to just software development, it is a new way to implement solutions more efficient. Ideas are more easily and quickly implemented, for example through crowdfunding, and are now detached from time and space, simply connecting people’s knowledge and creativity. The phenomenon is not limited to the Internet only, as a number of innovation hubs are emerging across the world; and it is also not limited to just startups, as companies can re-invent themselves, their research and development.
+
+But how can organizations tap into these networks of flowing ideas and get involved in this ever-changing landscape? And, when contrary, what would the consequences of not joining be? The following articles invite the reader to a journey around the world to understand the various dimensions behind open innovation and how this new form of global collaboration works. They explore openness from the startups's standpoint, and how we can practice new forms of collective learning across continents. Each chapter looks into the many opportunities for an organization to be open – what it means to engage in crowdsourcing and how these new forms of cooperation are used to tackle large and small challenges including those for social development. This publication showcases fascinating examples and approaches on how open innovation can be implemented in a successful manner.
+
+All chapters can be accessed for free here: [10innovations.net](http://10innovations.net)
