@@ -16,10 +16,6 @@ pre{background:#eee;border:1px solid #ddd;overflow:auto;clear:both}
 p.center{text-align:center!important}
 p.bottom{margin:0!important}
 .remove_bottom_margin{margin-bottom:0!important}
-input,textarea{font-size:1em;color:#444;background:#eee;border:1px solid #aaa;border-right-color:#ddd;border-bottom-color:#ddd;font-family:Arial, "Helvetica Neue", Helvetica, sans-serif}
-input:focus,textarea:focus{background:#fff;border-color:#777 #ccc #ccc #777}
-input.form_submit{font-weight:700;color:#111;background:url(../images/submit-bg.gif);border:3px double #999;border-top-color:#ccc;border-left-color:#ccc;cursor:pointer;width:auto!important;overflow:visible}
-#commentform input.form_submit{border-width:3px}
 img.alignnone,img.block{display:block;clear:both}
 img.stack{clear:none!important}
 img[align=left]{float:left;clear:left}
@@ -350,30 +346,90 @@ h1,h2,h2 a,.format_text h2,.format_text h3,.format_text h4,.format_text h5,.form
   background-color: #018DD8;
 }
 
-#mailform {
-  margin-top: 30px;
-}
-
-#mailform p {
-  color: #ffffff;
-}
-
-#mailform h3 {
-  color: #ffffff;
-  font-size: 25px;
-}
-
-.shape {
+#shape {
 min-height: 20px;
 padding: 13px;
 margin-bottom: 20px;
-border: 1px solid #EEE;
-border: 1px solid rgba(0, 0, 0, 0.25);
+margin-left: 5px;
+border: 1px solid #eee;
+border: 1px solid rgba(0,0,0,0.05);
 -webkit-border-radius: 4px;
 -moz-border-radius: 4px;
 border-radius: 4px;
--webkit-box-shadow: 0px 1px 1px #B4B4B4;
+-webkit-box-shadow: 0px 1px 1px #b4b4b4;
 -moz-box-shadow: 0px 1px 1px #b4b4b4;
-box-shadow: 0px 1px 1px #B4B4B4;
-width: auto;
+box-shadow: 0px 1px 1px #b4b4b4;
+width: 240px;
+background-color: #fff;
+border-style: solid;
+border-width: 4px 0px;
+-moz-border-image: url(../images/border-mail.png) 27 27 4 0 round;
+-webkit-border-image: url(../images/border-mail.png) 27 27 4 0 round;
+-o-border-image: url(../images/border-mail.png) 27 27 4 0 round;
+border-image: url(../images/border-mail.png) 27 27 4 0 fill round;
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+#mailform-title {
+text-transform: uppercase;
+font-size: 13px;
+line-height: 22px;
+color: #555555;
+}
+
+#mailform-title img {
+  float: left;
+  margin-left: -13px;
+}
+
+#mailform-subtitle {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 20px;
+  color: #555555;
+}
+
+#shape form input[type=text] {
+padding: .5em .6em;
+display: inline-block;
+border: 1px solid #ccc;
+box-shadow: inset 0 1px 3px #ddd;
+border-radius: 4px;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+margin-top: 15px;
+}
+
+#shape input[type=text] {
+  font-size: 15px;
+  margin: 0;
+  vertical-align: baseline;
+  background: #ffffff;
+}
+
+.submit {
+  margin-top: 10px;
+  color: #ffffff;
+  background-color: #FA8423;
+  border-color: #FA8423;
 }
