@@ -390,7 +390,7 @@ border-image: url(../images/border-mail.png) 27 27 4 0 fill round;
 }
 #mailform-title {
 text-transform: uppercase;
-font-size: 13px;
+font-size: 14px;
 line-height: 22px;
 color: #555555;
 }
