@@ -3,7 +3,6 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
  <title>crisscrossed Blog</title>
  <link href="http://www.crisscrossed.net/atom.xml" rel="self"/>
  <link href="http://www.crisscrossed.net"/>
@@ -14,13 +13,13 @@ layout: nil
  </author>
 
  {% for post in site.posts limit: 20 %}
- {% if post.lang != 'de' %}      
+ {% if post.lang != 'de' %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
    <link href="http://www.crisscrossed.net{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://www.crisscrossed.net{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <content type="html">{{ post.content | xml_escape }} <p>If you enjoyed this post, get free updates by <a href="https://wt179.infusionsoft.com/app/form/a2dce3559fab196da9729dca6393efae" target="_blank">Email</a> or <a href="http://feeds2.feedburner.com/crisscrossed">RSS</a>.</p></content>
  </entry>
  {% endif %}
  {% endfor %}
