@@ -398,14 +398,11 @@ color: #555555;
 #mailform-title img {
   float: left;
   margin-left: -13px;
+  margin-top: -10px;
 }
 
-#mailform-subtitle {
-  margin-top: 10px;
-  text-align: center;
-  font-size: 14px;
-  line-height: 20px;
-  color: #555555;
+#shape {
+  margin-top: 20px;
 }
 
 #shape form input[type=text] {
@@ -429,6 +426,7 @@ margin-top: 15px;
 
 .submit {
   margin-top: 10px;
+  margin-left: 50px;
   color: #ffffff;
   background-color: #FA8423;
   border-color: #FA8423;

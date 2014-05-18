@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html id="" lang='en'>
+  <!--[if IE 7]>    <html class="ie7 oldie" lang="en"> <![endif]-->
+  <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+  <head>
+  <meta charset='utf-8'>
+  <meta content='width=device-width, minimum-scale=1.0, maximum-scale=1.0' name='viewport'>
+  <title>Form</title>
+  <link rel="stylesheet" href="https://www.wethinq.com/css/validationEngine-jquery.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/pure/0.4.2/pure-min.css">
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js'></script>
+    <script src='https://www.wethinq.com/js/jquery.validationEngine.js'></script>
+    <script src='https://www.wethinq.com/js/jquery.validationEngine-en.js'></script>
+    <style>
+    body {
+      background-color: #FF8F2E;
+    }
+    .main-frame {
+      margin-top: 30px;
+    }
+    .header {
+      margin: 0px 0 20px 0px;
+      text-align: center;
+      font-style: italic;
+    }
+
+    .header img {
+      margin: 0px 0 20px 0px;
+    }
+    .pure-form fieldset  {
+      margin: 0 auto;
+      text-align: center;
+    }
+    .pure-form input  {
+          font-size: 22px;
+        }
+    .pure-controls {
+      margin-top: 20px;
+      font-size: 125%;
+    }
+    .subtitle {
+      margin-top: 20px;
+      font-size: 12px;
+      text-align: center;
+    }
+    .box {
+      margin: 0 auto;
+      width: 400px;
+    }
+    .colored-frame {
+    background: #ffffff;
+    color: #555555;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 30px;
+    }
+    </style>
+</head>
+  <body>
+    <div class="main-frame">
+      <div class="box">
+        <div class="colored-frame">
+        <div class="header">
+          <img src="http://www.crisscrossed.net/images/logo.png">
+          <h3>
+            Crisscrossed posts delivered to your inbox.
+          </h3>
+        </div>
+        <form class="pure-form" method="post">
+            <fieldset>
+                <div class="pure-control-group">
+                    <input id="email" type="email" placeholder="Email" class="validate[required,custom[email]]" data-prompt-position='bottomRight:-100,3'>
+                </div>
+                <div class="pure-controls">
+                    <button type="submit" class="button-xsmall pure-button pure-button-primary">Submit</button>
+                </div>
+                <div class="subtitle">
+                100% Privacy. We will never spam you.
+              </div>
+            </fieldset>
+        </form>
+      </div>
+    </div>
+    </div>
+
+</div>
+<script>
+$('.pure-form').validationEngine();
+</script>
+  </body>
+</html>
+
