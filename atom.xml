@@ -14,12 +14,12 @@ layout: nil
 
  {% for post in site.posts limit: 20 %}
  {% if post.lang != 'de' %}
+ {% capture type %}{{ post.image | truncate: 3, "" | remove: "." }}{% endcapture %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
    <link href="http://www.crisscrossed.net{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://www.crisscrossed.net{{ post.id }}</id>
-   <link rel="enclosure" href="http://www.crisscrossed.net/images/photos/medium/{{ post.image }}" type="image/{% if post.image contains 'png' %}png{% else %}jpg{% endif%}" hreflang="en" />
    <content type="html"><img src="http://www.crisscrossed.net/images/photos/medium/{{ post.image }}"/>{{ post.content | xml_escape }} <p>If you enjoyed this post, get free updates by <a href="http://www.crisscrossed.net/form.html" target="_blank">Email</a> or <a href="http://feeds2.feedburner.com/crisscrossed">RSS</a>.</p></content>
  </entry>
  {% endif %}
