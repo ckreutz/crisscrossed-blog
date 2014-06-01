@@ -9,9 +9,9 @@ categories:
 - communication
 - ICT4D
 - feed
-- open source
+- open-source
 - sharing
-- social network
+- social-network
 - web2fordev
 ---
 

@@ -11,7 +11,7 @@ categories:
 - mobile
 - mobileweb
 - network
-- social network
+- social-network
 ---
 
 A lot has been debated about the one laptop per child initiative, but less has been said about the use of mobile phones for development.  Even though according to a [DFID and vodafone study](http://www.vodafone.com/start/responsibility/our_social___economic/socio-economic_impact/impact_of_mobile_phones.html) "the number of mobile users is growing twice as fast in developing countries as in developed countries. Africa has now the fastest-growing mobile market in the world." Another example is Grameenphone, [which provides universal telephony in Bangladesh using microloans creating new income opportunities especially within the rural population.  ](http://www.youcanhearmenow.com/)

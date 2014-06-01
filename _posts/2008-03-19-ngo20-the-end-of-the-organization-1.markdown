@@ -7,7 +7,7 @@ title: NGO2.0 -- the end of the organization? (1)
 wordpress_id: 229
 categories:
 - activism
-- civil society
+- civil-society
 - collaboration
 - network
 - organization

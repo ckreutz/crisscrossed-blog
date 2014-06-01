@@ -7,10 +7,10 @@ title: 'Complexity trap: Local vs. global knowledge in development work'
 wordpress_id: 257
 categories:
 - ICT4D
-- knowledge management
+- knowledge-management
 - biodiversity
 - development
-- local knowledge
+- local-knowledge
 ---
 
 The world wide web offers a growing variety of expertise on all kinds of topics. This global knowledge, such as the scientific domain, has generic character. The expertise is important, especially to tackle all sorts of challenges, but without including the local context could be quickly useless.  Often, the applied knowledge lacks an interdisciplinary approach and disregards local and indigenous knowledge.

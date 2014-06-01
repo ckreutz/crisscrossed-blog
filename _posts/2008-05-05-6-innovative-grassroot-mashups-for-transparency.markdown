@@ -11,7 +11,7 @@ categories:
 - e-democracy
 - grassroots
 - mashup
-- united nations
+- united-nations
 ---
 
 Some weeks ago I wrote a post about a new initiative by UNHCR, which promotes the use geodata mashups to provide  information about refugee camps all around the world. Today, I saw another initiative by the World Bank called  [geo.worldbank.org:](http://geo.worldbank.org/) "Our work  around the world."   Again, it is a nice service, but does it offer much more than the website?

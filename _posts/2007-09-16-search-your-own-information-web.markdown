@@ -6,7 +6,7 @@ slug: search-your-own-information-web
 title: Search your own information web
 wordpress_id: 138
 categories:
-- knowledge management
+- knowledge-management
 - npk4dev
 ---
 

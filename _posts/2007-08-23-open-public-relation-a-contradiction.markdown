@@ -7,9 +7,9 @@ title: 'Open public relation - a contradiction? '
 wordpress_id: 127
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - collaboration
-- public relation
+- public-relation
 - wiki
 ---
 

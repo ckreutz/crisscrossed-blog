@@ -6,7 +6,8 @@ slug: first-socialcamp-in-germany
 title: First Socialcamp in Germany
 wordpress_id: 285
 categories:
-- knowledge management
+- knowledge-management
+- social-innovation
 ---
 
 

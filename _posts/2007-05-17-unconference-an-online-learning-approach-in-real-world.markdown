@@ -6,10 +6,10 @@ slug: unconference-an-online-learning-approach-in-real-world
 title: Unconference - an online learning approach in real world
 wordpress_id: 37
 categories:
-- knowledge management
+- knowledge-management
 - collaboration
 - learning
-- social network
+- social-network
 - unconference
 - wiki
 ---

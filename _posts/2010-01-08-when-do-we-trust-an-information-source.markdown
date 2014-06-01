@@ -11,7 +11,7 @@ categories:
 - information
 - research
 - search
-- social network
+- social-network
 - trust
 ---
 

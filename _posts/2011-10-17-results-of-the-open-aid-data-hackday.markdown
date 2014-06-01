@@ -10,7 +10,7 @@ categories:
 - activism
 - ICT4D
 - hackday
-- opendata
+- open-data
 - vizualization
 ---
 

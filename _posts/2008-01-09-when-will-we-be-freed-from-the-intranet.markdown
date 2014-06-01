@@ -6,12 +6,12 @@ slug: when-will-we-be-freed-from-the-intranet
 title: When will we be freed from the intranet?
 wordpress_id: 204
 categories:
-- knowledge management
+- knowledge-management
 - culture
 - intranet
 - learning
 - network
-- social network
+- social-network
 ---
 
 **From a knowledge management perspective Intranets are vital but so far inefficient. On one side, it is the only place where organizational information can be decentralized access 24/7. On the other side, the web behind the firewall is mostly top-down driven and hierarchical structured. The results are that only a tiny little fraction of social networking potential is possible and ****that most Intranets ****literally hinder possibilities to share knowledge.**

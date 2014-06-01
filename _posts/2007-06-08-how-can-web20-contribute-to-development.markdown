@@ -9,7 +9,7 @@ categories:
 - ICT4D
 - collaboration
 - sharing
-- social network
+- social-network
 - web2fordev
 ---
 

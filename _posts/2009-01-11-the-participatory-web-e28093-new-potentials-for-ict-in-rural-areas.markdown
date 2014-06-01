@@ -8,9 +8,9 @@ wordpress_id: 305
 categories:
 - ICT4D
 - agriculture
-- local knowledge
+- local-knowledge
 - mobile
-- rural development
+- rural-development
 - web2fordev
 ---
 

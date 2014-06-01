@@ -6,10 +6,10 @@ slug: implications-of-knowlegde-sharing-through-the-web
 title: Implications of knowlegde sharing through the web
 wordpress_id: 85
 categories:
-- knowledge management
+- knowledge-management
 - learning
 - openness
-- organizational learning
+- organizational-learning
 - sharing
 - wiki
 ---

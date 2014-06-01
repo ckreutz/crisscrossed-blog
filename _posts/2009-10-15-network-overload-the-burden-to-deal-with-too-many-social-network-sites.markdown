@@ -6,11 +6,11 @@ slug: network-overload-the-burden-to-deal-with-too-many-social-network-sites
 title: 'Network overload: The burden to deal with too many social network sites'
 wordpress_id: 637
 categories:
-- knowledge management
+- knowledge-management
 - filter
-- overload
-- social bookmarking
-- social network
+- information-overload
+- social-bookmarking
+- social-network
 ---
 
 Next to information overload, probably comes network overload. Each day a new social network website appears. Another temptation for information and exchange, and again: new registration, same profile and more information to lock up. But with every new social network come along the questions: What about the filters? How do I get relevant information from my community? And, how do I manage all these memberships?

@@ -6,7 +6,7 @@ slug: bottom-knowledge-management-crowdsource-taxonomy
 title: 'Bottom up knowledge management: Crowdsource your taxonomy'
 wordpress_id: 1072
 categories:
-- knowledge management
+- knowledge-management
 - crowdsourcing
 - taxonomy
 ---

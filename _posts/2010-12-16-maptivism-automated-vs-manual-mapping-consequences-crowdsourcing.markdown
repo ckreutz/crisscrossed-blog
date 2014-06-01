@@ -8,7 +8,7 @@ wordpress_id: 1229
 categories:
 - activism
 - technology
-- digital recognition
+- digital-recognition
 - mapping
 - maptivism
 - openstreetmaps

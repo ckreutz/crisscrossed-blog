@@ -6,7 +6,7 @@ slug: the-private-vs-the-organizational-approach-to-web20
 title: 'The private vs. the organizational approach to web2.0 '
 wordpress_id: 199
 categories:
-- knowledge management
+- knowledge-management
 - collaboration
 - culture
 ---

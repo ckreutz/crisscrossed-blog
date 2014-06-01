@@ -11,8 +11,8 @@ categories:
 - agriculture
 - development
 - mobile
-- open source
-- rural development
+- open-source
+- rural-development
 ---
 
 As an outcome from [the virtual forum on mobile phones](http://www.e-agriculture.org/) by FAO – where I experienced a great exchange with mobile phone practitioners worldwide – I was interviewed by the e-agriculture.org forum. During the interview, I tried to summarize my observations and discussions around mobile  phones for development from the recent months. I have published the interview below:

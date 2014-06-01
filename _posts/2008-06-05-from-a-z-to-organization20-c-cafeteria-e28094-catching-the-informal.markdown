@@ -7,12 +7,12 @@ title: 'From A-Z to Organization2.0: C - Cafeteria — catching the informal'
 wordpress_id: 280
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - innovation
 - organization
 - productivity
-- social bookmarking
-- social network
+- social-bookmarking
+- social-network
 - tagging
 - work
 ---

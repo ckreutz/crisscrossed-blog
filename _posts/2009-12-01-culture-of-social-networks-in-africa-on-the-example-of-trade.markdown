@@ -9,10 +9,10 @@ categories:
 - ICT4D
 - africa
 - business
-- market information
+- market-information
 - mobile
-- social network
-- value chain
+- social-network
+- value-chain
 - web2fordev
 ---
 

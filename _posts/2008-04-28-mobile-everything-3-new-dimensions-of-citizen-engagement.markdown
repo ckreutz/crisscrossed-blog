@@ -8,9 +8,9 @@ wordpress_id: 261
 categories:
 - activism
 - ICT4D
-- citizen journalism
+- citizen-journalism
 - mobile
-- social network
+- social-network
 - twitter
 ---
 

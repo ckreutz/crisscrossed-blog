@@ -7,11 +7,12 @@ title: 'Frankfurt gestalten: Open data for transparency and engagement in local 
 wordpress_id: 894
 categories:
 - activism
-- citizen action
+- citizen-action
 - edemocracy
 - frankfurt
-- opendata
+- open-data
 - transparency
+- social-innovation
 ---
 
 [![](/images/fffm-gestalten.png)]()What are politician's decisions about your neighborhood? What does usually happen in my street and what could be done better? In Frankfurt, Germany, there is now a website called [Frankfurt-Gestalten.de](http://www.frankfurt-Gestalten.de ) (Create Frankfurt), which makes local political decision more transparent and offers a new space for citizen to participate.

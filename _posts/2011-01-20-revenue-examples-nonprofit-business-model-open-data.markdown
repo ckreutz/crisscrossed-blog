@@ -8,11 +8,11 @@ wordpress_id: 1269
 categories:
 - knowledge management
 - application
-- business model
+- business-model
 - food
 - mobile
 - nonprofit
-- opendata
+- open-data
 ---
 
 As open data becomes more popular, I wonder where are the nonprofit and business models for open data? It is clear that somehow open data needs to generate revenues, because it will not only work with voluntary efforts. I did a little research to find interesting approaches to do more with open data.

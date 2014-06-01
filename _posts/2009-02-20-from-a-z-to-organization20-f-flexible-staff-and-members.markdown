@@ -6,13 +6,13 @@ slug: from-a-z-to-organization20-f-flexible-staff-and-members
 title: 'From A-Z to Organization2.0: F - Flexible staff and members  '
 wordpress_id: 316
 categories:
-- knowledge management
+- knowledge-management
 - collaboration
 - future
 - network
 - nonprofit
 - organization
-- project management
+- project-management
 - stakeholder
 - work
 ---

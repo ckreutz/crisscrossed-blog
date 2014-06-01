@@ -6,10 +6,10 @@ slug: good-practice-group-blogging-in-an-organization
 title: 'Good practice: Group blogging in an organization'
 wordpress_id: 86
 categories:
-- knowledge management
+- knowledge-management
 - blogging
 - collaboration
-- organizational learning
+- organizational-learning
 - sharing
 ---
 

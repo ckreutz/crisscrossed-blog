@@ -7,12 +7,12 @@ title: 'Metrics for Social networks: What does really happen?'
 wordpress_id: 317
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - learning
 - metrics
 - network
 - roi
-- social network
+- social-network
 - statistics
 ---
 

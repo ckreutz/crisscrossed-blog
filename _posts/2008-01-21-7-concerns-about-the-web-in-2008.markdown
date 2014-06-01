@@ -7,7 +7,7 @@ title: 7 concerns about the web in 2008
 wordpress_id: 210
 categories:
 - ICT4D
-- knowledge management
+- knowledge-management
 - culture
 - language
 - network

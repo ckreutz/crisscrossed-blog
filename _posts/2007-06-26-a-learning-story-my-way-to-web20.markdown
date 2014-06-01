@@ -7,13 +7,13 @@ title: 'A learning story: My way to web2.0'
 wordpress_id: 72
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - blogging
 - feed
 - learning
 - network
 - sharing
-- social bookmarking
+- social-bookmarking
 - tagging
 ---
 

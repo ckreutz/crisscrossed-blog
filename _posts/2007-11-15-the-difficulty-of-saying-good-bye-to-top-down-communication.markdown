@@ -7,9 +7,9 @@ title: 'The difficulty of saying good bye to top-down communication '
 wordpress_id: 183
 categories:
 - communication
-- knowledge management
-- open source
-- public relation
+- knowledge-management
+- open-source
+- public-relation
 ---
 
 Last Tuesday I took part on a [discussion round](http://www.dialoq-nrw.de/jetzt-podium.php) in Düsseldorf, Germany. It was about the changing of the communication of enterprises due to web2.0. Reflecting the evening, I find it quite interesting what it might have meant in terms of the new web and its potential users in Germany. **To put ahead, I share the opinion that web2.0 has reached Germany quite late **-- especially if you take a look at the enterprise sector. This event was mainly directed towards external communication or public relation experts, and not so focused on knowledge sharing approaches. Next to me sat [Thomas Knüwer](http://blog.handelsblatt.de/indiskretion/), a journalist from the the [German Handelsblatt](http://www.handelsblatt.com) and Marc Pohlmann, who eagerly talked about direct one to one marketing and Wieland Stützel from Frankfurt airport.

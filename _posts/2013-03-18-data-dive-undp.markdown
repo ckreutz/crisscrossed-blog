@@ -6,11 +6,11 @@ image:
 lang: en
 caption: ''
 categories:
-- big data
+- big-data
 - poverty
-- closed data
+- closed-data
 - privacy
-- data analysis
+- data-analysis
 ---
 
 **[Crossposted from the Voices from Eurasia Blog by UNDP](http://europeandcis.undp.org/blog/2013/03/21/data-dive-measuring-poverty-through-real-time-data/)**

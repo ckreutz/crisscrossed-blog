@@ -9,11 +9,11 @@ categories:
 - activism
 - ICT4D
 - application
-- consumer rights
+- consumer-rights
 - environnment
 - mobile
 - mobileweb
-- social change
+- social-change
 ---
 
 One of the major shift is not the growth of mobile phones, but its transformations to a multi-purpose tool and its ubiquitous nature. Being it a calculator, a translator or a broadcasting, sensing or analyzing medium – the mobile phone will affect much more daily life than personal computers did. Antonella Pastore looks at the latest ITU-report and asks "[It’s a mobile world… and the end of the Web as we know it?](http://ictkm.wordpress.com/2009/03/04/mobile-world/)"

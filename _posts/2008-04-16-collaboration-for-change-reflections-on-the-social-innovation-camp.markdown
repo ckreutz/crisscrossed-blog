@@ -13,8 +13,9 @@ categories:
 - creativity
 - nonprofit
 - sicamp08
-- social entrepreneur
-- social network
+- social-entrepreneur
+- social-network
+- social-innovation
 ---
 
 [![2395794648_745d13bd19.jpg](/images/2395794648_745d13bd19.jpg)](http://www.flickr.com/photos/paulmiller/2395794648/)A bit late I write my feedback from the [Social Innovation Camp](http://www.sicamp.org/) (sicamp08), which luckily had the chance to join. I first heard about it from [Dan McQuillan](http://www.internetartizans.co.uk/speed_startups_for_social_impact), who is one of the initiators and also [has a great blog](http://www.internetartizans.co.uk/). It was a fascinating weekend with a real kind of [Barcamp](http://barcamp.org/) atmosphere, or as David Wilcox says, the sicamp08 "[will make a big difference in the way we think about doing good stuff with new stuff.](http://socialreporter.wordpress.com/2008/04/09/social-innovation-camp-imitations-please/)"

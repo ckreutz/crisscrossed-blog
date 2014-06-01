@@ -6,14 +6,14 @@ slug: reach-your-audience-%e2%80%93-dont-talk-about-web-20-or-social-media
 title: Reach your audience – don't talk about Web 2.0 or social media
 wordpress_id: 299
 categories:
-- knowledge management
+- knowledge-management
 - blogging
 - inspiration
-- personal knowledge managament
+- personal-knowledge-managament
 - sharing
-- social bookmarking
-- social network
-- social software
+- social-bookmarking
+- social-network
+- social-software
 - tagging
 ---
 

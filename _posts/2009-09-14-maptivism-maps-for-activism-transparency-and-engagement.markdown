@@ -13,6 +13,7 @@ categories:
 - openstreetmaps
 - transparency
 - web2fordev
+- geo-data
 ---
 
 It is estimated as much as 80% of data contains geo-referenced information. So, a lot of information can be displayed through maps. Digital maps allow easy ways to present large amounts of data and reduce complexity. [Activists have found creative ways to use maps](http://www.crisscrossed.net/2008/05/05/6-innovative-grassroot-mashups-for-transparency/), but also development organizations have to deal with a lot of spatial information. Using geo-referenced through maps can improve transparency, and yet not so many organizations use it.

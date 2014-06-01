@@ -6,10 +6,10 @@ slug: the-many-ning-failures-knowledge-sharing-in-professional-circles
 title: 'The many Ning failures: Knowledge sharing in professional circles '
 wordpress_id: 1011
 categories:
-- knowledge management
-- informal exchange
+- knowledge-management
+- informal-exchange
 - learning
-- social network
+- social-network
 ---
 
 For years, I have heard that the web is becoming a platform, where one can easily use a website as a tool box.  [Community sites](http://en.wikipedia.org/wiki/List_of_social_networking_websites) installed just with a few clicks and knowledge sharing communities are on their way. But as in most cases, there is always a hard point, and in this case is to get people involved. Although technology plays a less important role, it is still a critical factor whether people like to join and engage. Many ready-made-website fail to deliver the most important thing: To help people find stuff and help them exchange.

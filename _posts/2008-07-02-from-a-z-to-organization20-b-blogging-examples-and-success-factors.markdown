@@ -6,14 +6,14 @@ slug: from-a-z-to-organization20-b-blogging-examples-and-success-factors
 title: 'From A-Z to Organization2.0: B - Blogging examples and success factors '
 wordpress_id: 279
 categories:
-- knowledge management
+- knowledge-management
 - blogging
 - culture
 - network
 - organization
 - participation
-- project management
-- public relation
+- project-management
+- public-relation
 ---
 
 [](http://www.crisscrossed.net/2008/05/25/a-adaptation-from-a-z-%e2%80%94-the-long-trail-of-web20-in-an-organization/)**[A](http://www.crisscrossed.net/2008/05/25/a-adaptation-from-a-z-%e2%80%94-the-long-trail-of-web20-in-an-organization/)** [**B**](http://www.crisscrossed.net/2008/07/02/from-a-z-to-organization20-b-blogging-examples-and-success-factors/) **[C](http://www.crisscrossed.net/2008/06/05/from-a-z-to-organization20-c-cafeteria-%e2%80%94-catching-the-informal/)** D E F G H I J K L M N O P Q R S T [**U**](http://www.crisscrossed.net/2008/08/08/from-a-z-to-organization20-u-usability-higher-motiviation/) V W X Y Z

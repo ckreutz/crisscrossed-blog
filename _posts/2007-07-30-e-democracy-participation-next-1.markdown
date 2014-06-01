@@ -7,8 +7,8 @@ title: 'E-democracy: participation next? (1)'
 wordpress_id: 98
 categories:
 - activism
-- knowledge management
-- civil society
+- knowledge-management
+- civil-society
 - e-democracy
 - participation
 - politics

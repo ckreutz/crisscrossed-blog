@@ -7,11 +7,11 @@ title: 'Digital divide: Connectivity and the different dimensions of literacy'
 wordpress_id: 207
 categories:
 - ICT4D
-- knowledge management
+- knowledge-management
 - connectivity
 - learning
 - media
-- social media
+- social-media
 - technology
 ---
 

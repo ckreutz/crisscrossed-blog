@@ -7,11 +7,11 @@ title: 'The limits to filter feeds and gain more relevance '
 wordpress_id: 236
 categories:
 - ICT4D
-- knowledge management
+- knowledge-management
 - feed
 - ict4dfeed
 - rss
-- social media
+- social-media
 - technology
 ---
 

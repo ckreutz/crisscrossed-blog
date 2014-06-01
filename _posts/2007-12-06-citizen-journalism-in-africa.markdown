@@ -9,8 +9,8 @@ categories:
 - communication
 - africa
 - blogging
-- citizen journalism
-- human rights
+- citizen-journalism
+- human-rights
 - media
 - mobile
 ---

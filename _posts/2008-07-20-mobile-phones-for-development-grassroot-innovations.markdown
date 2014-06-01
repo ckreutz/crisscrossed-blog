@@ -12,7 +12,7 @@ categories:
 - grassroots
 - km4dev
 - mobile
-- open source
+- open-source
 - twitter
 ---
 

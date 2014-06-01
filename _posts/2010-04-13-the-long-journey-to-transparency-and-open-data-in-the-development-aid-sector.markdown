@@ -6,7 +6,7 @@ slug: the-long-journey-to-transparency-and-open-data-in-the-development-aid-sect
 title: The long journey to transparency and open data in the development aid sector
 wordpress_id: 931
 categories:
-- knowledge management
+- knowledge-management
 - development
 - opendata
 - transparency

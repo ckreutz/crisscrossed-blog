@@ -7,7 +7,7 @@ title: 'A personal six month experiment: Pros & cons of digital reading '
 wordpress_id: 953
 categories:
 - books
-- digital publishing
+- digital-publishing
 - e-reader
 - ebooks
 - reading

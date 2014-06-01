@@ -14,7 +14,7 @@ categories:
 - openness
 - organization
 - web2fordev
-- wisdom of crowd
+- wisdom-of-crowd
 ---
 
 Some days ago, I had a talk with a colleague from another development organization about web2fordev. We were asking whether web2.0 can really make a difference in development work? We both agreed it can, but we were unsure whether the organizational culture has to change first or the external pressure will push for openness?

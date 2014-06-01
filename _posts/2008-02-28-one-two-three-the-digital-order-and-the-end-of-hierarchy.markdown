@@ -6,7 +6,7 @@ slug: one-two-three-the-digital-order-and-the-end-of-hierarchy
 title: 'One, Two, Three: The digital order and the end of hierarchy'
 wordpress_id: 221
 categories:
-- knowledge management
+- knowledge-management
 - network
 - tagging
 ---

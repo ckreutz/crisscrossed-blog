@@ -10,12 +10,13 @@ categories:
 - communication
 - conference
 - e-democracy
-- open source
+- open-source
 - participation
 - politics
 - privacy
 - republica
 - sicamp08
+- social-innovation
 ---
 
 **The German vs. the British websphere**

@@ -9,7 +9,7 @@ categories:
 - ICT4D
 - learning
 - mobile
-- rural development
+- rural-development
 - sms
 - trust
 ---

@@ -8,7 +8,7 @@ wordpress_id: 32
 categories:
 - ICT4D
 - business
-- civil society
+- civil-society
 - computer
 - environment
 ---

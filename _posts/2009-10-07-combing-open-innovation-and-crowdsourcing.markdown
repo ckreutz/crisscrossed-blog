@@ -10,6 +10,7 @@ categories:
 - crowdsourcing
 - innovation
 - peer-to-peer
+- open-innovation
 ---
 
 At the [Socialcamp in Berlin](http://www.socialcamp-berlin.de/) last weekend, a session dealt with "social business 2.0," which turned out to be an intense and inspiring discussion on open innovation for [appropriate technology](http://en.wikipedia.org/wiki/Appropriate_technology) through crowdsourcing – a sentence with many buzzwords. Essentially, many questions were raised, but among those were: How can innovative solutions and their implementation be coordinated through the web? And, what is the role of the web and which are its limitations? I hope this post may trigger some answers in the comments!

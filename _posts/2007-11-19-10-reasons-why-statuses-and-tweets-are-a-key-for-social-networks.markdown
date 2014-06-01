@@ -10,7 +10,7 @@ categories:
 - mobile
 - openness
 - sharing
-- social network
+- social-network
 ---
 
 For the past weeks I have been experimenting with Twitter and Facebook. I have checked out the value of statuses (Facebook) and tweets (Twitter) over these two social network tools. For those of you who do not know, Facebook is a social network platform which lets one not only to add friends and content, but also add an actual status. Equal to Twitter, it [![Twitter Poster](/images/twitterposter.jpg)](http://www.twitterposter.com) allows only a limited number of characters and it is often used to express emotions, things you do, or raise questions. I wrote some while ago a post questioning whether Twitter makes sense or not? I have to say I have changed my opinion at a certain extent and now I believe Twitter and statuses can really [enhance your social network experience](http://www.elsua.net/2007/03/15/10-reasons-why-twitter-will-help-improve-your-already-existing-social-networks/).

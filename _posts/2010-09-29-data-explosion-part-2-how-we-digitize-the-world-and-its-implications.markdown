@@ -9,7 +9,7 @@ categories:
 - technology
 - access
 - data
-- opendata
+- open-data
 - privacy
 - RFID
 - sensor

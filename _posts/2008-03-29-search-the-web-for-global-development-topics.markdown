@@ -6,10 +6,10 @@ slug: search-the-web-for-global-development-topics
 title: Search the web for global development topics
 wordpress_id: 253
 categories:
-- knowledge management
+- knowledge-management
 - development
 - rss
-- social bookmarking
+- social-bookmarking
 - web2fordev
 ---
 

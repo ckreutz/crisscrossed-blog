@@ -6,10 +6,10 @@ slug: micro-voluntarism-a-new-form-of-international-cooperation
 title: Micro-voluntarism a new form of international cooperation
 wordpress_id: 358
 categories:
-- knowledge management
+- knowledge-management
 - development
 - donation
-- international cooperation
+- international-cooperation
 - organization
 - peer-to-peer
 - volunteering

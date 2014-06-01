@@ -7,7 +7,7 @@ title: Your address book is the future of social networks
 wordpress_id: 991
 categories:
 - technology
-- personal information
+- personal-information
 - privacy
 - social network
 ---

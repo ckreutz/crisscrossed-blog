@@ -6,10 +6,10 @@ slug: learn-visualization-limitations-social-media
 title: Where do we learn - visualizing the limitations of social media
 wordpress_id: 1161
 categories:
-- knowledge management
+- knowledge-management
 - access
 - learning
-- social media
+- social-media
 - visualization
 ---
 

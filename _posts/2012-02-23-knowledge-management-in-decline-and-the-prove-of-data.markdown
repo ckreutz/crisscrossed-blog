@@ -6,7 +6,7 @@ slug: knowledge-management-in-decline-and-the-prove-of-data
 title: 'Knowledge management in decline and the prove of data'
 lang: en
 categories:
-- knowledge management
+- knowledge-management
 ---
 
 Knowledge management is in decline or even once again dead according [some writers](http://www.cmswire.com/cms/social-business/knowledge-management-in-2012-probably-dead-014352.php). Knowledge management has probably been a misleading concept ever since the times when we used to believe we could store our wisdom in a little neat database. And that's also probably why document management is also plunging.

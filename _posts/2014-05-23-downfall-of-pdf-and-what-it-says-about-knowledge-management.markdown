@@ -5,8 +5,8 @@ image: "worldbank-pub.png"
 lang: en
 caption: 'World Bank Publications'
 categories:
-- open data
-- foreign aid
+- open-data
+- knowledge-management
 ---
 
 A great article from the Washington post, shared by Martina Hetzel via the [KM4DEV mailing](http://wiki.km4dev.org/Mailing_List_Environment) list, has caught my attention. The article, titled ["The solutions to all our problems may be buried in PDFs that nobody reads"](http://www.washingtonpost.com/blogs/wonkblog/wp/2014/05/08/the-solutions-to-all-our-problems-may-be-buried-in-pdfs-that-nobody-reads/), cites a [World Bank report](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/01/000158349_20140501153249/Rendered/PDF/WPS6851.pdf) and emphasizes on its knowledge management issues.

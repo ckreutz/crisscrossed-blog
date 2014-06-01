@@ -7,12 +7,12 @@ title: 10 arguments for web2.0 in an organization
 wordpress_id: 130
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - feed
 - network
 - openness
-- social bookmarking
-- social network
+- social-bookmarking
+- social-network
 - wiki
 ---
 

@@ -9,8 +9,8 @@ lang: en
 categories:
 - communication
 - technology
-- big data
-- opendata
+- big-data
+- open-data
 - openness
 ---
 

@@ -9,7 +9,7 @@ categories:
 - ICT4D
 - africa
 - collaboration
-- open source
+- open-source
 - participation
 ---
 

@@ -6,11 +6,11 @@ slug: km4dev-workshop-2007-peer-learning-as-its-best
 title: KM4DEV workshop 2007 - peer learning as its best
 wordpress_id: 68
 categories:
-- knowledge management
+- knowledge-management
 - facilitation
 - km4dev
 - learning
-- social bookmarking
+- social-bookmarking
 - wiki
 ---
 

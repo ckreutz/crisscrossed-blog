@@ -6,10 +6,10 @@ slug: the-web-comes-closer-the-magic-of-tag-clouds
 title: The web comes closer - the magic of tag clouds
 wordpress_id: 150
 categories:
-- knowledge management
+- knowledge-management
 - network
-- social bookmarking
-- social network
+- social-bookmarking
+- social-network
 - tagging
 ---
 

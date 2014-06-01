@@ -5,8 +5,8 @@ image: "openaiddata.png"
 lang: en
 caption: 'openaiddata.org'
 categories:
-- open data
-- foreign aid
+- open-data
+- foreign-aid
 ---
 
 Open data is a great chance to make development aid not only more transparent, but also more efficient. Having been an aid worker for a while in Egypt and Germany myself, I could see how much information is needed. It is often very difficult to get even an overview of who is doing what. Now having the opportunity to look into various development organizations as a consultant I have seen many bottlenecks and the potential open data has to make development organizations more efficient. Open data will allow organizations to get involved and collaborate in new ways.

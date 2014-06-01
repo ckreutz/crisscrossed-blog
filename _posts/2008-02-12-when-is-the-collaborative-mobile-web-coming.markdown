@@ -11,7 +11,7 @@ categories:
 - learning
 - mobile
 - rss
-- social network
+- social-network
 ---
 
 In Phnom Penh, as everywhere else, the mobile phone is a must have accessory for the youth, and when they get together, they enjoy bluetoothing; or so [Thomas Wanhoff ](http://wanhoffs-cambodia.blogspot.com/)told me during my stay in Cambodia. This basically means that they share ringtones, images, videos and games through their mobile phones. The other day I read that last year a quarter of Internet traffic was over the mobile phone. I myself use my mobile to access the web more and more, but I am still not completely satisfied since I do not get to interact easily enough through the social web. However, the iphone has really changed something in that regard.

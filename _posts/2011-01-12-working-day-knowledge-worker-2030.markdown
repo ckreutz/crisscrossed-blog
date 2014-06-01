@@ -6,7 +6,7 @@ slug: working-day-knowledge-worker-2030
 title: A working-day of a knowledge worker in 2030
 wordpress_id: 1262
 categories:
-- knowledge management
+- knowledge-management
 - creativity
 - future
 - innovation

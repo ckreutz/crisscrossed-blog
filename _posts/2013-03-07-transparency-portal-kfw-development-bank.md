@@ -6,9 +6,9 @@ image: country-kfw.png
 lang: en
 caption: 'Country page of the new transparency portal'
 categories:
-- open data
-- open development
-- open aid
+- open-data
+- open-development
+- open-aid
 - data-portal
 ---
 

@@ -6,11 +6,11 @@ slug: npk4dev-%e2%80%93-a-collaborative-tagging-experience
 title: NPK4DEV – a collaborative tagging experience
 wordpress_id: 63
 categories:
-- knowledge management
-- community of practice
+- knowledge-management
+- community-of-practice
 - npk4dev
 - sharing
-- social bookmarking
+- social-bookmarking
 - tagging
 ---
 

@@ -8,11 +8,11 @@ wordpress_id: 217
 categories:
 - communication
 - ICT4D
-- citizen journalism
+- citizen-journalism
 - culture
 - development
 - network
-- open source
+- open-source
 - openness
 - poverty
 ---

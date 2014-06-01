@@ -6,7 +6,7 @@ slug: spoil-the-user-why-are-not-always-the-wysiwyg-editors-the-right-way
 title: Spoil the user? Why are not always the WYSIWYG Editors the right way?
 wordpress_id: 254
 categories:
-- knowledge management
+- knowledge-management
 - collaboration
 - conference
 - participation

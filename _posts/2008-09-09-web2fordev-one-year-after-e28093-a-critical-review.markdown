@@ -9,12 +9,12 @@ categories:
 - ICT4D
 - development
 - innovation
-- local knowledge
+- local-knowledge
 - mashup
 - network
 - organization
 - web2fordev
-- wisdom of crowd
+- wisdom-of-crowd
 ---
 
 Most of my readers know how enthusiastic I am about the potential that Internet has; being this either social web, social media, web2.0 or however you want to name it. But if I look back at what has happened in the development field during the last year, I have to say that frankly I am quite disappointed about how little has been happening. I expected the disruptive potential to be more exploited. Particularly in development organizations hardly anything has changed, and the wave of open networks, transparency or the two way conversation is rather a ripple.

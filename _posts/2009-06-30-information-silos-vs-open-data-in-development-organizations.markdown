@@ -6,9 +6,9 @@ slug: information-silos-vs-open-data-in-development-organizations
 title: Information silos vs. open data in development organizations
 wordpress_id: 448
 categories:
-- knowledge management
+- knowledge-management
 - development
-- opendata
+- open-data
 - openness
 ---
 

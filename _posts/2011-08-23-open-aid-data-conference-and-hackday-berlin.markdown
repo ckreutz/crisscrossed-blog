@@ -7,7 +7,7 @@ title: Open Aid Data conference and Hackday Berlin
 wordpress_id: 1354
 categories:
 - ICT4D
-- opendata
+- open-data
 ---
 
 The past year I have written on many occasions about the [potential of open data](http://www.crisscrossed.net/tag/opendata/) and why it is much needed particular for the development aid sector. So I am happy to announce a Hackday I am organizing as part of the Open Knowledge Foundation Germany. The Hackday is linked with the [Open Aid Data conference](http://openaiddata.de) held in Berlin, which is organized by [Openaid.de](http://www.openaid.de/), Boell-Foundation among others. [Click here for full further information](http://openaiddata.de).

@@ -8,7 +8,7 @@ wordpress_id: 118
 categories:
 - activism
 - links
-- civil society
+- civil-society
 - e-democracy
 - participation
 - politics

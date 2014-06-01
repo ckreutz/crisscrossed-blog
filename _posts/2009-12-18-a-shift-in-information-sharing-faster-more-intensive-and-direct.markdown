@@ -7,11 +7,10 @@ title: 'A shift in information sharing: Faster, more intensive and direct'
 wordpress_id: 800
 categories:
 - communication
-- knowledge management
-- coll
+- knowledge-management
 - collaboration
 - sharing
-- social network
+- social-network
 - twitter
 ---
 

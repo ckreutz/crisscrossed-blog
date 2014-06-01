@@ -13,7 +13,7 @@ categories:
 - blogging
 - connectivity
 - mobile
-- rural development
+- rural-development
 - web2fordev
 ---
 

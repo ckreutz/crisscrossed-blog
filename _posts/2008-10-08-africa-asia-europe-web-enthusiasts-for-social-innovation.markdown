@@ -9,7 +9,7 @@ categories:
 - activism
 - ICT4D
 - barcamp
-- social change
+- social-change
 ---
 
 The other day I watched some videos from the Web2.0 Expo in New York. I have to say I liked most presentations, but at the same time I was bored that it is all too often about business and just another start up. Therefore, I was surprised to hear Tim O'Reilly, who coined the concept  Web2.0,  [made a very different and even more interesting presentation](http://radar.oreilly.com/2008/09/web-meets-world.html). He was demanding that it is about time to start using the web for social change and do good. This comes right in the moment when events are happening all over the place to make a difference.

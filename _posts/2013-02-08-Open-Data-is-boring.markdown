@@ -6,9 +6,9 @@ image: boring-data.png
 lang: en
 caption: 'Picture above: The data set "Enterprises using the Internet for interaction with public authorities" from the EU Data portal'
 categories:
-- open data  
-- app-development 
-- geo data
+- open-data
+- app-development
+- geo-data
 - data-portal
 ---
 

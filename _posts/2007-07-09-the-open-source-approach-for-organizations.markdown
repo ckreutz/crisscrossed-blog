@@ -7,10 +7,10 @@ title: The open source approach for organizations
 wordpress_id: 83
 categories:
 - knowledge management
-- civil society
+- civil-society
 - learning
-- open source
-- social network
+- open-source
+- social-network
 ---
 
 [![](http://ec1.images-amazon.com/images/P/0787984442.01._SCMZZZZZZZ_.jpg)](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMomentum-Igniting-Social-Change-Connected%2Fdp%2F0787984442%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1180784897%26sr%3D1-1&tag=crisscrossed-20&linkCode=ur2&camp=1789&creative=9325)I just finished reading [Allison Fine](http://web.mac.com/allisonfine1/iWeb/Allison%20Fine/A.%20Fine%20Blog/A.%20Fine%20Blog.html)'s book "Momentum igniting social change in the Connected Age." I really liked it because it explains in detail how we should reconsider cooperation and external communication in an organizational context. Fine speaks mainly of civil society such as activist organizations but I think her thoughts can be applied for all kinds of nonprofit organizations (the authors of wikinomics would probably say the same for enterprises). She argues in her book that we have just started to exploit the full network potential and elaborates what the difference for the Connected Age is.

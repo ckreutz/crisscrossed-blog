@@ -6,9 +6,9 @@ slug: challenges-options-data-open
 title: The challenges and options to get non open data
 wordpress_id: 1128
 categories:
-- knowledge management
-- open access
-- open data
+- knowledge-management
+- open-access
+- open-data
 - programming
 - visualization
 ---

@@ -11,8 +11,8 @@ categories:
 - africa
 - geospatial
 - mapping
-- open source
-- opendata
+- open-source
+- open-data
 - participation
 - projects
 - visualization

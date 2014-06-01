@@ -6,9 +6,9 @@ image: karte-offene-eh.png
 lang: en
 caption: 'Mapping German developing aid flows'
 categories:
-- open data  
-- open aid data
-- development aid
+- open-data
+- open-aid-data
+- development-aid
 - transparency
 ---
 

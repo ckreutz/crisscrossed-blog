@@ -6,10 +6,10 @@ slug: metrics-what-is-the-impact-of-social-media-on-organizations
 title: 'Metrics: What is the impact of social media on organizations?'
 wordpress_id: 216
 categories:
-- knowledge management
+- knowledge-management
 - impact
 - organization
-- social media
+- social-media
 ---
 
 Getting social media or web2.0 into an organization is still not an easy task. The skepticism is often as high as the enthusiasm. If you can prove the benefit of social media in an organization, then you have better cards to go forward. I have been experimenting for a while with blogs and wikis in an organizational context, therefore I thought of possible metrics.

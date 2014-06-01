@@ -9,7 +9,7 @@ categories:
 - ICT4D
 - agriculture
 - mobile
-- rural development
+- rural-development
 ---
 
 Next week starts a two-week-long virtual forum on mobile telephony in rural areas, put together by the FAO through the e-agriculture initiative. The forum brings together people from all around the world to dicuss the potential of mobile phones particularly for rural development, but probably also various other topics around this all-purpose tool. I have been invited to join as one of the subject matters experts – not so sure what exactly this means, but I am looking forward to discussing the topic during the next two weeks on the virtual forum. If you are interested [please join the dicussion](http://www.e-agriculture.org/550.html).

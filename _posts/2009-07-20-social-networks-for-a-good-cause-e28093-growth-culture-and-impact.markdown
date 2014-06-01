@@ -9,9 +9,9 @@ categories:
 - activism
 - cause
 - collaboration
-- development 2.0
-- social change
-- social network
+- development-2.0
+- social-change
+- social-network
 - web2fordev
 ---
 

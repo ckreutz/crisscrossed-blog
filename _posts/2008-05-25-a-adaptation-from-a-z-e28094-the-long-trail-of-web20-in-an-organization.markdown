@@ -7,10 +7,10 @@ title: 'A - Adaptation: From A-Z — the long trail of web2.0 in an organization
 wordpress_id: 276
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - culture
 - organization
-- social media
+- social-media
 - wiki
 - work
 ---

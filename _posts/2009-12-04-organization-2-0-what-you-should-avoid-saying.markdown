@@ -6,9 +6,8 @@ slug: organization-2-0-what-you-should-avoid-saying
 title: Organization 2.0 - what you should avoid saying
 wordpress_id: 777
 categories:
-- knowledge management
-
-- change management
+- knowledge-management
+- change-management
 - humour
 - organization
 ---

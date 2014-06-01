@@ -6,7 +6,7 @@ slug: feed-mashups-rss-1-rss-2-rss-unlimited
 title: 'Feed Mashups: RSS 1 + RSS 2 = RSS unlimited'
 wordpress_id: 126
 categories:
-- knowledge management
+- knowledge-management
 - feed
 ---
 

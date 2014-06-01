@@ -9,7 +9,7 @@ categories:
 - ICT4D
 - geodata
 - mapping
-- open data
+- open-data
 ---
 
 Google Maps has been an incredible service in the past years. Not only it was Google's engineers, who invented the slippy map, which revolutionized digital maps, but its approach to offer such a service for free and shock competitors with a free routing service. Google has a tremendous overview on all activities on the Internet; billions of search queries everyday say a lot about people's personalities. With analytics in websites, Google tracks people's paths from one page to the next.

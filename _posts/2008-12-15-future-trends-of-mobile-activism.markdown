@@ -13,7 +13,7 @@ categories:
 - mobile
 - participation
 - sms
-- social network
+- social-network
 - software
 ---
 

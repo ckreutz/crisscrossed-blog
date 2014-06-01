@@ -6,8 +6,8 @@ slug: an-email-alternative-four-dimension-of-feeds-rss-in-organizations
 title: ' An Email alternative: four dimension of feeds (RSS) in organizations'
 wordpress_id: 108
 categories:
-- knowledge management
-- community of practice
+- knowledge-management
+- community-of-practice
 - feed
 - sharing
 - wiki

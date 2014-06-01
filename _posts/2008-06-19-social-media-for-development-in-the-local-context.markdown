@@ -6,11 +6,11 @@ slug: social-media-for-development-in-the-local-context
 title: Social media for development in the local context
 wordpress_id: 273
 categories:
-- knowledge management
+- knowledge-management
 - development
 - impact
-- local knowledge
-- social media
+- local-knowledge
+- social-media
 ---
 
 Sorry for not having post anything recently, but I have had the opportunity to participate in the [Socialcamp](http://socialcamp.mixxt.de/) and KM4DEV conference, which I will shortly blog about.

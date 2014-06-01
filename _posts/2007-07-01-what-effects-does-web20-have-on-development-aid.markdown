@@ -7,7 +7,7 @@ title: What effects does web2.0 have on development aid?
 wordpress_id: 69
 categories:
 - ICT4D
-- civil society
+- civil-society
 - development
 - network
 - web2fordev

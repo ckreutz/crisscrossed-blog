@@ -4,9 +4,8 @@ date: 2007-10-17 22:22:42
 layout: post
 slug: web20-knowledge-sharing-and-it-departments
 title: Web2.0, knowledge sharing and IT departments
-wordpress_id: 168
 categories:
-- knowledge management
+- knowledge-management
 - sharing
 - technology
 ---

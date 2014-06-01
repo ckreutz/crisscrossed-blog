@@ -7,12 +7,12 @@ title: What is enterprise2.0? Five pillars for efficient knowledge sharing
 wordpress_id: 53
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - blogging
 - feed
 - network
 - sharing
-- social bookmarking
+- social-bookmarking
 - tagging
 - wiki
 ---

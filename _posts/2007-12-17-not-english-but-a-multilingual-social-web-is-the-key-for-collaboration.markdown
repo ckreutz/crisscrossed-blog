@@ -11,7 +11,7 @@ categories:
 - culture
 - environment
 - language
-- social network
+- social-network
 - web2fordev
 ---
 

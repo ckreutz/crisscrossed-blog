@@ -9,7 +9,7 @@ categories:
 - activism
 - mapping
 - maptivism
-- opendata
+- open-data
 - transparency
 ---
 

@@ -11,9 +11,9 @@ categories:
 - blogging
 - computer
 - connectivity
-- open source
+- open-source
 - sharing
-- social network
+- social-network
 - web2fordev
 - wiki
 ---

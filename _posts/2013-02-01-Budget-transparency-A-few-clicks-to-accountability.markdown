@@ -6,9 +6,9 @@ image: frankfurt-budget.png
 lang: en
 caption: "Budget vizualization for the citiy of Frankfurt" 
 categories:
-- open data  
-- open budget 
-- finance data
+- open-data
+- open-budget
+- finance-data
 - transparency
 - accountability
 ---

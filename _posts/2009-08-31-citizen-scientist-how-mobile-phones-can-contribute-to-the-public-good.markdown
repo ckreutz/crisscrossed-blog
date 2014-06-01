@@ -6,8 +6,8 @@ slug: citizen-scientist-how-mobile-phones-can-contribute-to-the-public-good
 title: 'Citizen scientist - how mobile phones can contribute to the public good   '
 wordpress_id: 570
 categories:
-- knowledge management
-- citizen action
+- knowledge-management
+- citizen-action
 - crowdsourcing
 - mapping
 - mobile

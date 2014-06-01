@@ -7,7 +7,7 @@ title: Development aid 2.0
 wordpress_id: 161
 categories:
 - ICT4D
-- civil society
+- civil-society
 - development
 - participation
 - web2fordev

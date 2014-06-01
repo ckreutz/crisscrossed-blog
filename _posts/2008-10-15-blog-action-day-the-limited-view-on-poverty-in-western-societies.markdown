@@ -6,7 +6,7 @@ slug: blog-action-day-the-limited-view-on-poverty-in-western-societies
 title: 'Blog action day: The limited view on poverty in Western societies'
 wordpress_id: 294
 categories:
-- knowledge management
+- knowledge-management
 - access
 - environment
 - justic

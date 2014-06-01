@@ -9,7 +9,7 @@ categories:
 - activism
 - ICT4D
 - blogging
-- civil society
+- civil-society
 - network
 - politics
 ---

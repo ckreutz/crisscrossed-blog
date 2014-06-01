@@ -10,9 +10,9 @@ categories:
 - ICT4D
 - crowdsourcing
 - environment
-- Internet of Things
+- Internet-of-Things
 - RFID
-- Supply chain
+- Supply-chain
 - transparency
 ---
 

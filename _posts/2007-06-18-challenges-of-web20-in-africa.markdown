@@ -9,7 +9,7 @@ categories:
 - ICT4D
 - africa
 - blogging
-- civil society
+- civil-society
 - connectivity
 - mobileweb
 - npk4dev

@@ -9,7 +9,7 @@ categories:
 - ICT4D
 - connectivity
 - mobile
-- rural development
+- rural-development
 ---
 
 Despite the exciting potentials about new technologies for development and, particularly, the latest hype on mobile phones, it is necessary not to loose out sight of the incredible challenges towards Internet access or extended mobile usage. I have collected over the past months some interesting facts and figures from a variety of people, which show that ICT is still an incredibly scarce resource and can also have contrary effects leading to more poverty.

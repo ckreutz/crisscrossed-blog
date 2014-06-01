@@ -7,11 +7,11 @@ title: Sun blogging turns communication upside down
 wordpress_id: 45
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - blogging
 - business
-- civil society
-- community of practice
+- civil-society
+- community-of-practice
 ---
 
 Sun Microsystems' blogging approach changes the company's communication and knowledge management. In [wikinomics](http://www.crisscrossed.net/2007/05/23/wikinomics-being-open-peering-sharing-and-acting-globally/) I encountered [Johan Schwartz](http://blogs.sun.com/jonathan), the CEO of Sun, with his unusual approach of not being him the only one blogging but also his colleagues, whom he encourages to blog publicly about their work and anything else they are interested in. His concept has an outcome of about 3000 bloggers (around 10% of all employees).

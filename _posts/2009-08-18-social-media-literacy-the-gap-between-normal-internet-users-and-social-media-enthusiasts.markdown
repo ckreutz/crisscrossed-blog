@@ -7,9 +7,9 @@ title: 'Social media literacy: The gap between normal Internet users and social 
   enthusiasts '
 wordpress_id: 520
 categories:
-- knowledge management
+- knowledge-management
 - literacy
-- social media
+- social-media
 - tools
 ---
 

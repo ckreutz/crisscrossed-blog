@@ -8,9 +8,9 @@ wordpress_id: 145
 categories:
 - ICT4D
 - conference
-- open source
+- open-source
 - openness
-- rural development
+- rural-development
 - sharing
 - web2fordev
 ---

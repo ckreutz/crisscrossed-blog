@@ -10,7 +10,7 @@ categories:
 - accountability
 - blogging
 - conversation
-- social change
+- social-change
 - web2fordev
 ---
 

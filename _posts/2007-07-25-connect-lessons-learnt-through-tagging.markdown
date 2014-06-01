@@ -6,11 +6,11 @@ slug: connect-lessons-learnt-through-tagging
 title: Connect lessons learnt through tagging
 wordpress_id: 94
 categories:
-- knowledge management
-- community of practice
+- knowledge-management
+- community-of-practice
 - learning
 - sharing
-- social network
+- social-network
 - tagging
 ---
 

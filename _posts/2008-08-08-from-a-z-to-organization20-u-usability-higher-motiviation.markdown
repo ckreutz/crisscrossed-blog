@@ -6,11 +6,11 @@ slug: from-a-z-to-organization20-u-usability-higher-motiviation
 title: 'From A-Z to Organization2.0: U - Usability = Higher Motiviation'
 wordpress_id: 288
 categories:
-- knowledge management
+- knowledge-management
 - motivation
 - organization
-- social media
-- social software
+- social-media
+- social-software
 - usability
 - wiki
 ---

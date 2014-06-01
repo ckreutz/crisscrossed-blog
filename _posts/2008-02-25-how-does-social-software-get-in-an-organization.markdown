@@ -6,7 +6,7 @@ slug: how-does-social-software-get-in-an-organization
 title: How does social software get in an organization?
 wordpress_id: 175
 categories:
-- knowledge management
+- knowledge-management
 - culture
 - intranet
 - openness

@@ -9,10 +9,10 @@ wordpress_id: 855
 categories:
 - activism
 - ICT4D
-- information flow
+- information-flow
 - location-based-service
 - mapping
-- social network
+- social-network
 ---
 
 [![Cairo](/images/photo6.jpg)]()

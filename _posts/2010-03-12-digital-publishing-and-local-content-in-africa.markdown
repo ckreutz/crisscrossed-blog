@@ -6,9 +6,9 @@ slug: digital-publishing-and-local-content-in-africa
 title: 'Digital publishing and local content in Africa '
 wordpress_id: 908
 categories:
-- knowledge management
+- knowledge-management
 - africa
-- digital publishing
+- digital-publishing
 - ebook
 - literature
 ---

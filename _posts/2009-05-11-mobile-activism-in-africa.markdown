@@ -9,7 +9,7 @@ categories:
 - activism
 - ICT4D
 - africa
-- citizen media
+- citizen-media
 - elections
 - media
 - mobile

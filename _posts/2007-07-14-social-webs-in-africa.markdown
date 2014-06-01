@@ -13,7 +13,7 @@ categories:
 - blogging
 - connectivity
 - mobile
-- social network
+- social-network
 ---
 
 Today I was interviewed by the German radio station "Deutschland Radio Kultur." The interview is now available as a **podcast** at [blogspiel.de](http://www.blogspiel.de). The interview's main topic was Social Webs in Africa, stressing general issues about connectivity in Africa and social web such as the blogosphere. Thanks to [Sokari Ekine](http://blacklooks.org/) I got a latest update particularly on web activism in Africa.

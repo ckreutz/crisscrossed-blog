@@ -8,7 +8,7 @@ wordpress_id: 194
 categories:
 - activism
 - campaigning
-- civil society
+- civil-society
 - e-democracy
 - participation
 - politics

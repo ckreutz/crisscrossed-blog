@@ -14,7 +14,7 @@ categories:
 - mapping
 - mashup
 - mobile
-- open source
+- open-source
 - rss
 ---
 

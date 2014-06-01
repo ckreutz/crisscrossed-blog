@@ -6,10 +6,10 @@ slug: google-wave-real-time-trouble-and-the-persistent-belief-in-tools
 title: 'Google Wave: Real-time trouble and the persistent belief in tools'
 wordpress_id: 438
 categories:
-- knowledge management
+- knowledge-management
 - bandwidth
 - collaboration
-- information management
+- information-management
 - productivity
 ---
 

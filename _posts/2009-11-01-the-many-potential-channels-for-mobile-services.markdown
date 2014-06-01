@@ -9,7 +9,7 @@ categories:
 - ICT4D
 - mobile
 - mobileweb
-- rural development
+- rural-development
 - wireless
 ---
 

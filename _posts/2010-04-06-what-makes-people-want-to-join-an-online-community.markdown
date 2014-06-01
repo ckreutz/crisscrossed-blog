@@ -10,7 +10,7 @@ categories:
 - community
 - motivation
 - participation
-- social network
+- social-network
 ---
 
 I wonder what are the factors and incentives that drive people to join an online community, and why not? My work normally involves different communities or evolves around these, but it is often difficult to anticipate how a community develops. Some things work, others not at all. To get a community started has a lot to do with experimenting. The other day I had an interesting chat with [Nancy White](http://www.fullcirc.com/) and [Joitske Hulsebosch](http://joitskehulsebosch.blogspot.com) about this specific topic, and decided to bring it up in public.

@@ -4,7 +4,6 @@ date: 2007-10-15 13:25:16
 layout: post
 slug: blog-action-day-e-waste-the-downside-of-the-growing-web
 title: 'Blog action day: E-waste, the downside of the growing web'
-wordpress_id: 169
 categories:
 - activism
 - africa

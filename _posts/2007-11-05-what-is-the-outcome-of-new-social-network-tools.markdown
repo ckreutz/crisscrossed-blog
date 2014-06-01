@@ -7,7 +7,7 @@ title: What is the outcome of new social network tools?
 wordpress_id: 176
 categories:
 - communication
-- social network
+- social-network
 ---
 
 I am quite impressed about the success of Facebook. The intimacy aspect, the clear design and usability combined with all sorts of applications are probably some of the success factors. However, I wonder what is the aftermath of this social network, and how many different results come out of it? I ponder how many people really get something out of it, beyond adding friends and exchanging statuses. Actually, I started recently experimenting myself with statuses because I believe in network effect, and I am anxious to see the results. So, for example, if I posted a question in Twitter--which appears as a status in Facebook--I could potentially reach an audience, and that might help me - as [Johannes Schunter](http://jschunter.blogspot.com/2007/10/looking-out-for-professional-facebook.html) and [Jürgen Eichholz](http://blog.uhuru.de/) pointed in their idea for social network platform in an organization. By the way, [Joitske Hulsebosch](http://joitskehulsebosch.blogspot.com/2007/10/experimenting-with-twitter.html) wrote a nice post about our experiment and you can follow my Twitter attempts [here](http://twitter.com/ckreutz) (I will write about this Twitter thing in another post).

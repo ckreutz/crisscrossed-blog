@@ -10,7 +10,7 @@ categories:
 - connectivity
 - culture
 - learning
-- open source
+- open-source
 - sharing
 ---
 

@@ -5,7 +5,7 @@ image: "tech-hubs.png"
 lang: en
 caption: 'Taken from the GIZ publication http://10innovations.net'
 categories:
-- open innovation
+- open-innovation
 - crowdsourcing
 ---
 

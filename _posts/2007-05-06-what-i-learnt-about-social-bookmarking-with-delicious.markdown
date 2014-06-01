@@ -6,9 +6,9 @@ slug: what-i-learnt-about-social-bookmarking-with-delicious
 title: What I learnt about social bookmarking
 wordpress_id: 26
 categories:
-- knowledge management
-- social bookmarking
-- social network
+- knowledge-management
+- social-bookmarking
+- social-network
 - tagging
 ---
 

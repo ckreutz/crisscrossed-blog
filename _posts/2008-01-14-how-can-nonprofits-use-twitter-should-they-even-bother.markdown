@@ -8,8 +8,8 @@ wordpress_id: 213
 categories:
 - activism
 - communication
-- civil society
-- human rights
+- civil-society
+- human-rights
 - mobile
 - Net2ThinkTank
 - nonprofit

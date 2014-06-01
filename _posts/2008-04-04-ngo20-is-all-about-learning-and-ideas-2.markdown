@@ -6,12 +6,12 @@ slug: ngo20-is-all-about-learning-and-ideas-2
 title: NGO2.0 is all about learning and ideas (2)
 wordpress_id: 240
 categories:
-- knowledge management
+- knowledge-management
 - civil society
 - culture
 - ngo
 - openness
-- organizational learning
+- organizational-learning
 - sharing
 ---
 

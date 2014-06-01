@@ -6,13 +6,13 @@ slug: from-a-z-to-organization20-u-quality-takes-time
 title: 'From A-Z to Organization2.0: Q - Quality takes time'
 wordpress_id: 311
 categories:
-- knowledge management
+- knowledge-management
 - blogging
 - email
 - organization
 - productivity
 - quality
-- social media
+- social-media
 ---
 
 **[A](http://www.crisscrossed.net/2008/05/25/a-adaptation-from-a-z-%e2%80%94-the-long-trail-of-web20-in-an-organization/)** [**B**](http://www.crisscrossed.net/2008/07/02/from-a-z-to-organization20-b-blogging-examples-and-success-factors/) **[C](http://www.crisscrossed.net/2008/06/05/from-a-z-to-organization20-c-cafeteria-%e2%80%94-catching-the-informal/)** D E F G H I J K L M N O P **[Q](http://www.crisscrossed.net/2008/12/31/from-a-z-to-organization20-u-quality-takes-time/)** R S T [**U**](http://www.crisscrossed.net/2008/08/08/from-a-z-to-organization20-u-usability-higher-motiviation/) V W X Y Z

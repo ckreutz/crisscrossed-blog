@@ -7,9 +7,9 @@ title: 'Changes in work life: Employee2.0 '
 wordpress_id: 198
 categories:
 - communication
-- knowledge management
+- knowledge-management
 - culture
-- social network
+- social-network
 ---
 
 [Leila Summa](http://internal-relations.de/) has given a great presentation called "Wanted: Employee2.0 - when  technologies wait for their users." She presented it in German but here I have translate some parts. ([Complete presentation)](http://internal-relations.de/wp-content/uploads/2007/12/wanted_ma20_07122007_lsumma2.pdf). It underlines again how fast this new forms of communication and opportunities evolve, how much faster organizations need to react, and how profound the culture impact will be sooner or later.

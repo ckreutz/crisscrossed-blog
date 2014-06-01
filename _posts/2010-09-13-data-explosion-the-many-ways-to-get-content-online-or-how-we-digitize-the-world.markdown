@@ -8,11 +8,11 @@ title: 'Data explosion: The many ways to get content online (or how we digitize 
 wordpress_id: 1042
 categories:
 - ICT4D
-- knowledge management
+- knowledge-management
 - technology
 - crowdsourcing
 - data
-- opendata
+- open-data
 ---
 
 The same way the fishing industry has found more efficient methods to get most fishes out of the oceans, is exactly how we find more ways to digitze information that was previously only available offline. Imagine a massive fishing-net bringing us the greatest fishes, but emptying the oceans. What would be then the fishing-net or, in this case, the opportunities and consequences of digitizing all the information? Nobody really knows.

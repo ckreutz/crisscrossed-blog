@@ -6,9 +6,9 @@ slug: the-social-web-and-the-challenge-of-finding-expertise
 title: The social web and the challenge of finding expertise
 wordpress_id: 841
 categories:
-- knowledge management
+- knowledge-management
 - expertise
-- informal exchange
+- informal-exchange
 - search
 ---
 

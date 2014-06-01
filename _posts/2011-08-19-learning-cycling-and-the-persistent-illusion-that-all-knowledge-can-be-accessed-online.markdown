@@ -7,9 +7,9 @@ title: Learning cycling and the persistent illusion that all knowledge can be ac
   online
 wordpress_id: 1346
 categories:
-- knowledge management
+- knowledge-management
 - learning
-- local knowledge
+- local-knowledge
 ---
 
 Remember when you learnt cycling? The first time you stepped into a pedal and tried to balance the bicycle; the voice behind your neck telling you to keep pedaling and you will be fine. Learning cycling is a wonderful example of how difficult it is to "transfer" knowledge and that most of our wisdom is not just published in the Internet.

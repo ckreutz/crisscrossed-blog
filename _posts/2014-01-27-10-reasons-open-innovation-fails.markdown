@@ -6,7 +6,7 @@ image: "open-innovation-group.jpg"
 lang: en
 caption: 'Taken at a Social Innovation Camp http://www.flickr.com/photos/sicamp/7356916932 (CC)'
 categories:
-- open innovation
+- open-innovation
 - crowdsourcing
 ---
 
