@@ -405,7 +405,7 @@ color: #555555;
   margin-top: 20px;
 }
 
-#shape form input[type=text] {
+#shape form input[type=text], .remodal form input[type=text]{
 padding: .5em .6em;
 display: inline-block;
 border: 1px solid #ccc;
@@ -417,7 +417,7 @@ box-sizing: border-box;
 margin-top: 15px;
 }
 
-#shape input[type=text] {
+#shape input[type=text], .remodal input[type=text] {
   font-size: 15px;
   margin: 0;
   vertical-align: baseline;
@@ -430,4 +430,37 @@ margin-top: 15px;
   color: #ffffff;
   background-color: #FA8423;
   border-color: #FA8423;
+}
+
+.remodal .submit {
+  margin-left: 0px;
+  font-size: 20px;
+}
+
+.remodal input[type=text] {
+  width: 60%;
+  text-align: center;
+  font-size: 22px;
+  display: inline-block;
+  height: 50px;
+}
+
+.remodal .header {
+  margin-top: 0px;
+  color: #1198e5;
+  font-size: 30px;
+}
+
+.remodal .header2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.remodal span {
+  font-size:11px;
+}
+
+.remodal p {
+  margin-top: 20px;
 }

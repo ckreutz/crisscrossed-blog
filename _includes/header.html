@@ -4,8 +4,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="{{ content | strip_html | truncatewords: 22 }}" />
 <meta name="keywords" content="{% for category in page.categories %} {{ category }}{% if category != forloop.last %},{% endif %} {% endfor %}" /> 
+  {% if page.canonical %}
+<link rel="canonical" href="{{ page.canonical }}" />
+  {% endif %}
+
 <link rel="author" href="https://plus.google.com/108387825462426516671" />
 <link rel="stylesheet" href="/css/style.min.css" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="/css/jquery.remodal.css" type="text/css" media="screen, projection" />
 <script src="/js/dug.min.js"></script>
 <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen, projection" /><![endif]-->
 </head>

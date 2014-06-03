@@ -6,6 +6,7 @@
       <li id="twitterlink"><a href="http://twitter.com/ckreutz" title="Twitter">Twitter</a></li>
     </ul>
   </div>
+  <a href="#modal">Call the modal with data-remodal-id="modal"</a>
   <div id="footercontents">
     <ul>
       <li id="designcodeby"><a href="/imprint">Imprint</a><br><a href="http://www.behance.net/dippa" title="Design By Dippa">Design By Dippa</a></li>
@@ -15,16 +16,52 @@
 </div>
 </div>
 </div>
+<div class="remodal-bg">
+  <div class="remodal" data-remodal-id="modal">
+  <div class='header'>
+    <i class='icon-envelope'></i>
+    Get blog posts directly in your inbox!
+  </div>
+  <div class='header2'>
+    Subscribe to my blog posts.
+  </div>
+  <form accept-charset='UTF-8' action='https://wt179.infusionsoft.com/app/form/process/f209678077457e33ccdfda8ddcbc048c' class='infusion-form' method='POST'>
+    <input name='inf_form_xid' type='hidden' value='f209678077457e33ccdfda8ddcbc048c'>
+    <input name='inf_form_name' type='hidden' value='Sign up for newsletter'>
+    <input name='infusionsoft_version' type='hidden' value='1.29.11.21'>
+    <div class='infusion-field'>
+      <input class='infusion-field-input-container' id='inf_field_Email' name='inf_field_Email' placeholder='Email' type='text'>
+    </div>
+    </span>
+  <input class='submit btn' type='submit' value='Sign up'>
+  </form>
+  <br>
+  <span>100% Privacy. I will never spam you.</span>
+  <p><a class="" href="#">No, I am not interested.</a></p>
+</div>
+</div>
 <!--[if lte IE 8]>
 <div id="ie_clear"></div>
 <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="/js/ouibounce.min.js"></script>
+<script src="/js/jquery.remodal.min.js"></script>
 <script type="text/javascript">
   var disqus_shortname = 'crisscrossed';
+  var disqus_identifier = '{{page.url}}';
   (function () {
     var s = document.createElement('script'); s.async = true;
     s.type = 'text/javascript';
     (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
   }());
+</script>
+<script>
+$(document).ready(function () {
+  ouibounce(document.getElementById('tutorial'), {
+    aggressive: true,
+    callback: function() { $('[data-remodal-id=modal]').remodal().open(); }
+  });
+});
 </script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
