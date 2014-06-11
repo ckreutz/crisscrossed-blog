@@ -48,10 +48,13 @@
             <a class="teaser_link" href="{{ teaser.url }}" rel="nofollow">Read more</a>
           </div>
         </div>
-       {% assign teaser=teaser | plus:1 %}
+        {% assign teaser=teaser | plus:1 %}
 			    {% endif %}
         {% assign okay = 1 %}
           {% endif %}
+        {% if teaser > 2 and main > 1 %}
+        {% break %}
+        {% endif %}
 			  {% endfor %}
 		  </div>
 		{% include sidebar.html %}
