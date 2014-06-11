@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Innovation course - a quick guide to get you started"
+title: "Open Innovation Course - a guide to get you started"
 image: "letter_box.jpg"
 lang: en
 caption: 'Bogdan Suditu https://www.flickr.com/photos/bogdansuditu/2607404802 (CC)'
@@ -23,23 +23,23 @@ Great part of the open innovation process involves planning in order to set the 
 
 Here is an abstract of the open innovation course:
 
-** What are challenges you are trying to solve? **
+- ** What are challenges you are trying to solve? **
 Our advice: Start small and add more depth as you go. The more concrete your challenge is, the better feedback you get. More feedback is not always better feedback.
 
-** Can you compress this challenge into one key question? **
+- ** Can you compress this challenge into one key question? **
 Our advice: Ask your question like you're telling a story. Setting a frame around the whole process is very important.
 
-** What kind of feedback and ideas are needed to solve this challenge? Can that be done online or offline? Or will a combination of both work best? **
+- ** What kind of feedback and ideas are needed to solve this challenge? Can that be done online or offline? Or will a combination of both work best? **
 Our Advice: Collecting and discussing ideas works well online. Implementation of ideas needs some stronger commitment and is mostly better offline.
 
-** What are the incentives to participate? **
+- ** What are the incentives to participate? **
 Will rewards be offered? Would it be enough to know that one has taken part on the solucion finding process? What else might motivate someone to participate in the project?
 Our advice: While palpable rewards always come in handy, recognition is much more acknowledged and appreciated. A combination of rewards will attract the most participants.
 
-** When could possible resistance to the process happen? **
+- ** When could possible resistance to the process happen? **
 Our advice: It is almost impossible to predict everything in advance, but taking measures and learning from other projects that have used a similar method to yours is always a good way to prevent obstacles.
 
-** Who can take part in the process (specific skillsets, specific community, international/local, staff, customers, etc.)? **
+- ** Who can take part in the process (specific skillsets, specific community, international/local, staff, customers, etc.)? **
 Our Advice: Anyone you wish. Think big – online there is no limit of participants.
 
 ## Mobilization
