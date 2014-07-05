@@ -13,7 +13,7 @@ Open Innovation is a great concept to drive ideas and find solutions. To approac
 
 Instead of putting it all into a guide, we have come up with something different. We have created a seven-day tutorial via email. Since most printed documentation is easily stored and forgotten, we believe email is the most accessible way, from anywhere, at any time; therefore, we provide you with seven concise emails filled with the most important and up-to-date information on open innovation. Enjoy everyday our step-by-step course, with just sufficient content, and learn how you can implement open innovation in your organization.
 
-** Enough. [Get me started with the open innovation course.](http://get.wethinq.com/tutorial/)**
+** Enough. [Get me started with the open innovation course.](https://www.wethinq.com/en/resources/course/)**
 
 ## Goal
 The goal is to define the right entry points to foster an open innovation environment. A temporary process, such as an open innovation campaign, could be a great option to to tackle a problem your organization is facing.We provide you with successful examples of different approaches taken by other organizations to innovate easily in collaboration with their co-workers.
@@ -45,6 +45,6 @@ Our Advice: Anyone you wish. Think big – online there is no limit of participa
 ## Mobilization
 You will be presented during the course with the different mobilization options, and learn about the importance of mobilization.
 
-This is just a short summary. **[Join now the open innovation course and get some great insights on how to make open innovation work for you.](http://get.wethinq.com/tutorial/)**
+This is just a short summary. **[Join now the open innovation course and get some great insights on how to make open innovation work for you.](https://www.wethinq.com/en/resources/course/)**
 
 
