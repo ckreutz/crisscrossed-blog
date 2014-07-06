@@ -1,7 +1,7 @@
 ---
 layout: nil
 ---
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>crisscrossed.net</title>
@@ -14,7 +14,7 @@ layout: nil
 
     {% for post in site.posts limit: 20 %}
     <item>
-      <title>{{ post.title }}</title>
+      <title>{{ post.title | xml_escape }}</title>
       <media:content url="http://www.crisscrossed.net/images/photos/medium/{{ post.image }}" type="image/{% if post.image contains 'png' %}png{% else %}jpg {% endif%}" medium="image" height="280" width="670" />
       <link>http://www.crisscrossed.net{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
