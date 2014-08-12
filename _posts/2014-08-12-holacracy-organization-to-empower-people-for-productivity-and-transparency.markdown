@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Holacracy – empowering people, driving creativity and gaining productivity"
+image: "holacracy-tactical-meeting.png"
+lang: en
+caption: 'GlassFrog Software'
+categories:
+- holacracy
+- productivity
+---
+
+From my experience gained throughout my career, I have stumbled over and over again with organizational problems. Companies and organizations, from whatever field, are simply inefficiently structured. More or less the classical top-down approach tends to persist, completely contradicting a more efficient approach to empower people. Ofttimes, the talents and the potential of employees are restrained by organizational hierarchies, which at the end of the day is counterproductive for most organizations.
+
+As a founder of a company, I searched for a [different model](http://swombat.com/2013/12/23/three-modern-organisational-structures) to organize and manage a company without having to reinvent the wheel. A complete breakthrough to me was the discovery of [Holacracy](http://holacracy.org/), which "replaces today’s top-down predict-and-control paradigm with a new way of achieving control by distributing power. It is a new 'operating system' that instills rapid evolution in the core processes of an organization." We have implemented this approach and from then onwards has fit greatly to our company's philosophy.
+
+Ever since I found out about Holacracy, I keep coming across similar approaches. Recently, I have coordinated a GIZ publication, of which one chapter also elaborates on [democratic and innovative organizational models](http://10innovations.alumniportal.com/startup-innovation.html). Moreover, I once had the pleasure to be invited by [Ton Zylstra](http://www.zylstra.org/blog/) to his [birthday unconference](http://www.zylstra.org/blog/midsummer-unconference-bbq-making-stuff-that-matters/), where I met [Martin Röll](http://www.roell.net/), whose work I have been following since the early 2000s when knowledge sharing within organizations was not even called Web 2.0 nor social medial. At Zylstra's unconference, we talked about Holacracy and Martin Röll elaborated on the new [coaching firm](http://structureprocess.com/blog/what-is-holacracy/) he had just started and where he is advising organizations on implementing Holacracy. To me, this came exactly at the right time.
+
+For years, I had previously worked with other methods such as [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) (GTD) to improve productivity and Holacracy goes the same line. I am not going to try to explain what Holacracy is, which is done much better in [other places](http://structureprocess.com/blog/what-is-holacracy/), instead I will just summarize what has fascinated me about it so far.
+
+- I have never been a fan of business plans, because they normally become obsolete once they are written. Holacracy is not static but flexible; it allows to constantly update the organizational structure and processes according to different demands.
+- Holacracy works with roles and responsibilities instead of traditional job titles and functions. It fits to what people are good at and leaves it to them how to achieve goals. Tasks are best executed when they actually suit the knowledge and skills of employees. Roles have a great degree of self-responsibility, which hinders micro management by managers and empowers people.
+- One of my favorites, which has worked fantastic for me from day one is the separation of governance and operative (tactical) meetings. All management related topics such as roles and policies are only discussed in governance meetings, and then written down in a wiki-fashion – listing what has worked and crossing out what hasn't. Contrary to tactical meetings, the team goes through projects and operative questions.
+- No doubt that tensions and conflicts are part of any organization, therefore Holacracy has an appealing method to work on these tensions. When a conflict arises, meetings with people who have nothing to do with the problem are off the question, and a facilitator or mediator is called in to find the best solution together with those involved.
+- Holacracy is constantly updating trying to include all types of organizational and management challenges making it easy for organizations to be always up-to-date with the newest version without having to re-invent the wheel.
+
+## Lessons-learnt 6 weeks after
+
+After reading the [constitution](http://holacracy.org/constitution) one would first think that it is quite encyclopedic and might take a long time to be implemented. For small companies, such as ours, it may seem better, but larger companies which have already implemented, such as Zappos, have proofed that it is a great approach to work with and move to the next level. Anyway, you can start slow with the whole constitution and gradually keep diving deeper into it as you get familiar with Holacracy. That's at least how we approached Holacracy and so far it has been great. We are using the [Glassfrog software](http://holacracy.org/glassfrog), which was created by the pioneers of Holacracy and is free for small companies. We basically started with some governance meetings to get the whole structure up and put all our projects into the system. Glassfrog has a great template for tactical meetings to stay focused. See [Martin's company as an example](https://glassfrog.holacracy.org/organizations/161). You go through check lists, check metrics and then discuss projects. The check lists help you to not forget stuff and simplify processes, the metrics are a great way to monitor the results of the work, and the projects are a great way to see what people are working on, but do not go to deep into the tasks. Particularly, the separation between governance and tactical meetings has been a great relief.
+
+There is still much more to talk about, but I will leave it for future blog posts. For more food for thought there is also a nice post about the [history of Holacracy](https://medium.com/about-holacracy/history-of-holacracy-c7a8489f8eca).
