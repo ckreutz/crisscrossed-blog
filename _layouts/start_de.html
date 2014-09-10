@@ -18,7 +18,7 @@
 			<div class="format_text entry-content">
       {% if post.image %}
         <div class="image">
-          <img src="/images/photos/thumbnail/{{ post.image }}">
+          <img src="{{ site.url }}/images/photos/thumbnail/{{ post.image }}">
         </div>
         {% endif %}
 			  <p>{{ post.content | truncatewords: 180 }} </p>

@@ -40,7 +40,7 @@
           <div class="format_teaser entry-content">
         {% if post.image %}
         <div class="image">
-          <img src="/images/photos/small/{{ post.image }}">
+          <img src="{{ site.url }}/images/photos/small/{{ post.image }}">
         </div>
           {% endif %}
             <p>{{ post.content | strip_html | truncatewords: 80 }} </p>

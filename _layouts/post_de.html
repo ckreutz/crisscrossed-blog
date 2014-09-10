@@ -17,7 +17,7 @@
 			<div class="format_text entry-content">
         {% if page.image %}
         <div class="image">
-          <img src="/images/photos/medium/{{ page.image }}">
+          <img src="{{ site.url }}/images/photos/medium/{{ page.image }}">
         {% if page.caption %}
           <div class="caption">{{ page.caption }}</div>
         {% endif %}
