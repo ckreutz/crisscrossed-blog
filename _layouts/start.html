@@ -12,7 +12,7 @@
           <a href="https://www.twitter.com/ckreutz" target="_blank" id="tweets1"></a>
         </div>
         {% assign post_url1 = post.url %}
-  			<h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+  			<h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
 				<p class="headline_meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
 			</div>
 			<div class="format_text entry-content">
@@ -22,7 +22,7 @@
         </div>
         {% endif %}
 			  <p>{{ post.content | truncatewords: 200 }} </p>
-        <p><a href="{{ post.url }}" class="more-link">Read more</a></p>
+        <p><a href="{{ site.url }}{{ post.url }}" class="more-link">Read more</a></p>
  			</div>
     </div>
     {% assign main = 2 %}
@@ -33,7 +33,7 @@
         <!-- <div class="comment_bubble">
           <a href="#disqus_thread"></a>
         </div> -->
-        <h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
+        <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a>
           </h2>
           <abbr class="teaser_date published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr>
 
