@@ -15,8 +15,32 @@
 </div>
 </div>
 </div>
-<div class="remodal-bg">
-  <div class="remodal" data-remodal-id="modal">
+<div class="remmodal">
+  <div class="remodal" data-remodal-id="guide">
+  <div class='header'>
+    <i class='icon-envelope'></i>
+    Download our Free Social Innovation Guide
+  </div>
+  <div class='header2'>
+    14 Pages with great examples and how-tos
+  </div>
+  <form accept-charset='UTF-8' action='https://wt179.infusionsoft.com/app/form/process/6ee376c1037b05adfa6948fb7bc36f44' method='POST'>
+    <input name='inf_form_xid' type='hidden' value='6ee376c1037b05adfa6948fb7bc36f44'>
+    <input name='inf_form_name' type='hidden' value='Sign up for newsletter'>
+    <input name='infusionsoft_version' type='hidden' value='1.36.0.43'>
+    <div class='infusion-field'>
+      <input class='infusion-field-input-container' id='inf_field_Email' name='inf_field_Email' placeholder='Email' type='text'>
+    </div>
+    </span>
+  <input class='submit btn' type='submit' value='Get the Guide'>
+  </form>
+  <br>
+  <p><a class="" href="#">No, I am not interested.</a></p>
+</div>
+</div>
+
+<div class="redmodal-bg">
+  <div class="remogdal" data-remodal-id="modal">
   <div class='header'>
     <i class='icon-envelope'></i>
     Follow the Crisscrossed blog!
@@ -58,6 +82,7 @@
 $(document).ready(function () {
   ouibounce(document.getElementById('tutorial'), {
     sitewide: true,
+   aggressive: true,
     callback: function() { $('[data-remodal-id=modal]').remodal().open(); }
   });
 });
