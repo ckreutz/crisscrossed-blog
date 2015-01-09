@@ -42,7 +42,7 @@ One well-known open innovation platform is [OpenIDEO](https://openideo.com), on 
 OpenIDEO’s commercial counterpart [Innocentive](innocentive) offers companies to externalize their product issues or other particular challenges. Companies that have specific challenges around their product can post them on Innocentive to attract ideas from around the world to collaborate on finding a solution. The person with the best solution proposal earns a sum paid by the company. Danish toy maker Lego has been using this prototype for years. It started involving its consumers to develop new products after realizing that they are often the best product developers. If a product idea reaches a certain threshold within the community, it becomes a selling product and the inventor receives some royalties.
 
 <img src="/images/2014/notes.jpg">
-<br><a href="https://www.flickr.com/photos/jakecaptive/49915119"></a>
+<br><a href="https://www.flickr.com/photos/jakecaptive/49915119">Jacob Bøtter (CC)</a>
 
 ## Types of Open Innovation
 
@@ -92,7 +92,7 @@ The “open source software” movement is acting as a good example to follow as
 
 ## Social Innovation – A New Approach to Tackle Complex Challenges
 
-The world is confronted with huge challenges, requiring many solutions and ideas. To overcome these challenges, open innovation is not only an option but a necessity in present and future problem solving. Particularly in the non-profit sector many organisations are realizing that they are unable to find solutions to challenges such as climate change or food crises on their own. Problems and their potential solutions are embedded in complex settings. The non profit sector has been traditionally much more open to finding external ideas and solutions than the commercial sector. Many energy saving ideas might not have the potential to become commercial products, but can still provide immediate help to those in need. Whoever is willing to contemplate the genuine complexities of project work can not fail to see the need for a broader range of expertise and an interdisciplinary approach.
+The world is confronted with huge challenges, requiring many solutions and ideas. To overcome these challenges, open innovation is not only an option but a necessity in present and future problem solving. Particularly in the non-profit sector many organisations are realizing that they are unable to find solutions to challenges such as climate change or food crises on their own. Problems and their potential solutions are embedded in complex settings. The non-profit sector has been traditionally much more open to finding external ideas and solutions than the commercial sector. Many energy saving ideas might not have the potential to become commercial products, but can still provide immediate help to those in need. Whoever is willing to contemplate the genuine complexities of project work can not fail to see the need for a broader range of expertise and an interdisciplinary approach.
 
 The United Nations and its different organisations have been experimenting with the field of crowdsourcing and open innovation. UNICEF is one of the pioneers of open innovation, having established innovation labs for example in Kosovo. The organisation has put together idea competitions such as the 72 hour challenge. The first 72 hours during a humanitarian disaster are the most critical ones. Finding solutions to help protect vulnerable people is a major challenge for organisations such as UNICEF.
 
@@ -113,17 +113,17 @@ The GIZ has been very active supporting the [ICE innovation hubs](http://icecair
 <img src="/images/2014/factory.jpg">
 <br><a href="https://www.flickr.com/photos/okfde/9504005190">OKF DE (CC)</a>
 
-The result is a growing ecosystem for open and social innovation bringing together various actors from the for-profit and non-profit sector. Open events such as hackathons host programmers and other skilled people for a day or a weekend to tackle specific challenges. Such as the Energy Hackday in Berlin, organized by The Open Knowledge Foundation Germany in cooperation with the utility Vattenfall. At the main event, people developed new ideas using electric consumption data. Before and after the event, Vattenfall worked with different audiences on product ideas and consumer transparency. Similar events have taken place within the open government field. Public administrations have opened their doors to programmers to develop better citizen services such as mobile apps. It is worth mentioning that social innovation transcends these offline events – the collaboration does not end at the event; in contrary, all participants continue to be connected through social networks, on which they keep on collaborating after the event.
+The result is a growing ecosystem for open and social innovation bringing together various actors from the for-profit and non-profit sector. Open events such as hackathons host programmers and other skilled people for a day or a weekend to tackle specific challenges. Such as the Energy Hackday in Berlin, organized by The Open Knowledge Foundation Germany in cooperation with Vattenfall. At the main event, people developed new ideas using electric consumption data. Before and after the event, Vattenfall worked with different audiences on product ideas and consumer transparency. Similar events have taken place within the open government field. Public administrations have opened their doors to programmers to develop better citizen services such as mobile apps. It is worth mentioning that social innovation transcends these offline events – the collaboration does not end at the event; in contrary, all participants continue to be connected through social networks, on which they keep on collaborating after the event.
 
 ## How Does it Work? Open Innovation in Different Steps
 
-Open innovation itself is not complex but the social dynamic behind it can be. A methodology is not always necessary; what is needed instead is an environment, in which people can share ideas as freely as possible with intensive feedback and collaboration. In itself, open innovation is a lot about experimenting and finding the right bestfit approach for each context and challenge. The following are different steps on how to plan, engage and get results through open innovation.
+Open innovation itself is not complex but the social dynamic behind it can be. A methodology is not always necessary; what is needed instead is an environment, in which people can share ideas as freely as possible with intensive feedback and collaboration. In itself, open innovation is a lot about experimenting and finding the right best-fit approach for each context and challenge. The following are different steps on how to plan, engage and get results through open innovation.
 
 ## Focus and Goals
 
 An open innovation process does not necessarily convey an already visualized end solution or product. Those are normally established or developed throughout the process – with the use of Q&A, brainstorming sessions, discussions, etc. Having a specific and well defined challenge is important to carry out a productive and uncomplicated process and obtain the best results.
 
-The following tips will help you estipulate in a clear way your challenge:
+The following tips will help you start in a clear way your challenge:
 
 - The challenge: Start describing it in broader terms and gradually move onto more specific details. The more specific your challenge is, the better others understand it and the better feedback you will obtain. More feedback is not always better feedback.
 
