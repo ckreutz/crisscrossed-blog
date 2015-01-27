@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to Open and Social Innovation and How to Get Started"
+title: "Introduction to Open and social Innovation and how to get started"
 image: "giz-social-innovation.png"
 lang: en
 caption: ''
