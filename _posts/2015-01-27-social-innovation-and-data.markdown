@@ -27,4 +27,4 @@ Another progressive example is car-sharing. It is very similar to car rentals, b
 
 This is highly needed as the number of commuters and daily travelers is rapidly increasing, and especially because we are so stuck in traditional mobility solutions.
 
-By the way we have helped the public transport of Berlin and Climate-KIC with [our platform WE THINQ](https://www.wethinq.com/) to [crowdsource new ideas for a greener public transport](http://www.openinnovationslam.org/)).
+By the way we have helped the public transport of Berlin and Climate-KIC with [our platform WE THINQ](https://www.wethinq.com/) to [crowdsource new ideas for a greener public transport](http://www.openinnovationslam.org/).
