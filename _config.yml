@@ -2,6 +2,7 @@ safe:        false
 port: 4000
 baseurl:    /
 url: http://localhost:4000
+production: false
 
 source:      .
 destination: ./_site
