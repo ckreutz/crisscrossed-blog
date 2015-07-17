@@ -60,13 +60,8 @@ Here are a few first steps to get faster loading websites:
   * Consider to work with a [Content Distribution Network](http://en.wikipedia.org/wiki/Content_delivery_network).
 
 
-
-
-
-
-
 This is just a small list. There is a lot more to tweak for better performance.
-
+Here is service, where you can [test your website speed and monitor your page availability](https://www.dotcom-tools.com/website-speed-test.aspx).
 
 
 

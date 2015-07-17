@@ -6,9 +6,9 @@ image: "cctv.jpg"
 lang: en
 caption: "Nicolas Nova (CC) https://www.flickr.com/photos/nnova/4060530995"
 categories:
-- open government
-- big data
-- machine learning
+- open-government
+- big-data
+- machine-learning
 - surveillance
 ---
 
@@ -27,8 +27,3 @@ And here things become awkward. Imagine you can analyze in real-time the mood of
 It is scary to see how the technological enthusiasm leaves often little room to elaborate its consequences. The Dubai government also launched recently a [Drones for Good event](https://www.dronesforgood.ae/). Using drones for good purposes such as  Drones watch for disease and collect real-time data on crop health and yields. How can we really control that flying cameras are always intended for good purposes? And who defines what a good purpose is?
 
 As much as I am enthusiastic about these new technologies’ potential, I am slowly starting to feel worried how these new approaches are implemented. There is hardly any discussion about consequences. The above company does not seem to worry about them. Open government is a complex attempt to re-invent the relationship between citizen and government. We need to be careful that this does not turn into mass surveillance.
-
-
-
-
-

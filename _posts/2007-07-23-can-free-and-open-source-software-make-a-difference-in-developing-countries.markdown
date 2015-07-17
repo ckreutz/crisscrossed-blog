@@ -12,7 +12,7 @@ categories:
 - development
 - learning
 - network
-- open source
+- open-source
 - sharing
 ---
 
@@ -20,19 +20,19 @@ I have already written before about the concept of open source, but this time I 
 
 
 
-	
+
   * **Economy**
 Cost savings from purchasing software. The market barrier is low for new businesses, but the overall added value is higher because the software can be developed locally. With services for hardware and the web, FOSS offers local employment and development of software and generates though more income locally.
 
-	
+
   * **Education**
 FOSS offers universal access. The freedom to study the code of software. In [Venezuela, for example](http://www.google.com/translate?u=http%3A%2F%2Fwww.heise.de%2Ftp%2Fr4%2Fartikel%2F24%2F24576%2F1.html&langpair=de%7Cen&hl=en&ie=UTF8%29), FOSS gave access to education because the whole infrastructure is much cheaper there and own training capacity was built. FOSS can act as a free knowledge transfer and create human capital e.g. through software development. It, therefore, can lead to a "brain gain". FOSS allows and needs a complete different approach of collaborative work project with high value on common learning.
 
-	
+
   * **Culture**
 The development and usage of FOSS can contribute to the country cultural heritage. Own developed software products can be better adapted to local needs and offered in many languages. Own software solutions open new venues of knowledge sharing and learning.
 
-	
+
   * **Law**
 Open source software is freely available and guarantees legal security. FOSS offers a sustainable technological independence.
 
@@ -46,21 +46,20 @@ Open source software is freely available and guarantees legal security. FOSS off
 
 
 
-	
+
   * For a high reliability on FOSS, a critical community is needed, which constantly tests and changes the source code. It needs open culture, which is not always prevailing.
 
-	
+
   * Proprietary software is also available illegally and cheap, so it offers no incentive to switch to FOSS.
 
-	
+
   * In many countries the FOSS community is very small and the interaction in a network needs the web and therefore connectivity, which is often not available.
 
-	
+
   * Much has been done in translating software, therefore many web software is available in different languages. But that is not the case with document material.
 
-	
+
   * In many countries a whole training infrastructure has to be build to switch to open source software. For example, the Venezuelan Government decided to adopt open source some years ago, and build with it many resources, own training and development infrastructure.
 
 
 I often got the feedback from practitioners that it also depends on the needs of each particular case. Proprietary software can be a better solution or is anyway the only one available. I am sure I missed many points and factors, but I will continue later on with that topic.
-
