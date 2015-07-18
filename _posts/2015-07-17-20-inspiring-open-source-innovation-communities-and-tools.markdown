@@ -20,7 +20,7 @@ To begin with, there is a nice definition by the University of  Hamburg:
  - [Open source washing machine project](http://www.oswash.org/)
  - The carpenter for plastic: [An Open Source Plastic-Recycling Machine](http://www.wired.com/2014/06/an-open-source-machine-for-recycling-plastic-from-the-inventor-of-phonebloks/)
  - FarmBot: [Open-Source CNC Farming](http://go.farmbot.it/)
-- [An open digital cinema camera](https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera#/story)
+- [An open digital cinema camera crowdfunding project ](https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera#/story) and the open source camera from [Apertus](https://apertus.org/) for film production
 -  Makerbot: [Collection of open source scientific tools](http://www.thingiverse.com/jpearce/collections/open-source-scientific-tools)
 - uH Bench: [Open source public bench](http://xuv.be/uH-bench-open-source-public-bench.html)
 - SketchChair: [A free, open-source software tool that allows anyone to easily design and build their own digitally fabricated furniture](http://sketchchair.cc/)
@@ -30,7 +30,7 @@ To begin with, there is a nice definition by the University of  Hamburg:
 - OpenEnergyMonitor:  [A project to develop open-source energy monitoring tools to help us relate to our use of energy](http://openenergymonitor.org/emon/)
 - AirPi: [A Raspberry Pi driven sensor capable of recording and uploading information about the environment](http://airpi.es/)
 - WikiHouse: [WikiHouse is an open source building system to design, print and assemble low-energy homes](http://www.wikihouse.cc/)
-- Great explanation: [What is Open Source Lab Equipment?](http://blog.p2pfoundation.net/what-is-open-source-lab-equipment/2015/04/20)
+- Great guide: [What is Open Source Lab Equipment?](http://blog.p2pfoundation.net/what-is-open-source-lab-equipment/2015/04/20)
 
 ## Communities
 - Libre3D: [The great world of 3D printing](http://libre3d.com/index.php) 
