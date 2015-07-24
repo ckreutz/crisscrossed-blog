@@ -16,6 +16,10 @@ markdown:    rdiscount
 rdiscount:
   extensions: []
 
+sass:
+  sass_dir: /css
+  style: :compressed
+
 maruku:
   use_tex:    false
   use_divs:   false
