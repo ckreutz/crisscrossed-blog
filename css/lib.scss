@@ -1,12 +1,8 @@
 
 @import "csstyle/csstyle";
 
-$main-color: #018DD8;
-$secondary-color: #e5790c;
-
 @import "csstyle/lib/tweaks";
 @import "csstyle/lib/button";
-@import "csstyle/lib/navigation";
-@import "csstyle/lib/image_round";
 @import "csstyle/lib/image_frame";
 @import "csstyle/lib/shape";
+@import "csstyle/lib/tags";
