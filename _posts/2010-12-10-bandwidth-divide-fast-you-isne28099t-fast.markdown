@@ -61,9 +61,6 @@ Here are a few first steps to get faster loading websites:
 
 
 This is just a small list. There is a lot more to tweak for better performance.
-Here is service, where you can [test your website speed and monitor your page availability](https://www.dotcom-tools.com/website-speed-test.aspx).
-
-
 
 ## Content Delivery Network
 
