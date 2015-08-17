@@ -10,6 +10,8 @@ categories:
 - maker
 ---
 
+Last updated: 17.08.15
+
 Open source software has become a strong movement and as it gains popularity it leads most software companies to engage with the expanding [open source community](http://www.github.com). All things digital, being it [music](https://soundcloud.com/groups/open-source-music), [photos](https://www.flickr.com/creativecommons/), etc., have in one way or another become free thanks to [some clever licenses](https://search.creativecommons.org/). What is not so often noticed is how the vision of open source spreads to other sectors and leads to a fascinating array of tools, thanks for example to 3D printing, and communities, which form a new way of open collaboration. I made a small exploration to search for great projects. 
 
 To begin with, there is a nice definition by the University of  Hamburg:
@@ -29,6 +31,7 @@ To begin with, there is a nice definition by the University of  Hamburg:
 - Andre: [Free Open Source Race Car Designs](http://andrecars.com/#1)
 - OpenEnergyMonitor:  [A project to develop open-source energy monitoring tools to help us relate to our use of energy](http://openenergymonitor.org/emon/)
 - AirPi: [A Raspberry Pi driven sensor capable of recording and uploading information about the environment](http://airpi.es/)
+- Air Box Lab: [Open-source Indoor Air Quality Monitor](http://airboxlab.foobot.io/)
 - WikiHouse: [WikiHouse is an open source building system to design, print and assemble low-energy homes](http://www.wikihouse.cc/)
 - Great guide: [What is Open Source Lab Equipment?](http://blog.p2pfoundation.net/what-is-open-source-lab-equipment/2015/04/20)
 
