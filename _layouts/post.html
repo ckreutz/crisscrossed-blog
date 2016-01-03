@@ -19,7 +19,7 @@
       </div>
       <div class="format_text entry-content">
         {% if page.image %}
-        <div class="image">
+        <div class="image stack-for-small media-object">
           <img src="/images/photos/medium/{{ page.image }}">
           {% if page.caption %}
           <div class="caption">
@@ -27,11 +27,10 @@
         </div>
         {% endif %}
         {{ content  }}
-
         <p>
           <b>If you enjoyed this post, get free updates by
             <a href="/form.html">
-              Email</a>or
+              Email</a> or
             <a href="http://feeds2.feedburner.com/crisscrossed">
               RSS</a>.</b>
         </p>
@@ -67,11 +66,4 @@
 </div>
 </div>
 
-<script>
-  dug({
-    endpoint: 'https://free.sharedcount.com/?url=http://www.crisscrossed.net{{ page.url }}/&apikey=85601d8f552d0da709682cd919d4e9c1f2e06aef',
-    target: 'tweets',
-    {% raw %}
-    template: '{{Twitter}}' {% endraw %}
-});
-</script>{% include footer.html %}
+{% include footer.html %}
