@@ -6,3 +6,4 @@ _site/
 s3_website.yml
 .minimagick-cache
 .sass-cache
+.jekyll-metadata
