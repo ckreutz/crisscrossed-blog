@@ -24,7 +24,7 @@ I have recently stumbled over a [nice article](http://www.nytimes.com/2011/08/08
 
 The same article also linked me to a great video called "People are Knowledge -  Exploring alternative methods of citation in Wikipedia" by Achal Prabhala.
 
-<iframe src="http://player.vimeo.com/video/26469276?title=0&amp;byline=0&amp;portrait=0" width="400" height="320" frameborder="0"></iframe>
+<div class="flex-video"><iframe src="http://player.vimeo.com/video/26469276?title=0&amp;byline=0&amp;portrait=0" width="400" height="320" frameborder="0"></iframe></div>
 
 [People are Knowledge (subtitled)](http://vimeo.com/26469276) from [Achal R. Prabhala](http://vimeo.com/user7786138)`
 

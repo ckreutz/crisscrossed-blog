@@ -47,4 +47,4 @@ What challenge hits a nerve? Boring topics are a recipe for failure. If Ricky Ge
 10. **Rephrasing good ideas and selling them as your own.**
 This is the worst. People come up with great ideas and discussions. The management picks these fruits as their success.  Recognition is so important in open innovation. It leads to incredible frustration if people are undervalued in the process.  Give credit where credit is do, and include participants in the implementation project.
 
-<iframe width="520" height="345" src="//www.youtube.com/embed/Rr1gvReCfZQ" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video"><iframe width="520" height="345" src="//www.youtube.com/embed/Rr1gvReCfZQ" frameborder="0" allowfullscreen></iframe></div>

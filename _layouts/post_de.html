@@ -1,65 +1,92 @@
 {% include header.html %}
-<div id="content_box">
-  <div id="content" class="hfeed">
-    <div class="post type-post status-publish format-standard hentry post_box top">
-		  <div class="headline_area">
+<div class="row" id="post">
+  <div class="large-8 medium-8 columns">
+    <div class="callout font white white-black">
+      <div class="headline-area">
         <div class="comment_bubble">
-          <a href="https://www.twitter.com/ckreutz" target="_blank" title="Twitter" id="tweets"></a>
-        </div>
-  			<h1 class="entry-title">{{ page.title }}</h1>
-			<p class="headline_meta">
-        <span class=”updated”>
-        <abbr class="published" title="{{ page.date | date: '%d-%m-%Y'  }}">{{ page.date | date: "%d.%m.%Y"  }}</abbr>
-      </span> | 
-      <span class=”vcard author”><span class=”fn”>Christian Kreutz</span></span>
+          <a href="https://www.twitter.com/ckreutz" id="tweets" target="_blank" title="Twitter"/></a></div>
+        <h1 class="post-title">
+          {{ page.title }}</h1>
+        <p class="headline-meta">
+          <abbr class="published" title="{{ page.date | date: '%d-%m-%Y' }}">
+            {{ page.date | date: "%b / %d / %Y"  }}</abbr> |
+          <span author” class=”vcard>
+            <span class=”fn”>
+              <a href="https://plus.google.com/108387825462426516671?rel=author">Christian Kreutz</a>
+            </span>
+          </span>
         </p>
-			</div>
-			<div class="format_text entry-content">
+      </div>
+      <div class="post-content">
         {% if page.image %}
-        <div class="image">
-          <img src="/images/photos/medium/{{ page.image }}">
-        {% if page.caption %}
-          <div class="caption">{{ page.caption }}</div>
-        {% endif %}
+        <div class="image-frame">
+            <img src="/images/photos/medium/{{ page.image }}" class="scale">
         </div>
+          {% if page.caption %}
+          <div class="caption">
+            {{ page.caption }}
+        </div>{% endif %}
         {% endif %}
-
         {{ content  }}
-      <!-- <dl class="tags">
-        <dt>Tags:</dt>
-        {% for post in site.categories.de %}
-          {% for tag in post.categories %}
-              <dd><a href="/categories/{{ tag }}">{{ tag }}</a></dd>
-          {% endfor %}
+      </div>
+      <h3>Ähnliche Artikel</h3>
+        {% for post in site.posts %}
+          {% if post.url != page.url %}
+            {% for tag in page.categories %}
+              {% if post.categories contains tag %}
+                <div class="row">
+                  <div class="large-3 medium-3 small-4 columns img-round">
+                    <img src="/images/pics/{{ post.image }}" class="thumbnail">
+                  </div>
+                  <div class="large-9 medium-9 small-8 columns">
+                    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                  </div>
+                </div>
+                {% assign teaser=teaser | plus:1 %}
+                {% break %}
+              {% endif %}
+              {% endfor %}
+          {% endif %}
+          {% if teaser > 2 %}
+          {% break %}
+          {% endif %}
         {% endfor %}
-      </dl> -->
-		</div>
-	</div>
-	<div id="comments">
-    <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            var disqus_shortname = 'crisscrossed';
-            var disqus_identifier = '{{ page.url }}';
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
+      <div class="row">
+        <div class="small-10 medium-10 large-8 medium-centered large-centered small-centered colums">
+          <div class="tagging">
+            <dl class="tags">
+              <dt></dt>
+              {% for category in page.categories %}
+              <dd>
+                <a href="/categories/{{ category }}">{{ category }}</a>
+              </dd>
+              {% endfor %}
+            </dl>
+          </div>
         </div>
-	</div>
-
-	  {% include sidebar.html %}
-
+      </div>
+    </div>
+    {% if production %}
+    <div id="comments">
+      <div id="disqus_thread"/>
+      <script type="text/javascript">
+        var disqus_shortname = 'crisscrossed';
+        var disqus_identifier = '{{ page.url }}';
+        (function() {
+          var dsq = document.createElement('script');
+          dsq.type = 'text/javascript';
+          dsq.async = true;
+          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+      </div>
+    </div>
+    {% endif %}
   </div>
-    <script>
-      dug({
-        endpoint: 'https://sharedcount.appspot.com/?url=http://www.crisscrossed.net{{ page.url }}/&api=85601d8f552d0da709682cd919d4e9c1f2e06aef',
-        target: 'tweets',
-        {% raw %}
-        template: '{{Twitter}}'
-        {% endraw %}
-       });
-    </script>
-    {% include footer.html %}
+  <div class="large-4 medium-4 columns">
+  {% include sidebar.html %}
+  </div>
+</div>
 
+{% include footer.html %}

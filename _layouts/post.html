@@ -1,15 +1,15 @@
 {% include header.html %}
-<div class="row">
-  <div class="large-9 columns hfeed" id="content">
-    <div class="post type-post status-publish format-standard hentry post_box top">
-      <div class="headline_area">
+<div class="row" id="post">
+  <div class="large-8 medium-8 columns">
+    <div class="callout font white white-black">
+      <div class="headline-area">
         <div class="comment_bubble">
-          <a href="https://www.twitter.com/ckreutz" id="tweets" target="_blank" title="Twitter"/></div>
-        <h1 class="entry-title">
+          <a href="https://www.twitter.com/ckreutz" id="tweets" target="_blank" title="Twitter"/></a></div>
+        <h1 class="post-title">
           {{ page.title }}</h1>
-        <p class="headline_meta">
+        <p class="headline-meta">
           <abbr class="published" title="{{ page.date | date: '%d-%m-%Y' }}">
-            {{ page.date | date: "%b / %d / %Y"  }}</abbr>|
+            {{ page.date | date: "%b / %d / %Y"  }}</abbr> |
           <span author” class=”vcard>
             <span class=”fn”>
               <a href="https://plus.google.com/108387825462426516671?rel=author">Christian Kreutz</a>
@@ -17,31 +17,50 @@
           </span>
         </p>
       </div>
-      <div class="format_text entry-content">
+      <div class="post-content">
         {% if page.image %}
-        <div class="image stack-for-small media-object">
-          <img src="/images/photos/medium/{{ page.image }}">
+        <div class="image-frame">
+            <img src="/images/pics/{{ page.image }}" class="scale">
+        </div>
           {% if page.caption %}
           <div class="caption">
-            {{ page.caption }}</div>{% endif %}
-        </div>
+            {{ page.caption }}
+        </div>{% endif %}
         {% endif %}
         {{ content  }}
-        <p>
-          <b>If you enjoyed this post, get free updates by
-            <a href="/form.html">
-              Email</a> or
-            <a href="http://feeds2.feedburner.com/crisscrossed">
-              RSS</a>.</b>
-        </p>
-        <dl class="tags">
-          <dt>
-            Tagged as:</dt>{% for category in page.categories %}
-          <dd>
-            <a href="/categories/{{ category }}">{{ category }}</a>
-          </dd>{% endfor %}
-        </dl>
       </div>
+      <h3>Related posts</h3>
+        {% for post in site.posts %}
+          {% if post.url != page.url %}
+            {% for tag in page.categories %}
+              {% if post.categories contains tag %}
+                <div class="row">
+                  <div class="large-3 medium-3 small-4 columns img-round">
+                    <img src="/images/pics/{{ post.image }}" class="thumbnail">
+                  </div>
+                  <div class="large-9 medium-9 small-8 columns">
+                    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                  </div>
+                </div>
+                {% assign teaser=teaser | plus:1 %}
+                {% break %}
+              {% endif %}
+              {% endfor %}
+          {% endif %}
+          {% if teaser > 2 %}
+          {% break %}
+          {% endif %}
+        {% endfor %}
+          <div class="tagging centered">
+            <dl class="tags">
+              <dt></dt>
+              {% for category in page.categories %}
+              <dd>
+                <a href="/categories/{{ category }}">{{ category }}</a>
+              </dd>
+              {% endfor %}
+            </dl>
+          </div>
     </div>
     {% if production %}
     <div id="comments">
@@ -57,13 +76,13 @@
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
         })();
       </script>
-    </div>
+      </div>
     </div>
     {% endif %}
   </div>
-  <div class="large-3 columns">
+  <div class="large-4 medium-4 columns">
   {% include sidebar.html %}
-</div>
+  </div>
 </div>
 
 {% include footer.html %}
