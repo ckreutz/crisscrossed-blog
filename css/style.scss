@@ -31,7 +31,6 @@ $grey-on-grey-font: #999999;
   font-family: $base-font-sans-serif;
 }
 
-@import 'font-awesome.min.css';
 @import 'foundation_settings';
 @import 'foundation/foundation';
 
@@ -54,7 +53,7 @@ $grey-on-grey-font: #999999;
 @include foundation-dropdown-menu;
 @include foundation-flex-video;
 // @include foundation-label;
-@include foundation-media-object;
+// @include foundation-media-object;
 @include foundation-menu;
 @include foundation-off-canvas;
 // @include foundation-orbit;
@@ -165,7 +164,7 @@ ul.menu li > a:hover:before {
 }
 
 #network {
-  background: url(/images/body.png) no-repeat right -25px;
+  background: url(../images/body.png) no-repeat right -25px;
 }
 
 #logo {
