@@ -5,3 +5,4 @@ _site/
 *.sublime-workspace
 s3_website.yml
 .minimagick-cache
+.sass-cache

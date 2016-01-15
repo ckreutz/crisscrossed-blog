@@ -2,6 +2,7 @@ safe:        false
 port: 4000
 baseurl:    /
 url: http://ckreutz.github.io/crisscrossed-blog
+production: false
 
 source:      .
 destination: ./_site
