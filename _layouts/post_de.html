@@ -39,7 +39,7 @@
                     <img src="{{ site.url }}/images/pics/{{ post.image }}" class="thumbnail">
                   </div>
                   <div class="large-9 medium-9 small-8 columns">
-                    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                    <h5><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>
                   </div>
                 </div>
                 {% assign teaser=teaser | plus:1 %}
