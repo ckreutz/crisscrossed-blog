@@ -44,4 +44,4 @@ Welche Herausforderung trifft den Nerv? Langweilige Themen sind ein Rezept für 
 10. **Gute Ideen umformulieren und sie als Eigene verkaufen.**
 Das ist das Schlimmste. Die Leute kommen mit großartigen Ideen und Diskussionen. Das Management erntet diese Früchte und verkauft sie als seinen Erfolg.  Anerkennung ist so wichtig bei offener Innovation. Ehre, wem Ehre gebührt. Beteiligen Sie die Teilnehmer am Umsetzungsprojekt une zeigen Sie transparent die Beiträge.
 
-<iframe width="520" height="345" src="//www.youtube.com/embed/Rr1gvReCfZQ" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video"><iframe width="520" height="345" src="//www.youtube.com/embed/Rr1gvReCfZQ" frameborder="0" allowfullscreen></iframe></div>

@@ -1,29 +1,27 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
-<head>
-<title>{{ page.title }}</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="description" content="{{ content | strip_html | truncatewords: 22 }}" />
-<meta name="keywords" content="{% for category in page.categories %} {{ category }}{% if category != forloop.last %},{% endif %} {% endfor %}" />
-  {% if page.canonical %}
-<link rel="canonical" href="{{ page.canonical }}" />
-  {% endif %}
-  <link rel='alternate' type='application/atom+xml' title='Atom 0.3' href='http://www.crisscrossed.net/atom.xml'>
-<link rel="author" href="https://plus.google.com/108387825462426516671" />
-<link rel="stylesheet" href="{{ site.url }}/css/style.min.css" type="text/css" media="screen, projection" />
-<link rel="stylesheet" href="{{ site.url }}/css/jquery.remodal.min.css" type="text/css" media="screen, projection" />
-<script src="{{ site.url }}/js/dug.min.js"></script>
-<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen, projection" /><![endif]-->
-</head>
-<body class="custom
-  {% if page.layout == 'start' or page.layout == 'start_de' %}
-  blog
-  {% endif %}
-">
-<div id="container">
-<div id="page">
-  {% include nav.html %}
-	<div id="header">
-		<p id="logo"><a href="http://www.crisscrossed.net">crisscrossed</a></p>
-		<p id="tagline">Exploring the web for change. Connecting people and ideas.</p>
-	</div>
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{{ content | strip_html | truncatewords: 22 }}" />
+    <meta name="keywords" content="{% for category in page.categories %} {{ category }}{% if category != forloop.last %},{% endif %} {% endfor %}" />
+    {% if page.canonical %}
+    <link rel="canonical" href="{{ page.canonical }}" />
+    {% endif %}
+    <link rel='alternate' type='application/atom+xml' title='Atom 0.3' href='http://www.crisscrossed.net/atom.xml'>
+    <link rel="author" href="https://plus.google.com/108387825462426516671" />
+    <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen, projection" />
+    <script src="https://use.typekit.net/skp6jtc.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  </head>
+  <body class="util {% if page.layout == 'start' or page.layout == 'start_de' %} blog {% endif %} ">
+    {% include nav.html %}
+  <div class="row" id="network">
+    <div class="large-12 columns">
+  	   <div id="header">
+  		    <div id="logo"><a href="http://www.crisscrossed.net"><img src="/images/logo.png"></a><div>
+  		    <div id="tagline">Thoughts and resources on open and social innovation.</div>
+  	  </div>
+    </div>
+  </div>

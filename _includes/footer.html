@@ -1,43 +1,33 @@
-<div id="footer">
-  <div id="sociallinks">
-    <h3>Find crisscrossed also on</h3> <span>></span>
-    <ul>
-      <li id="linkedinlink"><a href="http://de.linkedin.com/in/ckreutz" title="LinkedIn">Linked In</a></li>
-      <li id="twitterlink"><a href="http://twitter.com/ckreutz" title="Twitter">Twitter</a></li>
+<div class="row" id="footer">
+  <div class="large-8 medium-9 columns">
+    <div class="subline">
+      <h4 class="float-left">Find crisscrossed also on <span>></span></h4>
+      <ul class="no-bullet float-left">
+        <li><a href="http://de.linkedin.com/in/ckreutz" title="LinkedIn" target="_blank"><span class="fa fa-linkedin"></span></a></li>
+        <li><a href="http://twitter.com/ckreutz" title="Twitter" target="_blank"><span class="fa fa-twitter"></span></a></li>
+        <li><a href="https://github.com/crisscrossed" title="Github" target="_blank"><span class="fa fa-github"></span></a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="large-4 medium-3 columns centered">
+    <ul class="no-bullet privacy">
+      <li><a href="/imprint">Imprint / Privacy</a></li>
     </ul>
   </div>
-  <div id="footercontents">
-    <ul>
-      <li id="designcodeby"><a href="/imprint">Imprint / Privacy</a><br><a href="http://www.behance.net/dippa" title="Design By Dippa">Design By Dippa</a></li>
-      <li id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Creative Commons License">Creative Commons License</a></li>
-    </ul>
-  </div>
-</div>
-</div>
 </div>
 
-<div class="redmodal-bg">
-  <div class="remogdal" data-remodal-id="modal">
-  <div class='header'>
-    <i class='icon-envelope'></i>
-    Follow the Crisscrossed blog!
-  </div>
-  <div class='header2'>
-    Get every new post in your inbox!
-  </div>
-  <form action="//crisscrossed.us8.list-manage.com/subscribe/post?u=7e357462910b9a15434ff8359&amp;id=4ce6fba3de" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate>
-  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-    <input type="submit" class="btn submit" value="SEND IT TO ME" />
-</form>
-  <br>
-  <span>100% Privacy. I will never spam you.</span>
-  <p><a class="" href="#">No, I am not interested.</a></p>
-</div>
-</div>
-<!--[if lte IE 8]>
-<div id="ie_clear"></div>
-<![endif]-->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="/js/foundation.core.js"></script>
+<script src="/js/foundation.util.mediaQuery.js"></script>
+<script src="/js/foundation.sticky.js"></script>
+<script src="/js/foundation.util.triggers.js"></script>
+<script src="/js/foundation.responsiveMenu.js"></script>
+<script src="/js/foundation.responsiveToggle.js"></script>
+
+<script>
+ $(document).foundation();
+</script>
+{% if production %}
 <script type="text/javascript">
   var disqus_shortname = 'crisscrossed';
   var disqus_identifier = '{{page.url}}';
@@ -61,5 +51,6 @@
   ga('send', 'pageview');
   ga('set', 'anonymizeIp', true);
 </script>
+{% endif %}
 </body>
 </html>
