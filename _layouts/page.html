@@ -11,24 +11,6 @@
       </div>
     </div>
     </div>
-    {% if production %}
-    <div id="comments">
-      <div id="disqus_thread"/>
-      <script type="text/javascript">
-        var disqus_shortname = 'crisscrossed';
-        var disqus_identifier = '{{ page.url }}';
-        (function() {
-          var dsq = document.createElement('script');
-          dsq.type = 'text/javascript';
-          dsq.async = true;
-          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-      </script>
-      </div>
-    </div>
-    {% endif %}
-  </div>
   <div class="large-4 medium-4 columns">
   {% include sidebar.html %}
   </div>
