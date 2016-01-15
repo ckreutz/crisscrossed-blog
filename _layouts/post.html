@@ -20,7 +20,7 @@
       <div class="post-content">
         {% if page.image %}
         <div class="image-frame">
-            <img src="/images/pics/{{ page.image }}" class="scale">
+            <img src="{{ site.url }}/images/pics/{{ page.image }}" class="scale">
         </div>
           {% if page.caption %}
           <div class="caption">
@@ -39,7 +39,7 @@
                     <img src="/images/pics/{{ post.image }}" class="thumbnail">
                   </div>
                   <div class="large-9 medium-9 small-8 columns">
-                    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                    <h5><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>
                   </div>
                 </div>
                 {% assign teaser=teaser | plus:1 %}
@@ -56,7 +56,7 @@
               <dt></dt>
               {% for category in page.categories %}
               <dd>
-                <a href="/categories/{{ category }}">{{ category }}</a>
+                <a href="{{ site.url }}/categories/{{ category }}">{{ category }}</a>
               </dd>
               {% endfor %}
             </dl>
