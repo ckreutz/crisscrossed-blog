@@ -1,8 +1,8 @@
 safe:        false
 port: 5000
 baseurl:    /
-#url: http://ckreutz.github.io/crisscrossed-blog
-url: http://localhost:5000
+url: http://ckreutz.github.io/crisscrossed-blog
+# url: http://localhost:5000
 production: false
 
 source:      .
