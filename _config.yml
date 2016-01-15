@@ -9,12 +9,8 @@ destination: ./_site
 
 future:      true
 lsi:         false
-highlighter:    false
 permalink:   /:year/:month/:day/:title
 markdown:    rdiscount
-
-rdiscount:
-  extensions: []
 
 maruku:
   use_tex:    false
