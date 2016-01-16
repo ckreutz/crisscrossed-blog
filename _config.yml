@@ -5,6 +5,8 @@ url: http://ckreutz.github.io/crisscrossed-blog
 # url: http://localhost:5000
 production: false
 
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
 source:      .
 destination: ./_site
 
