@@ -1,5 +1,3 @@
----
----
 // CHANGES IN FOUNDATION SETTINGS
 // $global-font-size: 110%; // foundation settings
 // $global-width: rem-calc(1000); // foundation settings
@@ -14,6 +12,9 @@ $main-color: #205580;
 $secondary-color: #e5790c;
 $background-grey-text: #e6e6e6;
 $grey-on-grey-font: #999999;
+$black-font: rgba(0, 0, 0, 0.8);
+$white-bg: rgb(255, 255, 255);
+$grey-on-white-font: #cccccc;
 
 .orange {
   color: $secondary-color;
@@ -33,6 +34,7 @@ $grey-on-grey-font: #999999;
 
 @import 'foundation_settings';
 @import 'foundation/foundation';
+@import "lib";
 
 @include foundation-global-styles;
 @include foundation-grid;
@@ -70,7 +72,6 @@ $grey-on-grey-font: #999999;
 // @include foundation-tooltip;
 @include foundation-top-bar;
 
-@import "lib";
 
 body {
     background: #f7f7f7;
