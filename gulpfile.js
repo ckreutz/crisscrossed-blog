@@ -10,6 +10,11 @@ var nano = require('gulp-cssnano');
 var glob = require("glob");
 var minifyHTML = require('gulp-minify-html');
 var replace = require('gulp-replace');
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
+var jpegtran = require('imagemin-jpegtran');
+var fs = require('fs');
+// var gifsicle = require('imagemin-gifsicle');
 
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -34,7 +39,7 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browser-sync', ['compressjs', 'uncss', 'optimize-html', 'jekyll-build'], function() {
+gulp.task('browser-sync', ['compressjs', 'jekyll-build'], function() {
     browserSync({
         server: {
             baseDir: '_site'
@@ -44,31 +49,30 @@ gulp.task('browser-sync', ['compressjs', 'uncss', 'optimize-html', 'jekyll-build
 
 // minifyjs
 gulp.task('compressjs', function() {
-   gulp.src('js/*.js')
+   gulp.src('js/found*.js')
      .pipe(uglify())
-     .pipe(concat('plugin.js'))
+     .pipe(concat('foundation.js'))
      .pipe(gulp.dest('js/min'));
   });
 
 gulp.task('uncss', function () {
     return gulp.src('_sass/**/*.scss')
-         .pipe(sass({
-            includePaths: ['scss'],
-            onError: browserSync.notify
-        }))
+        .pipe(sass())
         .pipe(concat('style.css'))
         .pipe(uncss({
           media: ['(max-width: 39.9375em) handheld and (orientation: landscape)', '(min-width: 40em)', '(min-width: 64em)'],
           ignore: [
             new RegExp('^meta\..*'),
-            new RegExp('^\.is-.*')
+            new RegExp('^\.is-.*'),
+            /is-anchored/, /is-stuck/, /is-at-top/, /is-at-bottom/,
           ],
            // Wichtig: welche Seite werden einbezogen!
              html: ["_site/index.html", "_site/2015/**/*.html"],
            // html: glob.sync("_site/2015/**/*.html")
         }))
         .pipe(nano())
-        .pipe(gulp.dest('./css'));
+        .pipe(gulp.dest('./_includes'))
+
 });
 
 gulp.task('optimize-html', function() {
@@ -83,16 +87,16 @@ gulp.task('optimize-html', function() {
       .pipe(gulp.dest('_site/'));
 });
 
-// // minifiy images
-// gulp.task('images', function () {
-//  return gulp.src('images/*')
-//      .pipe(imagemin({
-//          progressive: true,
-//          svgoPlugins: [{removeViewBox: false}],
-//          use: [pngquant()]
-//      }))
-//      .pipe(gulp.dest('images'));
-// });
+// minifiy images
+gulp.task('images', function () {
+ return gulp.src('images/*')
+     .pipe(imagemin({
+         progressive: true,
+         svgoPlugins: [{removeViewBox: false}],
+         use: [pngquant()]
+     }))
+     .pipe(gulp.dest('images'));
+});
 
 /**
  * Compile files from _scss into both _site/css (for live injecting) and site (for future jekyll builds)

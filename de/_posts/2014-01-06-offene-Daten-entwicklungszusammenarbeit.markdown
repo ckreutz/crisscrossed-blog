@@ -1,6 +1,6 @@
 ---
 date: 2014-01-29 15:20:23
-layout: post
+layout: post_de
 title: "Vortrag im Betterplace Lab"
 image: "betterplace.png"
 lang: de

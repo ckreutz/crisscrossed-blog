@@ -11,7 +11,9 @@
     {% endif %}
     <link rel='alternate' type='application/atom+xml' title='Atom 0.3' href='http://www.crisscrossed.net/atom.xml'>
     <link rel="author" href="https://plus.google.com/108387825462426516671" />
-    <link rel="stylesheet" href="{{ site.url }}/css/style.css" type="text/css" media="screen, projection" />
+    <style type="text/css">
+    {% include style.css %}
+    </style>
     <script type="text/javascript">
     /*!
     loadCSS: load a CSS file asynchronously.
@@ -64,6 +66,7 @@
         w.loadCSS = loadCSS;
       }
     }( typeof global !== "undefined" ? global : this ));
+
     loadCSS( "{{ site.url }}/css/font-awesome.min.css", document.getElementById("loadcss") );
 
       (function(d) {

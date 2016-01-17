@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_de
 title: "Rathaus 2.0: Frankfurt Gestalten im Deutschlandfunk"
 image: "fg-funk.png"
 lang: de

@@ -1,6 +1,6 @@
 ---
 date: 2014-01-29 15:20:23
-layout: post
+layout: post_de
 title: "10 Gründe warum Open Innovation oft scheitert"
 image: "open-innovation-group.jpg"
 lang: de
