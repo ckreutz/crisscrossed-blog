@@ -7,10 +7,23 @@
   <div class="">
     <ul class="menu">
       <li class="menu-text"></li>
-      <li class="tab"><a href="{{ site.url }}" title="Start">Blog</a></li>
-      <li class="has-submenu"><a href="{{ site.url }}/about">About</a></li>
-      <li class="tab"><a href="{{ site.url }}/archive/" title="Archive">Archive</a>
-      <li class="tab"><a href="{{ site.url }}/de/" title="Deutsch">Deutsch</a></li>
+      {% for link in site.navigation %}
+        {% assign current = nil %}
+        {% assign url = page.url | replace:'/','' %}
+        {% if url == link.url %}
+          {% assign current = "active" %}
+        {% endif %}
+        {% if link.name == "de" and page.categories contains "de" %}
+          {% assign current = "active" %}
+        {% endif %}
+        {% if link.name == "blog" and page.url == "/" %}
+          {% assign current = "active" %}
+        {% endif %}
+        {% if link.name == "blog" and page.lang != "de" and page.layout == "post" %}
+          {% assign current = "active" %}
+        {% endif %}
+        <li class="tab"><a href="{{ site.url }}/{{ link.url }}" title="{{ link.text }}" class="{{ current }}">{{ link.text }}</a></li>
+      {% endfor %}
     </ul>
   </div>
   <div class="top-bar-right">

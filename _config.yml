@@ -1,7 +1,7 @@
 safe:        false
 port: 5000
 baseurl:    /
-url: http://ckreutz.github.io/crisscrossed-blog
+#url: http://ckreutz.github.io/crisscrossed-blog
 production: false
 
 exclude: ["node_modules", "gulpfile.js", "package.json"]
@@ -16,3 +16,17 @@ markdown:    rdiscount
 
 sass:
   style: :compressed
+
+navigation:
+  - text: Blog
+    url:
+    name: blog
+  - text: About
+    url: about
+    name: about
+  - text: Archive
+    url: archive
+    name: archive
+  - text: Deutsch
+    url: de
+    name: de

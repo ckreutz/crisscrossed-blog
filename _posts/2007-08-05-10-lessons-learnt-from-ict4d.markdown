@@ -18,34 +18,16 @@ categories:
 
 
 
-	
+
   1. ICT4D has been and still is narrowly focused on infrastructure.
-
-	
   2. Underestimation for the importance of training, qualification, and the different dimensions of connectivity.
-
-	
   3. ICT4D can only successful if it is a mean and not the end itself.
-
-	
   4. Many projects were not orientated on the needs. The benefit of ICT output remained often unclear.
-
-	
   5. ICT4D projects were often not seen from a holistic perspective. Many projects lacked a sustainable concept.
-
-	
   6. Just to offer information (e.g. websites or databases) leads to nothing when people do not see a benefit in it.
-
-	
   7. ICT4D has social, cultural, political and economical dimensions. In that regard technology is only one part.
-
-	
   8. Many experiments could have been avoided if previous experiences were considered (e.g. rural radios).
-
-	
   9. ICT4D works most successfully when its users take over it, creating and changing technology to their needs.
-
-	
   10. Lastly the ICT4D has only a fragmenting approach of sharing knowledge and learning experiences. Ironically, most ICT4D initiatives are not linked together - the potential of the web has not been bailed.
 
 

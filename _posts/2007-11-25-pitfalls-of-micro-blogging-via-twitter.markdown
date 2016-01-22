@@ -19,36 +19,20 @@ However, in this post I also intend to highlight some possible pitfalls for micr
 
 
 
-	
+
   *     **Quality**
 Some things can be expressed through statuses, but is the outcome really needed information? Is it worth the effort to read all these messages?
-
-	
   *     **Micro-content**
 In 140 characters a lot can be said, but surely nothing thoroughly elaborated and roughly in depth. Can this micro-content help in terms of knowledge sharing or learning? Micro-content is rather vague, or not always precise or self explanatory.
-
-	
   *     **Attention
 **Clearly, this kind of information needs another attention and might even pressure for more multitasking and loss of concentration. It is another step to blur the border between being online and offline.
-
-	
   *     **Time consuming**
 The question here is whether it is more efficient to email or add another piece to the information overload. Or is it really an own channel for communication?
-
-	
   *     **Privacy**
 There is without a doubt a privacy issue of how much you want to let others know about yourself. Being virtually connected does not mean you want to share so much of your privacy.  How can one compromise with the dilemma of being public and private at the same time?
-
-	
   *     **Time span
 **Mostly, there is only a certain window of reception for a message before it is gone. It is a bit like blog posts which get attention the first few days and then they are often forgotten.
-
-	
   * **Engagement**
 It needs a certain size of network and engagement from it to really get feedbacks. Does micro-blogging really lead to exchange or are there just many voices and no responses?
-
-	
   * **The zero sum game of communication**
 The time used on these tools is spent less on others. On Skype chats or Twitter, communication is divided into small bits, what makes it even more difficult to get the whole picture.
-
-

@@ -2,10 +2,11 @@
 <div class="row" id="post">
   <div class="large-8 medium-8 columns">
     <div class="callout font white white-black">
+      <h1 class="centered">Posts for {{ page.category }}</h1>
       <div class="post-content">
         {% for post in site.categories[page.category] %}
-          <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
-          <div class="headline-meta">{{ post.date | date_to_html_string }} –  Filed under {{ post.categories | category_links }}</div>
+          <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+          <div class="headline-meta">{{ post.date | date: '%d-%m-%Y' }} –  Filed under {{ post.categories | category_links }}</div>
           <p>{{ post.content | strip_html | truncatewords: 50 | markdownify }}</p>
           <p><b><a href="{{ site.url }}{{ post.url }}" class="more-link">Read more</a></b></p>
         {% endfor %}

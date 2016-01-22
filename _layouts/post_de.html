@@ -20,7 +20,7 @@
       <div class="post-content">
         {% if page.image %}
         <div class="image-frame">
-            <img src="{{ site.url }}/images/photos/medium/{{ page.image }}" class="scale">
+            <img src="{{ site.url }}/images/pics/{{ page.image }}" class="scale">
         </div>
           {% if page.caption %}
           <div class="caption">
@@ -36,7 +36,7 @@
               {% if post.categories contains tag %}
                 <div class="row">
                   <div class="large-3 medium-3 small-4 columns img-round">
-                    <img src="{{ site.url }}/images/pics/{{ post.image }}" class="thumbnail">
+                    <img src="{{ site.url }}/images/pics/thumb/{{ post.image }}" class="thumbnail">
                   </div>
                   <div class="large-9 medium-9 small-8 columns">
                     <h5><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>

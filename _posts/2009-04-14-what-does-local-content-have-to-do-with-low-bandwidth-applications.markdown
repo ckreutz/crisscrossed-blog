@@ -4,7 +4,6 @@ date: 2009-04-14 21:13:37
 layout: post
 slug: what-does-local-content-have-to-do-with-low-bandwidth-applications
 title: What does local content have to do with low-bandwidth applications?
-wordpress_id: 368
 categories:
 - ICT4D
 - links
@@ -23,17 +22,17 @@ High bandwidth access expands worldwide, [finally in Africa too](http://manyposs
 
 
 
-	
+
   * Checking up a profile on **Facebook** or at least access the log in page,[ which has alone almost 800kb!](http://tools.pingdom.com/fpt/?url=http://www.facebook.com&treeview=0&column=objectID&order=1&type=0&save=true) In a cybercafe, where you have to pay fees per minute, it may take up to 3 minutes with a dial up modem connection.
 
 
 
-	
+
   * Video or audio upload is almost impossible with a low bandwidth connection and can cost you a lot when your tariff is measured in volume instead of time.
 
 
 
-	
+
   * This blog is based on **Wordpress**, which is a great open source tool, but unfortunately not made for a dial up connections. If you want to publish a new post on Wordpress (2.7.1), you have to download over 750kb first.
 
 

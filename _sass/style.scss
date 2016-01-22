@@ -5,8 +5,8 @@
 //    'h2': 35,
 // Rest all in this CSS File
 
-$base-font-sans-serif: "open-sans", sans-serif;
-$base-font-serif:  "pt-sans";
+$base-font-title: "league-gothic", sans-serif;
+$base-font:  "pt-sans";
 
 $main-color: #205580;
 $secondary-color: #e5790c;
@@ -24,12 +24,12 @@ $grey-on-white-font: #cccccc;
   background-color: #018DD8;
 }
 
-.font-serif {
-  font-family: $base-font-serif;
+.font-base {
+  font-family: $base-font;
 }
 
-.font-sans-serif {
-  font-family: $base-font-sans-serif;
+.font-title {
+  font-family: $base-font-title;
 }
 
 @import 'foundation_settings';
@@ -74,14 +74,14 @@ $grey-on-white-font: #cccccc;
 
 
 body {
-    background: #f7f7f7;
+    background-color: #f7f7f7;
     -webkit-hyphens: auto;
      -moz-hyphens: auto;
      -ms-hyphens: auto;
      hyphens: auto;
      word-wrap: break-word;
      color: $black-font;
-     font-family: $base-font-serif;
+     font-family: $base-font;
 }
 
 a, a:hover, .format_text a:hover, .post_tags a, li.widget p a:hover {
@@ -89,14 +89,34 @@ a, a:hover, .format_text a:hover, .post_tags a, li.widget p a:hover {
 }
 
 h1, h2, h3, h4 {
-    font-family: $base-font-sans-serif;
     text-rendering: optimizeLegibility;
     color: #555555;
     line-height: 1.2;
+    text-transform: uppercase;
+}
+
+h1 {
+  font-family: $base-font-title;
+}
+
+h2, h3 ,h4 {
+  font-family: $base-font;
+}
+
+.post-content h2 {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+h2.post-title {
+  font-family: $base-font-title;
+}
+
+blockquote p {
+  color: #555555;
 }
 
 p, ol, ul {
-  font-family: $base-font-serif;
   margin: auto auto 1.5em; /* bottom margin for paragraphs */
   // size fixed in foundation settings
 }
@@ -111,7 +131,6 @@ p, ol, ul {
 }
 
 .post-content li, .page-content li {
-    list-style-type: disc;
     list-style-position: inside;
     text-indent: -1em;
     padding-left: 1em;
@@ -120,7 +139,7 @@ p, ol, ul {
 .top-bar ul {
   display: table;
   margin: 0 auto;
-  font-family: $base-font-serif;
+  font-family: $base-font;
   font-size: 22px;
 }
 
@@ -128,6 +147,7 @@ ul.menu li > a {
   position: relative;
   color: $grey-on-grey-font;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 ul.menu li > a:hover {
@@ -155,21 +175,23 @@ ul.menu li > a:hover:before {
   transform: scaleX(1);
 }
 
+ul.menu a.active {
+    border-bottom: 2px solid;
+    margin-top: -2px;
+}
+
 #header {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
 .button {
   margin-bottom: 0px;
 }
 
-#network {
-  background: url(../images/body.png) no-repeat right -25px;
-}
-
 #logo {
   margin-left: 18px;
+  font-style: italic;
 }
 
 .callout.white {
@@ -196,13 +218,13 @@ ul.menu li > a:hover:before {
 }
 
 #sidebar h3 {
-  font-family: $base-font-serif;
+  font-family: $base-font;
 }
 
 ul.side-nav li {
     background-color: #fff;
     line-height: 29px;
-    font-family: $base-font-serif;
+    font-family: $base-font;
     margin-bottom: 3px;
     padding: 10px;
 }
@@ -262,14 +284,52 @@ ul.side-nav li {
 
 .privacy a {
   color: #999999;
-  font-family:$base-font-serif;
+  font-family:$base-font;
+}
+
+.timeline {
+ list-style: none;
+ }
+ .timeline p {
+   margin-bottom: 4px;
+ }
+ .timeline > li {
+   margin-bottom: 60px;
+ }
+
+ /* for Desktop */
+@media ( min-width : 640px ){
+ .timeline > li {
+   overflow: hidden;
+   margin: 0;
+   position: relative;
+ }
+ .timeline-date {
+   width: 110px;
+   float: left;
+   margin-top: 10px;
+ }
+ .timeline-content {
+   width: 75%;
+   float: left;
+   border-left: 3px $main-color solid;
+   padding-left: 30px;
+   padding-top: 10px;
+ }
+ .timeline-content:before {
+   content: '';
+   width: 12px;
+   height: 12px;
+   background: $secondary-color;
+   position: absolute;
+   left: 123px;
+   top: 19px;
+   border-radius: 100%;
+ }
 }
 
 /* Small only */
 @media screen and (max-width: 39.9375em) {
-  #network {
-    background: url(../images/body.png) no-repeat 100px -45px;
-  }
   .top-bar ul {
     font-size: 16px;
     display: block;
@@ -283,12 +343,13 @@ ul.side-nav li {
 }
 
 /* Medium and up */
-@media screen and (min-width: 40em) {}
+@media screen and (min-width: 40em) {
+}
 
 /* Medium only */
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
-#network {
-    background: url(/images/body.png) no-repeat 200px -45px;
+body {
+    background-image: url(/images/body.png) no-repeat 200px -45px;
   }
 #front .sidebar {
   display: none;
@@ -297,6 +358,9 @@ ul.side-nav li {
 
 /* Large and up */
 @media screen and (min-width: 64em) {
+  body {
+    background-image: url(../images/body.png) no-repeat right -25px;
+  }
   .wider-columm {
     padding-right: 0px;
   }

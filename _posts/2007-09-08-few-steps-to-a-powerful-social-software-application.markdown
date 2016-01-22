@@ -19,19 +19,11 @@ I have been dealing with different kinds of content management systems for some 
 
 
 
-	
+
   1. Pick a hosting package which offers these free and open source software and includes one click installation for applications.
-
-	
   2. Most of these providers offer you a web based administration interface, where you can choose from many different software. With a few clicks a software is installed.
-
-	
   3. The application can be controlled through another web based interface and can be manually configured to different needs. For example, Wordpress can be combined with blog posts and static pages to have a blog and a normal homepage.
-
-	
   4. Hundreds of free websites' templates are offered for all sorts of different taste. In Joomla, it can be easily uploaded on the website itself and you can jump between different designs.
-
-	
   5. Hundreds of different modules or plug-ins allow you to extend your website in all directions. These modules are mostly for free and only need to be uploaded via ftp and activated in the web based configuration.
 
 

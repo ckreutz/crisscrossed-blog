@@ -25,13 +25,9 @@ Not surprisingly, first remarks from the audience were how to apply it and what 
 
 
 
-	
+
   * Marc Pohlmann: "**This web shift is not about coverage, it is about one's niche audience and about having a conversation with it**."
-
-	
   * Thomas Knüwer: "There is not more trash in the Internet it is just so much easier to find it."
-
-	
   * Wieland Stützel: "**Nowadays structured organizations are so much in an internal competition between departments - how shall they possible work together and collaborate and go outside**."
 
 

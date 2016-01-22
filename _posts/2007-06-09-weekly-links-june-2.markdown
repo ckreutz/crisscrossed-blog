@@ -10,19 +10,13 @@ categories:
 ---
 
 
-	
-  * [Interview with Jimmy Wales](http://www.elektrischer-reporter.de/index.php/site/film/43/)
-An interesing interview from a German  blog about community and Wikipedia.
 
-	
+  * [Interview with Jimmy Wales](http://www.elektrischer-reporter.de/index.php/site/film/43/)
+An interesting interview from a German  blog about community and Wikipedia.
   * [Karlsruhe wiki](http://ka.stadtwiki.net/Hauptseite)
 A great example of a wiki for a city in Germany with over 13 thousand articles.
-
-	
   * [Eyes on Darfur](http://www.eyesondarfur.org/)
 After Google offered satellite photos of Darfur, Amnesty put together a great campaign website.
-
-	
   * [Wiser Earth](http://www.wiserearth.org/)
 A new great portal to network activism, civil society and social entrepreneurs.
 

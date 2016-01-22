@@ -25,10 +25,8 @@ But how would you do this nowadays in the realm of web2.0? Two questions came up
 
 
 
-	
-  * Does web2.0 really help us exchange lessons learnt in such an effective manner?
 
-	
+  * Does web2.0 really help us exchange lessons learnt in such an effective manner?
   * Can tagging be the right way to find each others lesson learnt easier?
 
 
@@ -40,13 +38,9 @@ In my opinion tagging is very powerful, but often underestimated, because it giv
 
 
 
-	
+
   * Would that mean I can connect experiences the way it was down with a sophisticated application for the station masters? I wonder whether tags for evaluation can work as good as the topic-wise ones.
-
-	
   * How could the word "slow" be separated in a tag cloud from the word "software" so they do not stand next to each other?
-
-	
   * Do I really need this, or do topic clouds bring me anyway quicker to the field of my interest, and comments deliver the evaluation to me?
 
 

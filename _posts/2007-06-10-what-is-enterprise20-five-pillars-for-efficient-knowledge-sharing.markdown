@@ -26,13 +26,9 @@ Tagging simply means to add key words to every link you save or blog entry you w
 
 
 
-	
+
   * [Tagging in Wikipedia](http://en.wikipedia.org/wiki/Tags)
-
-	
   * [What is tagging? ](http://www.wildapricot.com/blogs/newsblog/archive/2007/03/15/what-is-tagging-and-practical-ways-non-profits-can-use-it.aspx)
-
-	
   * [A social analysis of tagging](http://rashmisinha.com/2005/09/27/a-cognitive-analysis-of-tagging/) with a nice visualization
 
 
@@ -41,13 +37,9 @@ Imagine your bookmarks are visible to your colleagues. You would be able to shar
 
 
 
-	
+
   * Check out my bookmark tag cloud on the right column or go to my [delicious network](http://del.icio.us/network/ckreutz).
-
-	
   * [Social bookmarking in Wikipedia](http://en.wikipedia.org/wiki/Social_bookmarking)
-
-	
   * [Intranet Social Bookmarking: Tagging Behind the Firewall](http://fastforwardblog.com/2007/01/08/intranet-social-bookmarking-tagging-behind-the-firewall/)
 
 
@@ -56,10 +48,8 @@ How often have you answered to the same question over again? Why don't you make 
 
 
 
-	
-  * My blog post about [Sun blogging ](http://www.crisscrossed.net/2007/05/31/sun-blogging-turns-communication-upside-down/)
 
-	
+  * My blog post about [Sun blogging ](http://www.crisscrossed.net/2007/05/31/sun-blogging-turns-communication-upside-down/)
   * Bookmarking, tagging, and social software comes to the Enterprise (nice podcast)
 
 
@@ -68,10 +58,8 @@ Remember how you used to send word files around while working collaboratively on
 
 
 
-	
-  * [Wiki in plain English](http://www.commoncraft.com/video-wikis-plain-english)
 
-	
+  * [Wiki in plain English](http://www.commoncraft.com/video-wikis-plain-english)
   * [Web 2.0 for the enterprise: Wisdom of the employees](http://blogs.zdnet.com/BTL/?p=4881)
 
 
@@ -80,25 +68,17 @@ RSS is a universal format for files which gives you, on the contrary to email, t
 
 
 
-	
-  * [RSS in plain English](http://www.commoncraft.com/rss_plain_english)
 
-	
+  * [RSS in plain English](http://www.commoncraft.com/rss_plain_english)
   * [Changing the Way We Communicate Internally](http://enterpriserss.typepad.com/enterprise_rss/2007/01/changing_the_wa.html)
 
 
 Why all of this? What is the advantage?
 
-	
+
   * Simply because it connects in manifold ways all available resources and people behind it.
-
-	
   * It makes everybody's work transparent and offers new potential for sharing and cooperation.
-
-	
   * It is very easy to use. Just look how many blogs are out there and see how successful [flickr](http://www.flickr.com), [youtube](http://www.youtube.com/) and [delicious](http://del.icio.us/) are.
-
-	
   * It turns communication and knowledge sharing upside down and emphasizes on expertises.
 
 
