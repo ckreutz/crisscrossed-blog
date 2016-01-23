@@ -71,7 +71,7 @@ gulp.task('uncss', function () {
         /is-anchored/, /is-stuck/, /is-at-top/, /is-at-bottom/,
       ],
        // Wichtig: welche Seite werden einbezogen!
-         html: ["_site/index.html", "_site/2015/**/*.html"],
+         html: ["_site/index.html", "_site/2015/**/*.html", "_site/archive/index.html"],
        // html: glob.sync("_site/2015/**/*.html")
     }))
     .pipe(nano())
