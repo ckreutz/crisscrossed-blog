@@ -1,40 +1,29 @@
 safe:        false
-port: 4000
+port: 5000
 baseurl:    /
-url: http://localhost:4000
+#url: http://ckreutz.github.io/crisscrossed-blog
 production: false
+
+exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 source:      .
 destination: ./_site
 
 future:      true
 lsi:         false
-permalink:   /:year/:month/:day/:title
+permalink:   /:year/:month/:day/:title.html
 markdown:    rdiscount
 
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
-
-mini_magick:
-  small:
-    source: images/_photos/original
-    destination: images/photos/small
-    gravity: center
-    extent: "150x150"
-    resize: "150x150"
-  thumbnail:
-    source: images/_photos/original
-    destination: images/photos/thumbnail
-    gravity: center
-    extent: "360x300"
-    resize: "360x200"
-  medium:
-    source: images/_photos/original
-    destination: images/photos/medium
-    gravity: center
-    extent: "670x280"
-    resize: "670x280"
+navigation:
+  - text: Blog
+    url:
+    name: blog
+  - text: About
+    url: about
+    name: about
+  - text: Archive
+    url: archive
+    name: archive
+  - text: Deutsch
+    url: de
+    name: de

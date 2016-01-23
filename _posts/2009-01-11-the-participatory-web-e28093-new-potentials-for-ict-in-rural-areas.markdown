@@ -24,29 +24,15 @@ Web 2.0 solutions offer people in rural areas a platform for networking and know
 
 
 
-	
+
   * Participatory Web – New Potentials for ICT in Rural Areas (Annemarie Matthess, Christian Kreutz)
-
-	
   * NABUUR: Effective Online Peer-to-Peer Knowledge Transfer ([Rolf Kleef](http://www.drostan.org/), Raul Caceres)
-
-	
   * Innovation, Interaction, Information: Using the Social Web ([Peter Ballantyne](http://www.euforic.org/detail_page.phtml?page=about_team&lang=en))
 in Agricultural Development
-
-	
   * Empowering Farmers in India Using the Kisan Blog ([Runa Sarkar, Debahsis Pattanaik](http://kisan.wordpress.com/))
-
-	
   * Web 2.0 in Ecuador: Enhancing Citizenship ([Paula Carrión](http://www.infodesarrollo.ec))
-
-	
   * Farmer-led Documentation ([Dorine Rüter](http://www.ruter.nl/blog/), Anne Piepenstock)
-
-	
   * Potential of Mobile: Cambodian Farmers Turn to their Phones ([Ken Banks](http://www.kiwanja.net), Christian Kreutz)
-
-	
   * The Knowledge Sharing Kit: CGIAR's Wiki Approach (Gerry Toomey)
 
 

@@ -24,19 +24,9 @@ categories:
 
 
 
-	
+
   1. Using the rich data and information available in the web (airplane photos)
-
-	
   2. Collaboratively investigating background information (presidential flights)
-
-	
   3. Using available tools to produce a striking video (Google maps)
-
-	
   4. Offering this movie to a worldwide audience on video sharing sites
-
-	
   5. Advocating for the cause in different networks through blogging
-
-

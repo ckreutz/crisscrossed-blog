@@ -14,21 +14,10 @@ categories:
 
 There are many different types of blogging. [Rohit Bhargava](http://rohitbhargava.typepad.com/) shows us 25 different ones in [his presentation](http://www.slideshare.net/rohitbhargava/the-25-basic-styles-of-blogging-and-when-to-use-each-one/), starting from insight over piggyback to bridge blogging. What fascinates me the most, it is the reasons why people blog. Throughout the last months bloggers tagged each other: [Why Do You Blog?](http://www.soloseo.com/why-blog-meme.html) These are some examples showing how different but also how similar the reason's for blogging are:
 
-
-
-	
   * [How Blogs Have Increased Human Intelligence by a Factor of 5](http://klikhir.blogspot.com/2007/04/how-blogs-have-increased-human.html)
-
-	
   * [5 Reasons Why I Blog](http://randaclay.com/blogging/5-reasons-why-i-blog)
-
-	
   * [Five Reasons Why I Blog](http://litlove.wordpress.com/2007/07/26/five-reasons-why-i-blog/)
-
-	
   * [Five Reasons Why I Blog](http://bluemushrooms.com/five-reasons-why-i-blog/)
-
-	
   * [Why I blog](http://www.jacobsen.no/anders/blog/archives/2003/03/06/why_i_blog.html)
 
 
@@ -36,34 +25,16 @@ There are many different types of blogging. [Rohit Bhargava](http://rohitbhargav
 
 
 
-	
+
   1. to express yourself creatively
-
-	
   2. to document your personal experiences or share them with others
-
-	
   3. to stay in touch with friends and family
-
-	
   4. to share practical knowledge or skills with others
-
-	
   5. to motivate other people to action
-
-	
   6. to entertain people
-
-	
   7. to store resources or information important to you
-
-	
   8. to influence the way other people think
-
-	
   9. to network or to meet new people
-
-	
   10. to make money
 
 

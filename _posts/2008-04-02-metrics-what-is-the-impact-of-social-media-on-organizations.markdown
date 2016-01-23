@@ -20,55 +20,23 @@ Thanks to [Rachel Happe](http://rhappe.typepad.com/about.html), I have now a [li
 
 
 
-	
+
   * Page-views
-
-	
   * Unique visitors
-
-	
   * Members
-
-	
   * Posts (ideas/threads)
-
-	
   * Number of groups (networks/forums)
-
-	
   * Comments & Track-backs
-
-	
   * Tags/Ratings/Rankings
-
-	
   * Time spent on site
-
-	
   * Contributors
-
-	
   * Active contributors
-
-	
   * Word count
-
-	
   * Referrals
-
-	
   * Completed profiles
-
-	
   * Connections (between members)
-
-	
   * Ratios: Member to contributor; Posts to comments; Completed profiles to posts
-
-	
   * Periods: By day, week, month, year
-
-	
   * Frequency: of visits, posts, comments
 
 
@@ -76,19 +44,11 @@ Thanks to [Rachel Happe](http://rhappe.typepad.com/about.html), I have now a [li
 
 
 
-	
+
   * Satisfaction
-
-	
   * Affinity
-
-	
   * Quality and speed of issue resolution
-
-	
   * Referral likelihood
-
-	
   * Relevance of content, connections
 
 
@@ -98,22 +58,10 @@ If you analyze this activities within the organizational contexts, you can easil
 
 
 
-	
+
   * Page views/visitors
-
-	
   * Downloads
-
-	
   * Citations
-
-	
   * Mentions in the media/blogs
-
-	
   * RSS feeds
-
-	
   * Search engine rankings
-
-

@@ -35,17 +35,9 @@ Looking at Europe during its last years many offers have not been taken up. Sure
 
 
   * [Cell Bazaar](http://www.cellbazaar.com/) (Market in your pocket), where you can send and receive small advertisements for selling and buying stuff. All needed is just an SMS function.
-
-
   * The [EPROM project](http://eprom.mit.edu/entrepreneurship.html) in Kenya coaches programmers who come up with promising applications such as  mobile mapping in Kenya.
-
-
   * Afrigadget reports about [a mobile phone based auto security system](http://www.afrigadget.com/2008/08/19/mobile-phone-based-auto-security-system-video/)
-
-
   * [SMS and Web 2.0 for Mumbai Early Warning/Response Project](http://irevolution.wordpress.com/2008/09/16/sms-and-web-20-for-mumbai-early-warningresponse-project/)
-
-
   * [SMS based news and information service in Sri Lanka for human rights monitoring, reporting and advocacy](http://ict4peace.wordpress.com/2008/07/16/jnw-sms-news-service-returns-to-dialog/)
 
 
@@ -62,6 +54,3 @@ I imagine [GPS](http://en.wikipedia.org/wiki/Global_Positioning_System) will bec
 
 
 I anticipate that mobile phones will unleash a lot more disruptive innovations than the PC because since its beginnings has been mostly based on open operations systems and has been much more user-centred, and allows for more options to adapt, hack and apply it. "[These innovations will only increase in the future, as mobile phones become the linchpin for greater economic development.](http://googleblog.blogspot.com/2008/09/future-of-mobile.html)"
-
-
-

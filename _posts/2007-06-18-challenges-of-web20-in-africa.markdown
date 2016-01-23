@@ -26,25 +26,13 @@ No surprise Toni highlighted first, challenges regarding web2.0 for rural develo
 
 
 
-	
+
   * The general problems of connectivity, such as the lack or high price for access. For example, a 3 GB ADSL connection costs up to a hundred dollars in South Africa, which is 15 times the price compared to Germany.
-
-	
   * Web2.0 requires often bandwidth or instant access for videos, podcasts or tools such as google docs.
-
-	
   * Before investing time and resources into web2.0, there is a question to be answered, 'How do these tools benefit local communities and how can they contribute to development?'
-
-	
   * The computer and its appliances are complex and often need to be demystified for beginners, and like everywhere else, training is needed and that can also take quite some time.
-
-	
   * To use web2.0 tools such as wiki, blogs etc., requires well written documentation and training.
-
-	
   * The lack of technical expertise, which is often required, is currently very expensive and very limited outside of urban areas.
-
-	
   * Like many other ICT4D projects, the question for sustainability is important and yet not proven for concepts based on these new tools.
 
 

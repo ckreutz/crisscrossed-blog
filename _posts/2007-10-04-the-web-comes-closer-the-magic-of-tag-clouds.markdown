@@ -23,13 +23,9 @@ Last week, during the [web2fordev conference](http://www.web2fordev.net/), I [pr
 
 
 
-	
+
   * **Transparency **of what a community drives and the community's topics. It turns classical [taxonomy](http://en.wikipedia.org/wiki/Taxonomy) (e.g. a website menu) upside down, so we do not have to rely on "smart" hierarchical structure.
-
-	
   * **Simplicity **in what the sea of information is about. It offers us meta-information about all kinds of content available, and it is easy to tag.
-
-	
   * **Relevance **of what is the meaning of one keyword to another (e.g. social bookmarking). It involves people, who link and connect information, which other no sophisticated search robot can do so far.
 
 

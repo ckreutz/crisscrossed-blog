@@ -20,16 +20,10 @@ categories:
 
 
 
-	
+
   * Electronic waste represents 2 percent of America’s trash in landfills, equal to 70 percent of overall [toxic waste](http://en.wikipedia.org/wiki/Toxic_waste) (wikipedia)
-
-	
   * It is estimated that the US alone exports 80 percent of its e-waste to China, India and Pakistan. ([treehugger](http://www.treehugger.com/files/2007/10/e-waste_in_india.php))
-
-	
   * Germany has a yearly dumb [of over 1 million tons of e-waste](http://ewasteguide.info/international_e_waste_generation), which is over 13 kilos per person.
-
-	
   * Only 11% of PCs are recycled; the percentage for televisions and mainframes recycled is even lower. [(ITfact)](http://itfact.blogspot.com/2007/08/technology-facts-figures_4703.html)
 
 
@@ -39,19 +33,11 @@ Most e-waste goes to Asia, especially India and China, but growing amounts go to
 
 
 
-	
+
   * [E-waste In India: A Growing Industry & Environmental Threat](http://www.treehugger.com/files/2007/10/e-waste_in_india.php)
-
-	
   * [Kenya Faces an E-Waste Time Bomb](http://kenvironews.wordpress.com/2007/09/20/kenya-faces-an-e-waste-time-bomb/)
-
-	
   * [ E-waste poisoning in Nigeria](http://www.greendiary.com/entry/e-waste-poisoning-in-nigeria/)
-
-	
   * [E-Waste is killing Ghanaians slowly](http://ghananewsonline.blogspot.com/2007/08/e-waste-is-killing-ghanaians-slowly.html)
-
-	
   * [E-waste Recycling is Serious Health Threat in China](http://www.treehugger.com/files/2007/07/e-waste_recycling_threat.php)
 
 

@@ -1,66 +1,59 @@
 {% include header.html %}
-<div id="content_box">
-  <div id="content" class="hfeed">
+<div class="row" id="front">
+  <div class="large-5 medium-6 columns wider-columm">
     {% assign main = 1 %}
     {% assign teaser = 1 %}
     {% for post in site.posts %}
     {% if post.lang == 'de' %}
         {% if main < 2 %}
-    <div class="post type-post status-publish hentry format-standard post_box top">
-		  <div class="headline_area">
+    <div class="callout font white white-black">
+		  <div class="headline-area">
         <div class="comment_bubble">
           <a href="https://www.twitter.com/ckreutz" target="_blank" id="tweets1"></a>
         </div>
         {% assign post_url1 = post.url %}
-  			<h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
-				<p class="headline_meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
+  			<h3 class="post-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h3>
+				<p class="headline-meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}"> {{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
 			</div>
-			<div class="format_text entry-content">
-      {% if post.image %}
+			<div class="post-content">
+        {% if post.image %}
         <div class="image">
-          <img src="/images/photos/thumbnail/{{ post.image }}">
+          <img src="{{ site.url }}/images/pics/{{ post.image }}">
         </div>
         {% endif %}
-			  <p>{{ post.content | truncatewords: 180 }} </p>
-        <p><a href="{{ post.url }}" class="more-link">Weiter lesen</a></p>
+			  <p>{{ post.content | strip_html | truncatewords: 130 | markdownify }} <a href="{{ post.url }}" class="button secondary small">Weiter lesen</a></p>
  			</div>
     </div>
+  </div>
+  <div class="large-4 medium-6 columns wider-columm">
     {% assign main = 2 %}
 		{% endif %}
     {% if teaser < 3 and okay == 1 %}
-       <div class="teasers_box">
-      <div class="post type-post status-publish format-standard hentry teaser">
-        <h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
-          </h2>
-          <abbr class="teaser_date published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr>
-
-          <div class="format_teaser entry-content">
-        {% if post.image %}
-        <div class="image">
-          <img src="/images/photos/small/{{ post.image }}">
-        </div>
-          {% endif %}
-            <p>{{ post.content | strip_html | truncatewords: 80 }} </p>
-				  </div>
-            <a class="teaser_link" href="{{ teaser.url }}" rel="nofollow">Weiter lesen</a>
+      <div class="callout font white white-black">
+        <h3 class="post-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h3>
+          <p class="headline-meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
+        <div class="post-content">
+          {% if post.image %}
+          <div class="image">
+            <img src="{{ site.url }}/images/pics/{{ post.image }}">
           </div>
+          {% endif %}
+          <p>{{ post.content | strip_html | truncatewords: 30 | markdownify }}
+            <a class="button secondary small" href="{{ post.url }}">Weiter lesen</a>
+          </p>
+  		  </div>
         </div>
-       {% assign teaser=teaser | plus:1 %}
+        {% assign teaser=teaser | plus:1 %}
 			    {% endif %}
         {% assign okay = 1 %}
           {% endif %}
+        {% if teaser > 2 and main > 1 %}
+        {% break %}
+        {% endif %}
 			  {% endfor %}
 		  </div>
-
-
+    <div class="large-3 medium-12 columns">
 		{% include sidebar.html %}
-      <script>
-        dug({
-          endpoint: 'https://free.sharedcount.com/?url=http://www.crisscrossed.net{{ post_url1 }}/&apikey=85601d8f552d0da709682cd919d4e9c1f2e06aef',
-          target: 'tweets1',
-          {% raw %}
-          template: '{{Twitter}}'
-          {% endraw %}
-         });
-       </script>
-      {% include footer.html %}
+  </div>
+</div>
+{% include footer.html %}

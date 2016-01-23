@@ -1,11 +1,34 @@
-<ul class="menu">
-<li class="tab tab-home"><a href="http://www.crisscrossed.net">Blog</a></li>
-<li class="tab tab-1"><a href="/about/" title="About">About<!--[if gte IE 7]><!--></a><!--<![endif]-->
-    </li>
-  </li>
-<li class="tab tab-2"><a href="/archive/" title="Archive">Archive</a>
-<li class="tab tab-5"><a href="http://www.crisscrossed.de/en/services" title="Services" target="_blank">Services</a></li>
-<li class="tab tab-5"><a href="http://www.crisscrossed.de/en/referenzen" title="Services" target="_blank">References</a></li>
-<li class="tab tab-4"><a href="/de/" title="Deutsche Artikel">Deutsche Artikel</a></li>
-<li class="tab tab-3"><a href="http://www.crisscrossed.de/en/contact/" title="Contact" target="_blank">Contact</a></li>
-  </ul>
+<div class="title-bar" data-responsive-toggle="menu" dropzone="" data-hide-for="medium">
+  <button class="menu-icon" type="button" data-toggle></button>
+  <div class="title-bar-title"></div>
+</div>
+
+<div class="top-bar" id="menu">
+  <div class="">
+    <ul class="menu">
+      <li class="menu-text"></li>
+      {% for link in site.navigation %}
+        {% assign current = nil %}
+        {% assign url = page.url | replace:'/','' %}
+        {% if url == link.url %}
+          {% assign current = "active" %}
+        {% endif %}
+        {% if link.name == "de" and page.categories contains "de" %}
+          {% assign current = "active" %}
+        {% endif %}
+        {% if link.name == "blog" and page.url == "/" %}
+          {% assign current = "active" %}
+        {% endif %}
+        {% if link.name == "blog" and page.lang != "de" and page.layout == "post" %}
+          {% assign current = "active" %}
+        {% endif %}
+        <li class="tab"><a href="{{ site.url }}/{{ link.url }}" title="{{ link.text }}" class="{{ current }}">{{ link.text }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="top-bar-right">
+    <ul class="menu">
+      <li></li>
+    </ul>
+  </div>
+</div>

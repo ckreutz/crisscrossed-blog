@@ -1,0 +1,373 @@
+// CHANGES IN FOUNDATION SETTINGS
+// $global-font-size: 110%; // foundation settings
+// $global-width: rem-calc(1000); // foundation settings
+//     'h1': 40,
+//    'h2': 35,
+// Rest all in this CSS File
+
+$base-font-title: "league-gothic", sans-serif;
+$base-font:  "pt-sans";
+
+$main-color: #205580;
+$secondary-color: #e5790c;
+$background-grey-text: #e6e6e6;
+$grey-on-grey-font: #999999;
+$black-font: rgba(0, 0, 0, 0.8);
+$white-bg: rgb(255, 255, 255);
+$grey-on-white-font: #cccccc;
+
+.orange {
+  color: $secondary-color;
+}
+
+.wethinq-color {
+  background-color: #018DD8;
+}
+
+.font-base {
+  font-family: $base-font;
+}
+
+.font-title {
+  font-family: $base-font-title;
+}
+
+@import 'foundation_settings';
+@import 'foundation/foundation';
+@import "lib";
+
+@include foundation-global-styles;
+@include foundation-grid;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-forms;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+// @include foundation-accordion;
+// @include foundation-accordion-menu;
+// @include foundation-badge;
+// @include foundation-breadcrumbs;
+// @include foundation-button-group;
+@include foundation-callout;
+// @include foundation-close-button;
+@include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
+@include foundation-flex-video;
+// @include foundation-label;
+// @include foundation-media-object;
+@include foundation-menu;
+@include foundation-off-canvas;
+// @include foundation-orbit;
+// @include foundation-pagination;
+// @include foundation-progress-bar;
+// @include foundation-slider;
+@include foundation-sticky;
+// @include foundation-reveal;
+// @include foundation-switch;
+// @include foundation-table;
+// @include foundation-tabs;
+// @include foundation-thumbnail;
+@include foundation-title-bar;
+// @include foundation-tooltip;
+@include foundation-top-bar;
+
+
+body {
+    background-color: #f7f7f7;
+    -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     hyphens: auto;
+     word-wrap: break-word;
+     color: $black-font;
+     font-family: $base-font;
+}
+
+a, a:hover, .format_text a:hover, .post_tags a, li.widget p a:hover {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+    text-rendering: optimizeLegibility;
+    color: #555555;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+h1 {
+  font-family: $base-font-title;
+}
+
+h2, h3 ,h4 {
+  font-family: $base-font;
+}
+
+.post-content h2 {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.post-title {
+  font-family: $base-font-title;
+}
+
+blockquote p {
+  color: #555555;
+}
+
+p, ol, ul {
+  margin: auto auto 1.5em; /* bottom margin for paragraphs */
+  // size fixed in foundation settings
+}
+
+.post-content p:first-of-type:first-letter {
+  font-size: 30px;
+}
+
+#post p + p {
+  text-indent: 1.5em; /* indent subsequent paragraphs */
+  margin-top: -1.5em; /* no top margin on subsequent paragraphs */
+}
+
+.post-content li, .page-content li {
+    list-style-position: inside;
+    text-indent: -1em;
+    padding-left: 1em;
+}
+
+.top-bar ul {
+  display: table;
+  margin: 0 auto;
+  font-family: $base-font;
+  font-size: 22px;
+}
+
+ul.menu li > a {
+  position: relative;
+  color: $grey-on-grey-font;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+ul.menu li > a:hover {
+  color: $grey-on-grey-font;
+}
+
+ul.menu li > a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: $grey-on-grey-font;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+ul.menu li > a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+ul.menu a.active {
+    border-bottom: 2px solid;
+    margin-top: -2px;
+}
+
+#header {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.button {
+  margin-bottom: 0px;
+}
+
+#logo {
+  margin-left: 18px;
+  font-style: italic;
+}
+
+.callout.white {
+  border: 1px solid #efefef;
+}
+
+.callout.blue {
+  background: $main-color;
+  border: 1px solid #efefef;
+  color: #ffffff;
+  h4 {
+  color: #ffffff;
+  }
+}
+
+.caption {
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+.headline-meta {
+  font-size: 12px;
+  margin-top: 15px;
+}
+
+#sidebar h3 {
+  font-family: $base-font;
+}
+
+ul.side-nav li {
+    background-color: #fff;
+    line-height: 29px;
+    font-family: $base-font;
+    margin-bottom: 3px;
+    padding: 10px;
+}
+
+.side-nav li a {
+  color: #555555;
+  font-size: 1.1rem;
+}
+
+.side-nav li a:hover, .side-nav li a:focus {
+  background: none;
+  color: #555555;
+}
+
+.fa.sep {
+  color: $background-grey-text;
+}
+
+.subline h4 {
+  color: $secondary-color;
+  font-weight: bold;
+  text-transform: uppercase;
+  display: inline;
+
+  span {
+    color: #999999;
+  }
+}
+
+.subline .fa {
+  font-size: 1.3rem;
+  margin-left: 10px;
+}
+
+.subline ul li {
+  display: inline;
+}
+
+.thumbnail {
+  margin: 5px 0 5px 0;
+}
+
+#footer {
+  margin-bottom: 30px;
+  margin-top: 15px;
+}
+
+.tagging dl dd a {
+  background: $background-grey-text;
+  color: $grey-on-grey-font;
+  font-size: 16px;
+}
+
+.tagging dl dt, .tagging dl dd {
+  float: none;
+}
+
+.privacy a {
+  color: #999999;
+  font-family:$base-font;
+}
+
+.timeline {
+ list-style: none;
+ }
+ .timeline p {
+   margin-bottom: 4px;
+ }
+ .timeline > li {
+   margin-bottom: 60px;
+ }
+
+ /* for Desktop */
+@media ( min-width : 640px ){
+ .timeline > li {
+   overflow: hidden;
+   margin: 0;
+   position: relative;
+ }
+ .timeline-date {
+   width: 110px;
+   float: left;
+   margin-top: 10px;
+ }
+ .timeline-content {
+   width: 75%;
+   float: left;
+   border-left: 3px $main-color solid;
+   padding-left: 30px;
+   padding-top: 10px;
+ }
+ .timeline-content:before {
+   content: '';
+   width: 12px;
+   height: 12px;
+   background: $secondary-color;
+   position: absolute;
+   left: 123px;
+   top: 19px;
+   border-radius: 100%;
+ }
+}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  .top-bar ul {
+    font-size: 16px;
+    display: block;
+  }
+  .subline .fa {
+    font-size: 1.1rem;
+  }
+  .subline ul {
+    margin-top: -1px;
+  }
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  #background {
+    background-image: url(/images/body.png) no-repeat 200px -45px;
+  }
+#front .sidebar {
+  display: none;
+  }
+}
+
+/* Large and up */
+@media screen and (min-width: 64em) {
+  #background {
+    background-image: url(/images/body.png) no-repeat right -25px;
+  }
+  .wider-columm {
+    padding-right: 0px;
+  }
+  .subline .fa {
+    margin-top: 3px;
+  }
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {}

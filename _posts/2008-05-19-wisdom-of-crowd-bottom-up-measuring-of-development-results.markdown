@@ -39,13 +39,9 @@ Now imagine the potential to measure development projects from a grassroot level
 
 
 
-	
+
   * Using mobile phones to collect information.
-
-	
   * Present all information on a website with maps and databases.
-
-	
   * Use the website to connect the people who send information and aim to get more accurate information.
 
 

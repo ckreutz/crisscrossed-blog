@@ -15,10 +15,10 @@ I have already written about [10 challenges for web2.0 in an organization](http:
 
 
 
-	
+
   1. Culture is a key factor. Blogs and wikis change communication drastically to a horizontal level and make it transparent. Workflows are given up. Openness is a key to accept ideas and ongoing changes. If employees do not dare to share, the greatest tools will end up on failure. In a way, hierarchy and power driven communication are poison for such a participative approach.
 
-	
+
   2. Embrace the new paradigm for knowledge sharing. The collaborative web stands in contrast to many efforts trying to codify and categorize information. Making web2.0 work in an organization requires to accept knowledge in its different dimensions. Information cannot be own by only one party. Information can be sorted, interpreted and exchanged in multiple ways. Knowledge and learning evolves in a network.
 
 
@@ -36,16 +36,8 @@ web2.0 vs. enterprise2.0
 
 
 
-	
+
   * Organisational structure: Flat vs Hierarchical--flat organisational structures encourage collaboration while hierarchical ones hinder.
-
-	
   * Attitude: Sharing vs Hoarding--in your private life you share information freely without expectation of recompense, while at work, all people ask is, 'what is in it for me?'.
-
-	
   * Visibility: Anonymity vs Recognition--in Web2.0 you are one of the herd; the majority of users can assume that there is anonymity in a crowd. At work people seek recognition for their contribution as career progression can depend on it.
-
-	
   * Society: Public vs Private--in Web2.0 you are able to control the information you share as well as free to create alternative persona's, masks, behind which you can hide. In Enterprise2.0 there is no anonymity, everything you say and do online can be traced back to you.
-
-

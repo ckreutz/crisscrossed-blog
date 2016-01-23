@@ -20,16 +20,10 @@ This is the content of the paper:
 
 
 
-	
+
   1. The social web’s democratic potential
-
-	
   2. New media, new democracy?
-
-	
   3. The social web in practice
-
-	
   4. Conclusions
 
 
@@ -41,13 +35,9 @@ The second chapter deals about potentials for democracy. Leadbeaters identifies 
 
 
 
-	
+
   1. **Accountability**: Citizens have new means to held politicians to account. [Mzalendo.com](http://mzalendo.com/) in Kenya is such an example.
-
-	
   2. **Debate**: The social web allows for more people to have a voice and promotes collective problem solving.
-
-	
   3. **Campaigning**: The web dramatically cutting costs of mobilising people in campaigns.
 
 
@@ -55,16 +45,10 @@ So, is this really a push forward for e-democracy? For Leadbeater deliberation i
 
 Very interesting are also the downsides Leadbeaters identifies:
 
-	
+
   * **Cacophony** of too many voices and few responses.
-
-	
   * **Echo chamber**: In a niche one hears from others a confirmation of what they already think.
-
-	
   * **Quality**: How can a certain degree of quality be obtained when the classical gatekeepers such as the media are lost.
-
-	
   * **Equality**: Those already rich in knowledge, information and connections may just get richer.
 
 
@@ -73,13 +57,9 @@ Very interesting are also the downsides Leadbeaters identifies:
 
 
 
-	
+
   1. **Sustaining innovations** in which the third sector uses the social web to do traditional tasks more efficiently
-
-	
   2. **Disruptive innovations** which create models for the third sector so it can organize itself
-
-	
   3. **Hybrids** in which organisations create a mix of traditional and new ways of working.
 
 

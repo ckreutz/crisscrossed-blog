@@ -18,16 +18,10 @@ Going back to the topic, **I wonder why many IT-specialists do not show a wider 
 
 
 
-	
+
   * IT-experts know by own experience that web2.0 is just another approach, and doubt the hype around it.
-
-	
   * IT-experts are bored of the triviality of this kind of software such as blogs and wikis.
-
-	
   * IT-departments completely underestimate the effects for web2.0 software.
-
-	
   * Web2.0 is seen secondary as technological and it is much more about culture, communication and commitment (3C)
 
 

@@ -23,16 +23,10 @@ But let's have a look at the issue of language. [Dave Gray](http://communication
 
 
 
-	
+
   1. Communication
-
-	
   2. Conversation
-
-	
   3. Collaboration
-
-	
   4. Co-creation
 
 

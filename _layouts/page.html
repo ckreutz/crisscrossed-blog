@@ -1,15 +1,19 @@
 {% include header.html %}
-<div id="content_box">
-  <div id="content">
-    <div class="post type-post status-publish format-standard hentry post_box top">
-		  <div class="headline_area">
-  			<h1 class="entry-title">{{ page.title }}</h1>
-			</div>
-			<div class="format_text entry-content">
+<div class="row" id="page">
+  <div class="large-8 medium-8 columns">
+    <div class="callout font white white-black">
+      <div class="headline-area">
+        <h1 class="page-title" style="margin-bottom: 25px;">
+          {{ page.title }}</h1>
+      </div>
+      <div class="page-content">
         {{ content  }}
-		</div>
-	</div>
+      </div>
+    </div>
+    </div>
+  <div class="large-4 medium-4 columns">
+  {% include sidebar.html %}
+  </div>
 </div>
 
-{% include sidebar.html %}
 {% include footer.html %}

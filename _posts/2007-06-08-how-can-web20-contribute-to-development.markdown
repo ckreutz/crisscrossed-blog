@@ -13,7 +13,7 @@ categories:
 - web2fordev
 ---
 
-I ampart of the organization team for the web2fordev conference in Rome, this coming September, and therefore I am excited to anounce our new blog here too.
+I am part of the organization team for the web2fordev conference in Rome, this coming September, and therefore I am excited to anounce our new blog here too.
 
 Dear friends, colleagues, bloggers and readers,
 

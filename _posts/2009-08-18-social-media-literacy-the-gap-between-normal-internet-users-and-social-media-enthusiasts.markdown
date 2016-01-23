@@ -18,8 +18,6 @@ Does social media or Web 2.0 flourish from itself?  Will Internet users consequ
 
 [![directions](/images/directions.jpg)](http://www.flickr.com/photos/sebjoguet/162330937/)
 
-
-
 For a few years now, I have been participating in the social web, trying to figure out the newest cutting edge tools and enjoying a wider network of creative and inspiring people. But I often forget that the rest of the world is not necessarily as deeply involved in the Internet. A recent study in Europe found out that one third of Europeans have not ever used the Internet. Not rarely some argue that this is a generation issue, but I have my doubts.
 
 I recently trained a group of young people and as a result experienced that only a small minority of them where involved in anything like social media. One can argue that it may be the German scepticism towards new technology. At a conference with many different workshops, I experienced that Web 2.0, as a topic, did not appeal many youngsters. In the past trainings I experienced once again how complex it is to be able to use all these different tools, let alone finding out which are the most useful ones. I thought back to the times[ when I had my learning curve](http://www.crisscrossed.net/2007/06/26/a-learning-story-my-way-to-web20/) and how long it took me to understand all these different concepts and opportunities.
@@ -33,39 +31,20 @@ But are there so many other possibilities which can be achieved without training
 
 
 
-Some questions for example:
+## Some questions for example:
 
-
-
-	
   * Where and how do I find information through the social web?
-
-	
   * What are these clouds of words and what do they tell me?
-
-	
   * How do I know which information is accurate or right?
-
-	
   * Where shall I blog, for what audience and for which topic?
-
-	
   * How can I easily filter all this information?
-
-	
   * Why shall I communicate with strangers with just 160 characters?
-
-	
   * What happens with the profile I create on a social network website?
-
-	
   * Why shall I make all that stuff public, when I can privately exchange it all by email?
 
 
 I could come up with many more questions, which are often tricky to answer, but it is essential to persuade more people engaging in the social web for knowledge sharing, learning and open innovation.  Of course there are countless blogs and growing twitters, who contribute great value and help, but they are all scattered around the web and rarely written for beginners.
 
-Do you share my concern from the widen gap due to the fast pace to the web?
-
-What do you think are the ways and means to reduce the gap?
-
-Is there any great training material or tutorial available, which do not justify my critic?
+* Do you share my concern from the widen gap due to the fast pace to the web?
+* What do you think are the ways and means to reduce the gap?
+* Is there any great training material or tutorial available, which do not justify my critic?

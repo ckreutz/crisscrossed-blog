@@ -1,10 +1,8 @@
 ---
-comments: true
 date: 2007-05-07 07:28:00
 layout: post
 slug: mobile-phones-for-development
 title: Mobile phones for development
-wordpress_id: 27
 categories:
 - ICT4D
 - africa
@@ -18,18 +16,9 @@ A lot has been debated about the one laptop per child initiative, but less has b
 
 For the first time communication technology is widely accessible in developing countries, and that does not only carry economical potential, but also social implications. This offers new approaches for development as it is shown in a [BBC-report](http://news.bbc.co.uk/2/hi/technology/6241603.stm): sms information services such as job announcements, or money transactions through mobiles --where bank accounts are scarce, or network linked to activism and its effects on social hierarchy. The following examples show more successful approaches with positive impacts:
 
-
-
-	
-  * [ Indian Farmers send SMS to sort out problems](http://www.textually.org/textually/archives/2007/04/015736.htm)
-
-	
+  * [Indian Farmers send SMS to sort out problems](http://www.textually.org/textually/archives/2007/04/015736.htm)
   * [Farming on mobile phones in rural Uganda](http://www.bellanet.org/content/farming-mobile-phones-rural-uganda)
-
-	
   * [How mobile devices such as PDAs can improve health care delivery in Africa](http://www.idrc.ca/en/ev-93967-201-1-DO_TOPIC.html)
-
-	
   * The [Frontline SMS](http://www.frontlinesms.net/) application made it possible to monitor the Nigerian election by mobile phones
 
 

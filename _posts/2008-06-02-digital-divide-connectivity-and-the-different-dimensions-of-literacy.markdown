@@ -27,38 +27,21 @@ I summarized here the different steps of literacy necessary to fully leverage th
 
 
 
-	
+
   1. **Basic or core literacies**
 This term still applies to the core or foundation literacies of learning how to read, how to write and how to perform simple numeracy tasks necessary in everyday life.
-
-	
   2. **Computer literacy  **
 Computer literacy means the efficient ability to know how to use and operate computers as information processing machine
-
-	
     * **a. Hardware Literacy**
 Hardware literacy refers to the set of basic operations you need to know in order to use a computer such as a Personal Computer (PC) or Laptop, or perhaps a combination hand-held device such as BlackBerry efficiently.
-
-	
     * **b. Software Literacy. **
 Software literacy refers to the “invisible” set of general-purpose procedures and instructions that the computer or telecommunications hardware requires in order to perform its functions properly.
-
-
-
-
-	
   3. **Media Literacy **
 Media literacy embraces everything from having the knowledge needed to use old and new media technology to having a critical relationship to media content in a time when the media constitute one of the most powerful forces in society.
-
-	
   4. **Distance Education and E-Learning **
-
-	
   5. **Cultural Literacy **
 Cultural literacy means a knowledge of, and understanding, of how a country’s, a religion’s, an ethnic group’s, or a tribe’s traditions, beliefs, symbols and icons, celebrations, and traditional means of communication (e.g. orally) impact the creation, storage, handling, communication, preservation and archiving of data, information and
 knowledge, using technologies.
-
-	
   6. **Information Literacy **
 ... empower people in all walks of life to seek, evaluate, use and create information
 effectively to achieve their personal, social, occupational and educational goals.

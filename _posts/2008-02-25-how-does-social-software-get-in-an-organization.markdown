@@ -21,35 +21,29 @@ Social software arrives in an organization in many different ways. Traditionally
 
 
 
-	
+
   * _Top down
 _In the “top down” model organization’s leaders implement and lead the adoption of tools and techniques such as blogs, wikis, social networking systems, shared bookmarks, and podcasting.
 
-	
+
   * _Bottom up
 _In the “bottom up” model the workers start blogging, using wikis and social networking systems to advance their jobs.
 
-	
+
   * _Inside out
 _This is a variation of “bottom up,” only this time the tools are adopted internally by the organization and their usage spills over into external markets, members, or customers of the organization.
 
-	
+
   * _Outside in
 _In this model the adoption of social media and social networking by the marketplace progresses to a point where the organization can no longer ignore it, especially if usage by competitors starts to become public.
 
 
 But why is it interesting to know how it happens?
 
-	
+
   1. It says a lot about the organizational culture.
-
-	
   2. It lets you connect it better to existing web solutions.
-
-	
   3. Too many different social software not connected nor taken with enough care will lead to another information overload and frustration.
-
-	
   4. Social media needs its audience and that can flourish itself in an organizational environment as long as people are aware of it.
 
 
