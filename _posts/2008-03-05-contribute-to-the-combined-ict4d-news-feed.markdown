@@ -32,7 +32,7 @@ You can also subscribe directly to the main feed that contains a lot of resource
 
 
 
-	
+
   * [**ICT4Dfeed 2.0 **](http://feeds.feedburner.com/ict4dfeed)
 
 
@@ -44,10 +44,8 @@ First learning experiences:
 
 
 
-	
-  1. To filter better ICT4D related content it would be helpful to have a list of key words for ICT4D such as "digital divide". Do you know of any other words? If so, please comment or send them to me.
 
-	
+  1. To filter better ICT4D related content it would be helpful to have a list of key words for ICT4D such as "digital divide". Do you know of any other words? If so, please comment or send them to me.
   2. For example [apc.org](http://www.apc.org/en/blog) has no RSS, but with dapper.net, I could build a feed.
 
 
@@ -55,19 +53,11 @@ First learning experiences:
 
 
 
-	
+
   * There are currently ten subscribers to the feed. Thanks!
-
-	
   * Thanks to [Ella Roman](http://www.designedforafrica.org) I got some more interesting feeds.
-
-	
   * It seems that the feed is growing by size and entries, so I try to filter not relevant stuff out. For example the key word "digital divide" also shows entries from European cases.  But is this interesting in the ICT4Dfeed?
-
-	
   * One way to filter is to subscribe only to a category of a blog.  For example [next billion for example has the category "Telecommunications and IT](http://www.nextbillion.net/blogs/topic/telecommunications-and-it) or [Ethan Zuckerman has one on ICT4D](http://www.ethanzuckerman.com/blog/category/ict4d/).
-
-	
   * I added the respective source where the link is from e.g. Delicious, blog search, blog posts, ICT4D organization, media and ICT4D community.
 
 

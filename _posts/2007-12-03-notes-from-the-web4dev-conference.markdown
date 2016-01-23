@@ -32,13 +32,9 @@ I also met Helene Karamagi and beside from exchanging some iphone hacking tips, 
 
 
 
-	
+
   1. In Uganda, by next year, **all local districts will be connected to the Internet**. This will enable a new way for information sharing between rural and urban areas.
-
-	
   2. This means that there will be a high demand for web solutions and all sorts of applications that **will lead to a rise on new enterprises in that domain**.
-
-	
   3. Whereas in the **beginning it was to NGOs, slowly the private sector is getting involved** asking how to contribute to ICT4D. It is entrepreneurs, who try to develop business models for connectivity and web solution, which make profit and are potentially more sustainable.
 
 

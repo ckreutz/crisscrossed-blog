@@ -29,19 +29,9 @@ I think the classical Intranet -- a neat little homepage with different topics, 
 
 
 
-	
+
   * Obviously, one danger is that all information, conversation and ideas are spread over the internet. How can you find out about what your colleague is doing? The internal search engines does not grasp it and again the possible transparency and exchange is lost because of too many tools in too many places.
-
-	
   * In the beginning it does need a learning phase of how to use each tool best. The key is to bring the right mixture of tools together, which fits best to the organizational culture.
-
-	
   * A holistic approach is important, otherwise social software leads to an information overload. Therefore filters, feeds and consistency are decisive.
-
-	
   * Social software depends heavily on its employee's engagement, contrary to conventional Intranets. If there is no motivation, then better stick to the old Intranet.
-
-	
   * Web knowledge sharing can be very efficient, but it does not replace direct face to face communication.
-
-

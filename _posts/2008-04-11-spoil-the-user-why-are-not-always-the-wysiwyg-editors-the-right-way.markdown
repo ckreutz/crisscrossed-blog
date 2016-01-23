@@ -24,16 +24,10 @@ So far, I am amazed about the collaboration potential of wikis, but also disappo
 
 
 
-	
+
   * There are different little barriers one has to bear before one can start editing a wiki page. Most people are used to Word, and WYSIWYG editors are familiar in this regard. Cryptic code might be confusing and needs some experience.
-
-	
   * WYSIWYG give guidance and integrate nicely other media such as images or table.
-
-	
   * A wiki is not seldom confusing because of its missing hierarchy. WYSIWYG editors ease to set up new pages or link to existing ones.
-
-	
   * Many wikis still lack user orientation and are rather confusing (e.g. no hierarchical menu or insufficient linking). The less a user has to think or adapt, the better. Content should matter.
 
 
@@ -41,19 +35,11 @@ So far, I am amazed about the collaboration potential of wikis, but also disappo
 
 
 
-	
+
   * Too much function distracts from content. It is the same problem with Word. Hours spent on elaborating sophisticated tables instead on concentrating on the content.
-
-	
   * Code editors limit users and let them focus on structured content -- what is useful and which structure (e.g. header and bullet point lists) is best for the reader? If used properly, those texts have more clarity.
-
-	
   * WYSIWYG invite to paste all content completely from word, which is not necessarily conducive for collaboration.
-
-	
   * Basically, it is a short code list to learn, and then you can write faster and it is more simply to edit codes.
-
-	
   * No doubt the code created by WYSIWYG is often a mess and does not separate content and formatting.
 
 

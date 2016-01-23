@@ -22,25 +22,13 @@ So, what are some of the potentials and obstacles? I tried to list the points I 
 
 
 
-	
+
   * Websites become more lightweight, the separation of layout and content gives more ways to access.
-
-	
   * Device independent publishing such as RSS feed.
-
-	
   * Beta mode of websites focuses on its users and offers multiple channels to distribute and exchange information from Email to SMS.
-
-	
   * Mashups allow to mix and filter content before it is delivered to its users. That means standard searches, feeds or information channels can be individually subscribed to get relevant content.
-
-	
   * The fusion of mobile phones and the web allow new ways of access and interaction. Market information systems are one way, but tools, such as Twitter, open a two-way conversation.
-
-	
   * There is a boost in languages, especially through open source software. Excellent publishing software is freely available in dozens of different languages such as Arabic, Swahili, etc. Web2.0 has a boost in forming own distinct language spaces.
-
-	
   * The personal computer plays less of a role with new innovations such as [software on a USB flash sticks](http://twowhizzy.blogspot.com/2008/03/making-portable-apps-tool-box.html) or web based software.
 
 
@@ -53,24 +41,16 @@ Kevin Painting makes a good point in his post (Update: not accessible anymore):
 By the way,  this paragraph is part of a blog post series about a "One Laptop Per Farmer" by Hans Jörg Neun, who is director of CTA.
 
 
-> 
+>
 **Obstacles**
 
 
 
-	
+
   * The major concern certainly is the bandwidth issue which, nowadays, websites need. Websites not only have many photos but also widgets and many third party applications.
-
-	
   * Podcasts and video streaming is in many places extremely pricy. For example, in South Africa only volume tariffs are offered.
-
-	
   * To interact fully in the particapative web, one needs to be frequently online. Most of it becomes even instant communication and leaves out those who have only sporadic access.
-
-	
   * Most resources are invested in new fancy and high bandwidth applications, and less into innovative lightweight applications for small connectivity.
-
-	
   * Often, important rules of usability are left aside and websites are confusing and overloaded.
 
 

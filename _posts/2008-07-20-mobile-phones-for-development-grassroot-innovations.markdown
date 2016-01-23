@@ -28,22 +28,12 @@ During the session we also collected various examples, which I categorized as th
 
 
 
-	
+
   * Data transfer (mobile banking, market information system)
-
-	
   * Communication ([community radios to connect with listeners](http://comunica.org/radio2.0/archives/87))
-
-	
   * Coordination (Twitter or [Frontline SMS](http://www.frontlinesms.com/) for election monitoring)
-
-	
   * Collaboration (crowdsourcing such as [ushahidi.com](http://www.ushahidi.com) or check out this [participatory sensing video](http://www.youtube.com/watch?v=t-ItfpA3XiY))
-
-	
   * Knowledge sharing and learning (StoryBank: digital storytelling example below)
-
-	
   * Collective action ([Activism](http://mobileactive.org/))
 
 
@@ -57,10 +47,8 @@ Projects, such as Android, promised to have an open operation system on mobile p
 
 
 
-	
-  * Mobile phones should be considered as an access mechanism, where mobile browsing is one way to access the content, but using Voice applications (through e.g. voiceXML) is another way, and SMS could be a third option. All of these options should be considered as different delivery channels of Web content. Using the Web as a repository of information could leverage replication and cross-fertilization between different projects by offering visibility.
 
-	
+  * Mobile phones should be considered as an access mechanism, where mobile browsing is one way to access the content, but using Voice applications (through e.g. voiceXML) is another way, and SMS could be a third option. All of these options should be considered as different delivery channels of Web content. Using the Web as a repository of information could leverage replication and cross-fertilization between different projects by offering visibility.
   * Key barrier for having useful and relevant content is lack of local expertise to develop these. Empower local actors to become mobile service providers (technical knowledge, entrepreneurship and business models).
 
 

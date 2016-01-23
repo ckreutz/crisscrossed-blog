@@ -33,16 +33,10 @@ So what are the usual scenarios where employees exchange knowledge?
 
 
 
-	
+
   * Is it mainly in the cafeteria, on the telephone or mainly through email?
-
-	
   * Does the organization rely on a dense meeting culture and direct contact?
-
-	
   * How many different tools for communication already exist, other than telephone, meetings, emails, etc.?
-
-	
   * So far, how have interactive web based applications worked? What went well and what wrong?
 
 
@@ -57,17 +51,13 @@ For instance, a wiki can be used for very different purposes and are best adapte
 
 
 
-	
+
   * Use it to write the protocol each week and to have a central place to follow up tasks. It can be written during the meeting and everybody can add it instantly or edit it later on.
 Advantage: It is a small start, implemented in a existing process and you can learn on the fly.
 Disadvantage: Only a small area of work or project management.
-
-	
   * A glossary for a department to collect precise information for standard processes.
 Advantage: The benefit of sharing can be shown quickly when a critical mass of employees contribute. Writing together what already exists.
 Disadvantage: Needs support from the whole department. cannot easily be established if staff does not want to share and it needs trainingfor each one who is involved.
-
-	
   * To organize the next company party or trip and use it for logistics.
 Advantage: For a temporary time and involves a small team. Shows transparency of the planning process to other colleagues.
 Disadvantage: Needs dedicated people and proper gardening of the wiki structure. Wikis can become easily confusing in larger projects (logistics).

@@ -33,8 +33,6 @@ It is not always easy to argue in favour of web2.0 tools when you are faced with
 ** So I tried to summarize ten arguments, which help me often persuade colleagues and friends to give web2.0 a try.**
 
 
-
-
   1. **Overview**: Look at folder structure on your computer. Did it work to store your documents in the right folder and to find them quickly later on? How are the search results of your intranet? Imagine you could criss-cross through [tag clouds](http://en.wikipedia.org/wiki/Tag_cloud) of topics from your organization, with a few clicks you would find your niche topic. It is not magic. [Social bookmarking](http://en.wikipedia.org/wiki/Social_bookmarking) tools, such as delicious, show it works. It does not use folders. Instead it relies on tags.
   2. **Transparency**: In emails and classical Intranet, dominated environment information is in-transparent. It goes vertical or horizontal and hides all the valuable information--interesting for others--in mailboxes of individuals.
   3. **Relevance**: Emails reach you whether you want them or not, and a lot of their content has no relevance to your work. With RSS feeds, you subscribe to what is relevant to your work or what deals about your topic. With your blog, you gather your own community of interest around you and share practice.

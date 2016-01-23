@@ -30,10 +30,8 @@ It was insightful to see how much is happening and inspiring to see the engageme
 
 
 
-	
-  * oneaim.org - a global participation feed
 
-	
+  * oneaim.org - a global participation feed
   * [wikiwoods.org](http://www.wikiwoods.org) (plant a tree)
 
 
@@ -46,22 +44,12 @@ Also some promising platforms have been established, such as:
 
 
 
-	
+
   * [betterplace.org](http://www.betterplace.org) (international peer-to-peer aid)
-
-	
   * helpedia.org (German nonprofit portal, NGO-listing)
-
-	
   * [pfandtastisch-helfen.de](http://www.pfandtastisch-helfen.de) (using refund for charity)
-
-	
   * [weltretter.org](http://www.weltretter.org) (voluntarily work)
-
-	
   * [elargio.de](http://www.elargio.de) (fundraising and charity)
-
-	
   * [mensch.coop](http://www.mensch.coop) (social network for social movements)
 
 

@@ -17,6 +17,7 @@ var fs = require('fs');
 var imageResize = require('gulp-image-resize');
 var parallel = require("concurrent-transform");
 var os = require("os");
+var awspublish = require('gulp-awspublish');
 
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -106,13 +107,13 @@ gulp.task("resize-thumb", function () {
 
 // minifiy images
 gulp.task('min-images', function () {
- return gulp.src('images/pics/thumb/*')
+ return gulp.src('images/pics/**/*')
      .pipe(imagemin({
          progressive: true,
          svgoPlugins: [{removeViewBox: false}],
          use: [pngquant()]
      }))
-     .pipe(gulp.dest('_site/images/pics/thumb'));
+     .pipe(gulp.dest('_site/images/pics'));
 });
 
 /**
@@ -127,6 +128,22 @@ gulp.task('sass', function () {
      .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true  }))
      .pipe(gulp.dest('_includes/'))
      .pipe(browserSync.reload({stream:true}));
+});
+
+gulp.task('publish', function() {
+  var publisher = awspublish.create({
+    params: {
+      Bucket: 's3://www.crisscrossed.net'
+    }
+  });
+  var headers = {
+    'Cache-Control': 'max-age=315360000, no-transform, public'
+  };
+  return gulp.src('./public/*.js')
+    .pipe(awspublish.gzip({ ext: '.gz' }))
+    .pipe(publisher.publish(headers))
+    .pipe(publisher.cache())
+    .pipe(awspublish.reporter());
 });
 
 /**

@@ -8,3 +8,4 @@ s3_website.yml
 .sass-cache
 .jekyll-metadata
 node_modules
+aws-credentials.json

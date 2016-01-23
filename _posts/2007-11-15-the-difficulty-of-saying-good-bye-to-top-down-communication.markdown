@@ -23,9 +23,6 @@ But on the podium were four people arguing in favour of the authentic conversati
 
 Not surprisingly, first remarks from the audience were how to apply it and what will it change? My points about open source collaboration and open networking of organizations did not seem to make them curious. However I found the following quotes nice:
 
-
-
-
   * Marc Pohlmann: "**This web shift is not about coverage, it is about one's niche audience and about having a conversation with it**."
   * Thomas Knüwer: "There is not more trash in the Internet it is just so much easier to find it."
   * Wieland Stützel: "**Nowadays structured organizations are so much in an internal competition between departments - how shall they possible work together and collaborate and go outside**."

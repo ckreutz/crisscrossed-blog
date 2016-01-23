@@ -28,22 +28,10 @@ These are [the complaints in detail from the initiative against this law](http:/
 
 
 
-	
+
   * Data retention constitutes an excessive invasion into our personal privacy.
-
-	
   * Data retention disrupts professional activities (e.g. in the fields of medicine, law, clergy, journalism) as well as political and business activities that rely on discretion. It ultimately harms our free society itself.
-
-	
   * Data retention doesn't prevent terrorism or crime. It is unnecessary and can easily be circumvented by criminals.
-
-	
   * Data retention violates the human right to privacy and [informational self-determination](http://en.wikipedia.org/wiki/Informational_Self-Determination).
-
-	
   * Data retention puts a financial strain both on businesses and consumers.
-
-	
   * Data retention discriminates against users of telephone, mobile phone and internet services in comparison to other means of communication. Data retention constitutes an excessive invasion into our personal privacy.
-
-

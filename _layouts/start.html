@@ -1,52 +1,48 @@
 {% include header.html %}
 <div class="row" id="front">
-  <div class="large-9 medium-6 columns wider-columm">
-    <div class="row">
-      <div class="large-12 columns">
-        {% assign main = 1 %}
-        {% assign teaser = 1 %}
-        {% for post in site.posts %}
-        {% if post.lang != 'de' %}
+  <div class="large-5 medium-6 columns wider-columm">
+    {% assign main = 1 %}
+    {% assign teaser = 1 %}
+    {% for post in site.posts %}
+    {% if post.lang != 'de' %}
         {% if main < 2 %}
-        <div class="callout font white white-black">
-    		  <div class="headline-area">
-            <div class="comment_bubble">
-              <a href="https://www.twitter.com/ckreutz" target="_blank" id="tweets1"></a>
-            </div>
-            {% assign post_url1 = post.url %}
-      			<h2 class="post-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
-    				<p class="headline-meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
-    			</div>
-    			<div class="post-content">
-            {% if post.image %}
-            <div class="image">
-              <img src="{{ site.url }}/images/pics/{{ post.image }}">
-            </div>
-            {% endif %}
-    			  <p>{{ post.content | strip_html | truncatewords: 120 | markdownify }} <a href="{{ post.url }}" class="button secondary small">Read more</a></p>
-     			</div>
+    <div class="callout font white white-black">
+		  <div class="headline-area">
+        <div class="comment_bubble">
+          <a href="https://www.twitter.com/ckreutz" target="_blank" id="tweets1"></a>
         </div>
-      </div>
+        {% assign post_url1 = post.url %}
+  			<h3 class="post-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h3>
+				<p class="headline-meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}"> {{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
+			</div>
+			<div class="post-content">
+        {% if post.image %}
+        <div class="image">
+          <img src="{{ site.url }}/images/pics/{{ post.image }}">
+        </div>
+        {% endif %}
+			  <p>{{ post.content | strip_html | truncatewords: 130 | markdownify }} <a href="{{ post.url }}" class="button secondary small">Read more</a></p>
+ 			</div>
     </div>
-    <div class="row">
-      {% assign main = 2 %}
-    	{% endif %}
-      {% if teaser < 3 and okay == 1 %}
-      <div class="large-6 columns">
-        <div class="callout font white white-black">
-          <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
-            <p class="headline-meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
-          <div class="post-content">
-            {% if post.image %}
-            <div class="image">
-              <img src="{{ site.url }}/images/pics/{{ post.image }}">
-            </div>
-            {% endif %}
-            <p>{{ post.content | strip_html | truncatewords: 30 | markdownify }}
-            <a class="button secondary small" href="{{ post.url }}">Read more</a></p>
-    		  </div>
+  </div>
+  <div class="large-4 medium-6 columns wider-columm">
+    {% assign main = 2 %}
+		{% endif %}
+    {% if teaser < 3 and okay == 1 %}
+      <div class="callout font white white-black">
+        <h3 class="post-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h3>
+          <p class="headline-meta"><abbr class="published" title="{{ post.date | date: '%d-%m-%Y'  }}">{{ post.date | date: "%b / %d / %Y"  }}</abbr></p>
+        <div class="post-content">
+          {% if post.image %}
+          <div class="image">
+            <img src="{{ site.url }}/images/pics/{{ post.image }}">
+          </div>
+          {% endif %}
+          <p>{{ post.content | strip_html | truncatewords: 20 | markdownify }}
+            <a class="button secondary small" href="{{ post.url }}">Read more</a>
+          </p>
+  		  </div>
         </div>
-      </div>
         {% assign teaser=teaser | plus:1 %}
 			    {% endif %}
         {% assign okay = 1 %}
@@ -56,9 +52,8 @@
         {% endif %}
 			  {% endfor %}
 		  </div>
-    </div>
-  <div class="large-3 medium-12 columns">
-	{% include sidebar.html %}
+    <div class="large-3 medium-12 columns">
+		{% include sidebar.html %}
   </div>
 </div>
 {% include footer.html %}

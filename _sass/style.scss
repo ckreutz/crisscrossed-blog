@@ -108,7 +108,7 @@ h2, h3 ,h4 {
   font-weight: bold;
 }
 
-h2.post-title {
+.post-title {
   font-family: $base-font-title;
 }
 
@@ -348,7 +348,7 @@ ul.side-nav li {
 
 /* Medium only */
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
-body {
+  #background {
     background-image: url(/images/body.png) no-repeat 200px -45px;
   }
 #front .sidebar {
@@ -358,8 +358,8 @@ body {
 
 /* Large and up */
 @media screen and (min-width: 64em) {
-  body {
-    background-image: url(../images/body.png) no-repeat right -25px;
+  #background {
+    background-image: url(/images/body.png) no-repeat right -25px;
   }
   .wider-columm {
     padding-right: 0px;

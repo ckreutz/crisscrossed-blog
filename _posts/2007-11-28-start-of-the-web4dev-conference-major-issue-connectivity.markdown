@@ -30,22 +30,12 @@ The first day started with some welcome speeches and this was followed by a pane
 
 
 
-	
+
   * Dr. Bitange Ndemo, Permanent Secretary,   Ministry of Information and Communication, Kenya
-
-	
   * Dr. Shem Ochuodho, Expert on Internet and Information and Communication Technologies in Kenya, Rwanda and Sub-Sahara Africa
-
-	
   * Mr. Gajanan Kasbekar, Vice President, TATA Interactive, India
-
-	
   * Ms. Ashima Bhardwaj, Vice President, [One World Youth Project](http://www.oneworldyouthproject.org/)
-
-	
   * Ms. Njeri Rionge, Founder of Kenya’s ISP [Wananchi.com](http://www.wananchi.com/)
-
-	
   * Mr. Adrian Wooster, Community Broadband Network (CBN)
 
 

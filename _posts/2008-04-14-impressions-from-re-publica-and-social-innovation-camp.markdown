@@ -25,16 +25,10 @@ Well, a week after attending both, the [Social Innovation Camp](http://www.sicam
 
 
 
-	
+
   * There are great projects regarding Edemocracy in both countries, which allow citizens to participate or influence politics and to give more transparency. There is even a German-British cooperation called [e-participation.net](http://www.e-participation.net/). On a workshop, full of interesting presentations about this topic, [Christoph Dowe](http://politik-digital.de/ueber_uns) said that it is still not easy to get citizens to engage on those platforms. Some websites do not get any attention and others, such as [ich-gehe-nicht-hin.de](http://www.ich-gehe-nicht-hin.de) ( "I do not go there") for nonvoters or [abgeordnetenwatch.de](http://www.abgeordnetenwatch.de/) (ask the member of Parliament), are successful. [Mysociety.org has great projects](http://www.mysociety.org/projects) in this regards, based in the U.K. For example, [Fix my Street](http://www.fixmystreet.com/).
-
-	
   * On both events free and open source software (FOSS) played an important role. It is clear that FOSS invites for collaboration and allows to build platforms for social innovation, which proprietary software cannot do because it is for commercial purposes. Regarding knowledge sharing, I really like the presentation of [deepmehta software](http://www.deepamehta.de/), in which knowledge is represented in a semantic network and is handled collaboratively.
-
-	
   * The whole topic around social change, innovation or entrepreneurs plays are far more a significant role in the U.K. Whereas on the re-publica, social entrepreneurs, e.g. startups for social change, played no role although there were promising projects such as [betterplace.org](http://www.betterplace.org/) and helpedia.org (will blog soon about them). The social innovation camp was fully devoted to this topic.
-
-	
   * Whereas at re-publica privacy laws and data protection were high on the agenda, on the social innovation camp they were of no importance. In contrary, I was surprised how openly people took user generated content for granted. The all over camera surveillance (CCT) in London is rather not amusing.
 
 

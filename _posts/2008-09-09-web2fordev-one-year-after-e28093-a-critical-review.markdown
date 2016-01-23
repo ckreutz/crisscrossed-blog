@@ -27,28 +27,14 @@ I think the challenges especially within the organizational context are multi fo
 
 
 
-	
+
   * Technical challenges: Almost all development organizations rely on software systems, which do not offer social media tools. Sharepoint is just one example of how it will never work to have an open knowledge sharing environment.
-
-	
   * Being it the communication department, the IT or any other departments - many share their refusal to a participative web. Staff should be offered to decision themselves what to published and which tools to use. No way! – for some people the social web scenario is still a nightmare.
-
-	
   * It is not on their screens! Most key players or management teams have not yet understood the potential of the web in total, although development organizations work internationally and engage in numerous networks. The Internet is still seen as a necessary evil. Generation gap?
-
-	
   * No real commitment for donor harmonization. One key pillar of aid effectiveness should be to exchange knowledge as open and transparent as possible. There are hardly any attempts to open data resources between organizations and for the public domain. Most content is still copyright, although it is for non-profit.
-
-	
   * Adaptation: It simply takes much more time. The learning curve of organization all together is simply really slow. The slower the bigger the organizations are.
-
-	
   * Open knowledge sharing is still not high on the agenda. Information silos are common and knowledge is kept closed north and south of the development field.
-
-	
   * The fear and distress to engage online, plus information overload and too little training for staff to show the potential to publish and exchange knowledge in networks.
-
-	
   * Too little interest to engage in dialogue and recognize the importance of local knowledge. User-generated content means that I also am able to listen as an organization.
 
 

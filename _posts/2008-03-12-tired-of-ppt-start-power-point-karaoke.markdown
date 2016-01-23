@@ -22,13 +22,9 @@ I am pretty bored with Power Point presentations, but still quite surprised abou
 
 
 
-	
+
   * Go to Google advanced search and click the drop down menu "file type" and select Power Point (.ppt)
-
-	
   * Now, search with random key words the web for PPT and check the presentations. Good results are, for example, strategic communication (surely full of buzzwords), ornithology, fire extinguisher or simply beer.
-
-	
   * If you find some presentations, which shall not take longer than half an hour, you can rate them by the level of difficulty. We had three levels. When you look at each presentation, it becomes obvious that an ornithology presentation is not as easy as one about kitchen equipment -- but who knows? Name the PPT  files with the topic and sort them in three different folders.
 
 
@@ -36,22 +32,12 @@ I am pretty bored with Power Point presentations, but still quite surprised abou
 
 
 
-	
+
   * Everybody has only 5 minutes to present. The presenter already knows the topic and the number of slides to be shown at the minute he/she has to begin.
-
-	
   * The presenter can choose between the different topics within one category (level of difficulty). Just show the folder over a projector with the different files and topics.
-
-	
   * The listeners give grades after each presentation is given and judge the performances. But please be fair, it is not that easy, I can tell from my own experience.
-
-	
   * Once all have presented, and everybody stood naked in front talking about the weirdest things and maybe had to go through 80 slides in five minutes, the presenter with the worst grade passes out.
-
-	
   * Then, a next round starts with less players and one level harder.
-
-	
   * In the end there should be a winner, who improvised and impressed the best and came up with the most bizarre stories, which luckily, of course, have nothing do with the real content of the slides.
 
 

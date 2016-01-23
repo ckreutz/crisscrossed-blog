@@ -2367,7 +2367,7 @@ h2, h3, h4 {
   font-size: 1.6rem;
   font-weight: bold; }
 
-h2.post-title {
+.post-title {
   font-family: "league-gothic", sans-serif; }
 
 blockquote p {
@@ -2560,15 +2560,15 @@ ul.side-nav li {
 /* Medium and up */
 /* Medium only */
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
-  body {
+  #background {
     background-image: url(/images/body.png) no-repeat 200px -45px; }
   #front .sidebar {
     display: none; } }
 
 /* Large and up */
 @media screen and (min-width: 64em) {
-  body {
-    background-image: url(../images/body.png) no-repeat right -25px; }
+  #background {
+    background-image: url(/images/body.png) no-repeat right -25px; }
   .wider-columm {
     padding-right: 0px; }
   .subline .fa {
