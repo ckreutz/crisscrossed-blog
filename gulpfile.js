@@ -107,13 +107,13 @@ gulp.task("resize-thumb", function () {
 
 // minifiy images
 gulp.task('min-images', function () {
- return gulp.src('images/pics/**/*')
+ return gulp.src('images/**/*')
      .pipe(imagemin({
          progressive: true,
          svgoPlugins: [{removeViewBox: false}],
          use: [pngquant()]
      }))
-     .pipe(gulp.dest('_site/images/pics'));
+     .pipe(gulp.dest('images'));
 });
 
 /**
