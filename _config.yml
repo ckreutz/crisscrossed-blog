@@ -11,7 +11,7 @@ destination: ./_site
 
 future:      true
 lsi:         false
-permalink:   /:year/:month/:day/:title.html
+permalink:   /:year/:month/:day/:title
 markdown:    rdiscount
 
 navigation:
