@@ -105,6 +105,20 @@ gulp.task("resize-thumb", function () {
     .pipe(gulp.dest("images/pics/thumb"));
 });
 
+gulp.task("resize-medium", function () {
+  gulp.src("images/pics/*.{jpg,png}")
+    .pipe(parallel(
+     imageResize({ width : 365, height: 230 }),
+     os.cpus().length
+   ))
+    .pipe(imagemin({
+      progressive: true,
+      svgoPlugins: [{removeViewBox: false}],
+      use: [pngquant()]
+    }))
+    .pipe(gulp.dest("images/pics/medium"));
+});
+
 // minifiy images
 gulp.task('min-images', function () {
  return gulp.src('images/**/*')
@@ -162,4 +176,4 @@ gulp.task('watch', function () {
 gulp.task('default', ['browser-sync', 'watch']);
 
 
-gulp.task('images', ['resize-thumb', 'min-images']);
+gulp.task('images', ['resize-thumb', 'resize-medium', 'min-images']);

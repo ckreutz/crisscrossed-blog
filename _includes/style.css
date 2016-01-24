@@ -2565,6 +2565,9 @@ ul.side-nav li {
   #front .sidebar {
     display: none; } }
 
+.front .profile-image {
+  display: none; }
+
 /* Large and up */
 @media screen and (min-width: 64em) {
   #background {

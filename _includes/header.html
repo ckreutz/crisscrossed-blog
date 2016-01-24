@@ -15,71 +15,10 @@
     {% include style.css %}
     </style>
     <script type="text/javascript">
-    /*!
-    loadCSS: load a CSS file asynchronously.
-    [c]2015 @scottjehl, Filament Group, Inc.
-    Licensed MIT
-    */
-    (function(w){
-      "use strict";
-      var loadCSS = function( href, before, media ){
-        var doc = w.document;
-        var ss = doc.createElement( "link" );
-        var ref;
-        if( before ){
-          ref = before;
-        }
-        else {
-          var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
-          ref = refs[ refs.length - 1];
-        }
-
-        var sheets = doc.styleSheets;
-        ss.rel = "stylesheet";
-        ss.href = href;
-        ss.media = "only x";
-
-        ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
-        var onloadcssdefined = function( cb ){
-          var resolvedHref = ss.href;
-          var i = sheets.length;
-          while( i-- ){
-            if( sheets[ i ].href === resolvedHref ){
-              return cb();
-            }
-          }
-          setTimeout(function() {
-            onloadcssdefined( cb );
-          });
-        };
-
-        ss.onloadcssdefined = onloadcssdefined;
-        onloadcssdefined(function() {
-          ss.media = media || "all";
-        });
-        return ss;
-      };
-      if( typeof module !== "undefined" ){
-        module.exports = loadCSS;
-      }
-      else {
-        w.loadCSS = loadCSS;
-      }
-    }( typeof global !== "undefined" ? global : this ));
-
-    loadCSS( "{{ site.url }}/css/font-awesome.min.css", document.getElementById("loadcss") );
-
-      (function(d) {
-        var config = {
-          kitId: 'skp6jtc',
-          scriptTimeout: 3000,
-          async: true
-        },
-        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-      })(document);
+    (function(a){var b=function(c,i,d){var j=a.document;var k=j.createElement("link");var e;if(i){e=i}else{var h=(j.body||j.getElementsByTagName("head")[0]).childNodes;e=h[h.length-1]}var f=j.styleSheets;k.rel="stylesheet";k.href=c;k.media="only x";e.parentNode.insertBefore(k,(i?e:e.nextSibling));var g=function(m){var l=k.href;var n=f.length;while(n--){if(f[n].href===l){return m()}}setTimeout(function(){g(m)})};k.onloadcssdefined=g;g(function(){k.media=d||"all"});return k};if(typeof module!=="undefined"){module.exports=b}else{a.loadCSS=b}}(typeof global!=="undefined"?global:this));loadCSS("{{ site.url }}/css/font-awesome.min.css",document.getElementById("loadcss"));(function(l){var e={kitId:"skp6jtc",scriptTimeout:3000,async:true},j=l.documentElement,g=setTimeout(function(){j.className=j.className.replace(/\bwf-loading\b/g,"")+" wf-inactive"},e.scriptTimeout),c=l.createElement("script"),k=false,i=l.getElementsByTagName("script")[0],b;j.className+=" wf-loading";c.src="https://use.typekit.net/"+e.kitId+".js";c.async=true;c.onload=c.onreadystatechange=function(){b=this.readyState;if(k||b&&b!="complete"&&b!="loaded"){return}k=true;clearTimeout(g);try{Typekit.load(e)}catch(a){}};i.parentNode.insertBefore(c,i)})(document);
     </script>
   </head>
-  <body class="util {% if page.layout == 'start' or page.layout == 'start_de' %} blog {% endif %} ">
+  <body class="util {% if page.layout == 'start' or page.layout == 'start_de' %} front {% endif %} ">
     {% include nav.html %}
   <div id="background"></div>
   <div class="row">

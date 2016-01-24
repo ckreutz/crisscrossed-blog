@@ -18,7 +18,7 @@
 			<div class="post-content">
         {% if post.image %}
         <div class="image">
-          <img src="{{ site.url }}/images/pics/{{ post.image }}">
+          <img src="{{ site.url }}/images/pics/medium/{{ post.image }}">
         </div>
         {% endif %}
 			  <p>{{ post.content | strip_html | truncatewords: 130 | markdownify }} <a href="{{ post.url }}" class="button secondary small">Weiter lesen</a></p>
@@ -35,7 +35,7 @@
         <div class="post-content">
           {% if post.image %}
           <div class="image">
-            <img src="{{ site.url }}/images/pics/{{ post.image }}">
+            <img src="{{ site.url }}/images/pics/medium/{{ post.image }}">
           </div>
           {% endif %}
           <p>{{ post.content | strip_html | truncatewords: 30 | markdownify }}
