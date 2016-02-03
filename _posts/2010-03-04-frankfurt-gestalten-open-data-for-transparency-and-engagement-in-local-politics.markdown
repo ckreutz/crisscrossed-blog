@@ -27,19 +27,13 @@ categories:
 
 
 
-	
+
   * Connecting to local information service, compromising local political decision of the district committee and offer the information in three new ways:
-1) Geo-reference data, so issues can be tracked easily, right in your neighborhood or street.
-2) Thousands of documents are tagged with key words, so they can be found quicker.
-3) Latest decisions and/or discussions can be tracked in a map.
-
-	
+	1) Geo-reference data, so issues can be tracked easily, right in your neighborhood or street.
+	2) Thousands of documents are tagged with key words, so they can be found quicker.
+	3) Latest decisions and/or discussions can be tracked in a map.
   * An email service is offered to citizens to get the latest updates or changes on their neighborhood, so they are aware of issues, such as when a new parking house is planned.
-
-	
   * The district committee discussion is extended to the Internet. Citizens can comment on decisions and discuss further, for example, the issue of a speeding camera.
-
-	
   * Citizens are welcome to bring in their own ideas about what is needed to be changed and find neighbours with similar interests.
 
 
@@ -59,13 +53,9 @@ What fascinates me about the Frankfurt-gestalten.de project is that it has a lot
 
 
 
-	
+
   * The data can be further explored or more data sources added to present local politics from different angles (e.g. interests) by using maps and other visualization methods.
-
-	
   * Extend the initiative section and create a general channel for local neighborhood exchange of ideas with different local stakeholders for social change.
-
-	
   * Developing further applications for transparency and citizen engagement, for example through mobile phones.
 
 

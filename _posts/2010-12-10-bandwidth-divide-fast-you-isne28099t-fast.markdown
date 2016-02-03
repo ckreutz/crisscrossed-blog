@@ -46,17 +46,9 @@ Here are a few first steps to get faster loading websites:
 
 
   * Check your website speed with tools such as [Yslow](https://addons.mozilla.org/en-US/firefox/addon/5369/) or [Page speed](http://code.google.com/speed/page-speed/), and analyze how many files your website has and if there is potential to minimize or at least to combine them.
-
-
   * Check whether it is possible to cache your page. This means that it can also be available in static html and updated regularly. For Drupal, there is, for example, the [Boost module](http://drupal.org/project/boost), and for Wordpress the [Super Cache](http://wordpress.org/extend/plugins/wp-super-cache/) or [W3 Total Cache](http://wordpress.org/extend/plugins/w3-total-cache/) plugin.
-
-
   * [Use HTTP compression](http://en.wikipedia.org/wiki/HTTP_compression).
-
-
   * Throw out all external widgets, which are not very necessary, since they often load a lot extra coding to your website.
-
-
   * Consider to work with a [Content Distribution Network](http://en.wikipedia.org/wiki/Content_delivery_network).
 
 

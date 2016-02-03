@@ -34,28 +34,14 @@ I have less time. Nowadays, I can engage in so many communities, mostly when I a
 
 
 
-	
+
   * Most of these social network websites are features loaded and focus very little on plain people to people exchange.
-
-	
   * Although you have as a webmaster a set of options to change your network, it is not enough. You need to be able to tweak in detail to make a platform user-centered. Listen to your members and make changes according to them.
-
-	
   * Facebook, Linkedin, etc. are great tools to network and to mobilize, but offer almost no flexibility to build a community of practice. It is the Facebook way or no way. More important these big platforms have no interest in real exchange and learning. It is not their business concept.
-
-	
   * A questionable approach are widgets, where content is distributed all over the place. Photos here, documents there. A RSS feed is easily another information stream with little relevance.
-
-	
   * Each community has its own culture of exchange and different requirements. It is so difficult to find the right platform for that. Instead one needs to squeeze requirements to technology constraints.
-
-	
   * Confidentiality. Latest from Facebook, it is always a risk to give your data to such a platform. Also other platforms have a clear exit strategy for their users. You can leave easily and take your data with you.
-
-	
   * Community develop over time. It is impossible to foresee what is needed and what not for your platform in the future. Often a wonderful list of features is tempting, but so much is not really needed later on.
-
-	
   * If you want to make information finding for users the easiest possible way, the whole information structure behind a site becomes easily complex. The more is done through intelligently tagging in the background, the easier it becomes for users to find something.
 
 

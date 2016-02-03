@@ -36,7 +36,7 @@ Table of content:
 
 
 
-	
+
   * Introduction
 Sokari Ekine
 
@@ -52,19 +52,13 @@ Sokari Ekine
 
 
 
-	
+
   1. Economics and power within the African telecommunications industry
 Nathan Eagle
-
-	
   2. Mobile activism in Africa: future trends and software developments
 Christian Kreutz
-
-	
   3. Social mobile: empowering the many or the few?
 Ken Banks
-
-	
   4. Mobiles in-a-box: developing a toolkit with grassroots human rights advocates
 Tanya Notley and Becky Faith
 
@@ -83,33 +77,18 @@ Tanya Notley and Becky Faith
 
 
 
-	
+
   1. Fahamu: using cell phones in an activist campaign
 Redante Asuncion-Reed
-
-	
   2. The UmNyango project: using SMS for political participation in rural KwaZulu Natal
 Anil Naidoo
-
-	
   3. Kubatana in Zimbabwe: mobile phones for advocacy
 Amanda Atwood
-
-	
   4. Women in Uganda: mobile activism for networking and advocacy
 Berna Ngolobe
-
-	
   5. Mobile telephony: closing the gap
 Christiana Charles-Iyoha
-
-	
   6. Digitally networked technology in Kenya's 2007–08 post-election crisis
 Joshua Goldstein and Juliana Rotich
-
-	
   7. Using mobile phones for monitoring human rights violations in the DRC
 Bukeni Waruzi
-
-
-

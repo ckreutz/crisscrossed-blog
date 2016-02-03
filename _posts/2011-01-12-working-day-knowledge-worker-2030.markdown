@@ -30,22 +30,9 @@ By the way, instead of having a boss, you have different scores you give yoursel
 Maybe to an organization it is, but the social web pretty much works with this concept. Many people engage that way. After they have left the office, they privately engage in the social web. Take a look at the newest hyped tool [Quora](http://www.quora.com/), which is basically a questions and answers tool.
 
 
-
-
-
-
-
-
-	
   * You can ask any questions.
-
-	
   * It is horizontal. Everybody can answer or edit questions (collaborate).
-
-	
   * You gain reputation (score) in many different ways: As your questions are followed up, the answers move up to a higher ranking, or when people vote your question moves up.
-
-	
   * You can also address questions to certain people or invite others to answer and so on.
 
 

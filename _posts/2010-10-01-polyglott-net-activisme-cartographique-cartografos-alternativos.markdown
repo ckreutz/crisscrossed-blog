@@ -22,16 +22,10 @@ Therefore, I was glad to see that a recent German article I [wrote about Maptivi
 
 
 
-	
+
   * [Alternative surveyors – mapping activism worldwide](http://e-blogs.wikio.co.uk/alternative-surveyors-mapping-activism-worldwide)
-
-	
   * [Cartógrafos alternativos: activismo internacional para crear mapas](http://e-blogs.wikio.es/cartografos-alternativos-activismo-internacional-de-mapeado)
-
-	
   * [Maptivism : l’activisme cartographique](http://e-blogs.wikio.fr/la-cartographie-sur-internet-un-enjeu-geopolitique)
-
-	
   * [Cartografia alternativa: mappe digitali e attivismo per cambiare il mondo](http://e-blogs.wikio.it/cartografia-alternativa-mappe-digitali-e-attivismo-per-cambiare-il-mondo)
 
 

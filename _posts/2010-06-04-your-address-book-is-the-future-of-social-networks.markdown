@@ -29,13 +29,9 @@ An address book can combine contact details and much more information people add
 
 
 
-	
+
   * Profile images and latest photos are updated or downloaded.
-
-	
   * Events, meetings, etc. are downloaded from a shared calendar.
-
-	
   * Latest status updates, blog posts, written articles etc. are listed under each contact.
 
 

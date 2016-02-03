@@ -25,19 +25,11 @@ But how do we trust these sources? Sources can have very different approaches, t
 
 
 
-	
+
   * Wikileaks anonymously "publishes and comments on leaked documents alleging government and corporate misconduct."
-
-	
   * Bloggers stand with their reputation behind an information.
-
-	
   * [Demand Media attempts to deliver thousands of answers each month from amateur writers and film-makers.](http://www.wired.com/magazine/2009/10/ff_demandmedia/)
-
-	
   * Wikipedia relies on voluntarily work and editors to deliver accurate information or highlight it if it is not the case.
-
-	
   * Newspapers have a reputation of professional journalism.
 
 
@@ -47,37 +39,17 @@ But how do we decide in our daily information research source whether it is trus
 
 
 
-	
+
   * Who is behind the source?
-
-	
   * Is it a well-known institution or person?
-
-	
   * Where does it originally come from?
-
-	
   * Does it indicate an author?
-
-	
   * Is the article old or up-to-date?
-
-	
   * Does it have comments? How many comments?
-
-	
   * Has the website a commercial intention or is the information service a common good?
-
-	
   * Is the article personally or objectively written?
-
-	
   * Does it have many or none citation to other sources?
-
-	
   * How well written is the article?
-
-	
   * How open is the person behind a presented page? For example, does the author have a biography or a Twitter account?
 
 
@@ -85,16 +57,10 @@ But how do we decide in our daily information research source whether it is trus
 
 
 
-	
+
   * Who has recommended the source? Is it a friend, colleague or peer?
-
-	
   * Is it a link from  a well-known or unknown blog post to the source?
-
-	
   * Does the source have many readers/subscribers?
-
-	
   * Is it often cited? Can it be checked for example through a [Twitter search](http://search.twitter.com/) or [Technorati rank](http://technorati.com/what-is-technorati-authority/), in case of a blog.
 
 
@@ -102,19 +68,11 @@ But how do we decide in our daily information research source whether it is trus
 
 
 
-	
+
   * Is the website professionally designed?
-
-	
   * Do you like the design? Would you trust an information source with an appalling design?
-
-	
   * Does it focus on content or rather advertisement?
-
-	
   * Can you navigate easily or are there obstacles to find your information?
-
-	
   * Is it a rather closed site or does it link to a website?
 
 

@@ -49,24 +49,10 @@ Nutrition is another interesting sector to use open data, which I discovered lat
 
 Another really interesting approach is [Food Sprout](http://www.foodsprout.com/). It combines different data sets to make transparent how the food is produced, up and down the supply chain. And they also come up with various revenue models. [Check out the interview at the great Food and Tech blog](http://www.foodandtechconnect.com/site/2011/01/food-sprout-mapping-the-food-supply-chain/). Interestingly companies seem to have growing interest to make their supply chain transparent in their corporate social responsibility efforts. These are the data sources of Food Sprout:
 
-
-
-
-
-
-	
   * Data our internal team at Food Sprout gathers
-
-	
   * Data a user inputs into the system that we then have to verify
-
-	
   * Third parties like non-profits supporting farmers that have data
-
-	
   * Government agencies and databases of food
-
-	
   * Investigative reporting where our team seeks out hard to find data.
 
 

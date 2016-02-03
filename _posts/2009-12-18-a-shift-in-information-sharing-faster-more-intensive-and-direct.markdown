@@ -18,13 +18,9 @@ Something has changed. Information sharing isn’t what it used to be. We are in
 
 
 
-	
+
   * Speed: Sharing and interaction becomes amazingly fast through real-time web.
-
-	
   * Intensity: An explosion in “fast food content” shared across networks.
-
-	
   * Crisscrossed: Networks are not only growing exponentially in size, but also in their density.
 
 

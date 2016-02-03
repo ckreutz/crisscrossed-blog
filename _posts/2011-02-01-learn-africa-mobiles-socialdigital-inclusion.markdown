@@ -21,13 +21,8 @@ categories:
 When it comes to access, the innovation under constraints is amazing in Africa. Look, for example, how the challenge of [energy supply has been greatly mastered](http://www.afrigadget.com/category/energy/). I think that in Europe we address inclusion only from few angles and should be more creative. We could focus a lot more on mobile phones and offer real needed services even through SMS. Suddenly, we can potentially reach over 90% of people, but most important, we need to play a lot more with technology and hack it where we can. A lot is happening in this regard in the UK, on the contrary Germany, where technological skepticism is still hampering innovations, or where one faces legal implications when offering open wifi.
 
 I like these to posts very much:
-
-
-
 	
   * [Innovation from Constraint by Ethan Zuckerman](http://www.ethanzuckerman.com/blog/2008/11/10/innovation-from-constraint-the-extended-dance-mix/)
-
-	
   * [If It Works in Africa, It Will Work Anywhere](http://whiteafrican.com/2008/09/26/if-it-works-in-africa-it-will-work-anywhere/) by Erik Hersman
 
 

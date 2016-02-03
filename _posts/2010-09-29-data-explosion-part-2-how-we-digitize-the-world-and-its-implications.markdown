@@ -29,7 +29,7 @@ In my [last post](http://www.crisscrossed.net/2010/09/13/data-explosion-the-many
 
 **Internet of Things**
 
-A rather old concept is becoming increasingly real thanks to [RFID technology](http://en.wikipedia.org/wiki/Radio-frequency_identification). I have previously blogged about its [potential and consequences for development](http://www.crisscrossed.net/2009/10/02/the-internet-of-things-open-intelligence-through-citizen-action/). RFID chips can be attached as stickers to objects, which then can disclose or collect information. 
+A rather old concept is becoming increasingly real thanks to [RFID technology](http://en.wikipedia.org/wiki/Radio-frequency_identification). I have previously blogged about its [potential and consequences for development](http://www.crisscrossed.net/2009/10/02/the-internet-of-things-open-intelligence-through-citizen-action/). RFID chips can be attached as stickers to objects, which then can disclose or collect information.
 Over at the [ReadWritewWeb](http://www.readwriteweb.com/archives/the_future_of_social_objects.php) blog there is a rather funny example of a social tennis racket, which could tell its story – where, with who and how it was played – with the help of such technology.
 The logistic sector is using these technologies on a wide scale to track their packages, and soon millions of more objects will be connected to the Internet in the same way.
 
@@ -39,13 +39,9 @@ Location based services have been around for a while, but it is lately when they
 
 
 
-	
+
   * Location of bars, restaurants, shops, clubs
-
-	
   * An evaluation when a user sends statuses and comments
-
-	
   * Massive social profiles of movements and behaviors.
 
 

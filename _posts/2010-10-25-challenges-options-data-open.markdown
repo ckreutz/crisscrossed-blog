@@ -31,22 +31,12 @@ How can you possibly draw different conclusions or see problems and even public 
 
 
 
-	
+
   1. To use an API ([Application Programming Interface](http://en.wikipedia.org/wiki/Application_programming_interface) such as the [one from the World Bank](http://data.worldbank.org/))
-
-	
   2. To download open available data
-
-	
   3. To copy and paste data from documents
-
-	
   4. To scrape content from websites through software
-
-	
   5. To collect automatically data from different sources
-
-	
   6. Or by crowdsourcing your data
 
 

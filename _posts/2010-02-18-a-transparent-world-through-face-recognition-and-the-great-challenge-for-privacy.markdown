@@ -31,16 +31,10 @@ There is a drastic change on how the Internet is gathering information about the
 
 
 
-	
+
   1. **The face recognition technology has got very precise. **Even out of a moving mass, people can be recognized and persons can be easily identified.  The book [radical cartography has a map from an activist](http://www.an-atlas.com/contents/iaa_iaa.html), who shows that there is only one way left to walk through downtown Manhattan where you are not filmed.
-
-	
   2. **Surveillance is a growing worldwid**e. Increasingly, everything is filmed. Holland and England are the front runners in Europe, although "[it displaces crime, rather than reducing it](http://en.wikipedia.org/wiki/Closed-circuit_television)". Ironically, security services themselves have a problem [as the latest killing of Hamas's Mahmoud al-Mabhouh shows](http://news.bbc.co.uk/2/hi/middle_east/8522595.stm). There is spooky footage from the  preparation of the assassination. But it goes even further: [German police is experimenting with drones](http://translate.google.com/translate?hl=en&sl=de&tl=en&u=http://www.heise.de/tp/r4/artikel/32/32105/1.html) for civil use (unmanned air vehicles).
-
-	
   3. **The face**** recognition feature is increasingly included in all types of**** software**. As a consequence, we offer companies a huge database of people's faces. Apple offers it now in there iPhoto version and Google offers it in Picasa. The strangely named company [Vitaman D](http://www.vitamindinc.com) offers surveillance software to everyone. A web cam becomes a tool to spy on your neighbours.
-
-	
   4. **People tagging themselves and their friends and family in photos on a massive scale. **Facebook members upload [around 3 billion photos](http://www.facebook.com/press/info.php?statistics) each month. We, as members, help to build a gigantic database for face recognition. Of course not only members are tagged, but also people, who might never want to be part of that. [Facebook does that intentionally and even aknowledge the fact in their terms of services](http://blogs.zdnet.com/feeds/?p=2119). Seems they cannot get enough of their existing members.
 
 

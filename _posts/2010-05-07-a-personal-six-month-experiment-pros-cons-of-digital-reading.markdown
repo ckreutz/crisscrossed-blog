@@ -27,19 +27,11 @@ Half a year ago I started a small experiment. I have changed to read content on 
 
 
 
-	
+
   * The reading experience through an e-reader is really enjoyable. I also started reading on my iPhone, although it cannot compete with the impressive contrast of the Kindle.
-
-	
   * Lightweight advantage when you do a lot of travelling. You have all books, newspapers, and articles of all sort with you in just a device. No weight of extra paper or books to carry around.
-
-	
   * With the Kindle you can select any unknown word and get the definition from the Oxford Dictionary right there (hope Wikipedia makes that available soon too).
-
-	
   * You can also have content from the Internet on your Kindle. I normally read a lot of stuff I find online and being able to do so on my Kindle or iPhone is a big plus.
-
-	
   * No Internet. The international version of Kindle is great for me exactly because it has no Internet. No surfing - just reading.
 
 
@@ -76,7 +68,7 @@ Here comes a big disadvantage. If you want to browse quickly forward and backwar
 
 
 
-	
+
   * Books are only available in English for the Kindle. Amazon has its own propriety format and does not accept the widely used epub format. So it is an Amazon or no book.
 
 
@@ -88,7 +80,7 @@ Here comes a big disadvantage. If you want to browse quickly forward and backwar
 
 
 
-	
+
   * If you want to get, for example, PDFs on your Kindle you need to get them converted by sending them to Amazon by email. The converted files do not appear very great. Who would have thought that?
 
 
@@ -100,7 +92,7 @@ Here comes a big disadvantage. If you want to browse quickly forward and backwar
 
 
 
-	
+
   * Here comes a huge problem. You can make notes in Kindle by selecting certain text pieces. All notes are saved on a clipping.txt file, which you need to transfer to your computer. Now, you have a big file with bits and pieces of texts not always referring to where it belongs to. Of course, that is all different for the books you bought on Amazon. Here, all your notes can be even accessed on your private Kindle page. Amazon makes little or no effort to provide a good way to take notes from different content. So, in conclusion, note taking is not greatly solved. I have not seen anything good for the Iphone either. In a book you just underline the phrase and that’s it.
 
 
@@ -115,7 +107,7 @@ Here comes a big disadvantage. If you want to browse quickly forward and backwar
 
 
 
-	
+
   * Basically, Amazon knows pretty much what you read where and when. For example, your last page read is synchronized between your iPhone and Kindle. Of all things, [they remotely erased the book 1984 last Summer from Kindle owners](http://www.nytimes.com/2009/07/18/technology/companies/18amazon.html) due to ownership issues. Check the [Electronic Frontier Foundation article for more information on privacy and ebooks](http://www.eff.org/deeplinks/2009/12/e-book-privacy).
 
 

@@ -25,20 +25,15 @@ Here is an abstract of the open innovation course:
 
 - ** What are challenges you are trying to solve? **
 Our advice: Start small and add more depth as you go. The more concrete your challenge is, the better feedback you get. More feedback is not always better feedback.
-
 - ** Can you compress this challenge into one key question? **
 Our advice: Ask your question like you're telling a story. Setting a frame around the whole process is very important.
-
 - ** What kind of feedback and ideas are needed to solve this challenge? Can that be done online or offline? Or will a combination of both work best? **
 Our Advice: Collecting and discussing ideas works well online. Implementation of ideas needs some stronger commitment and is mostly better offline.
-
 - ** What are the incentives to participate? **
 Will rewards be offered? Would it be enough to know that one has taken part on the solucion finding process? What else might motivate someone to participate in the project?
 Our advice: While palpable rewards always come in handy, recognition is much more acknowledged and appreciated. A combination of rewards will attract the most participants.
-
 - ** When could possible resistance to the process happen? **
 Our advice: It is almost impossible to predict everything in advance, but taking measures and learning from other projects that have used a similar method to yours is always a good way to prevent obstacles.
-
 - ** Who can take part in the process (specific skillsets, specific community, international/local, staff, customers, etc.)? **
 Our Advice: Anyone you wish. Think big – online there is no limit of participants.
 
@@ -46,5 +41,3 @@ Our Advice: Anyone you wish. Think big – online there is no limit of participa
 You will be presented during the course with the different mobilization options, and learn about the importance of mobilization.
 
 This is just a short summary. **[Join now the open innovation course and get some great insights on how to make open innovation work for you.](https://www.wethinq.com/en/resources/course/)**
-
-
