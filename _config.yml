@@ -2,7 +2,6 @@ safe:        false
 port: 5000
 baseurl:    /
 #url: http://ckreutz.github.io/crisscrossed-blog
-production: false
 
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
