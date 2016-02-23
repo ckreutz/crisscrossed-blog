@@ -20,7 +20,7 @@
       <div class="post-content">
         {% if page.image %}
         <div class="image-frame">
-            <img src="{{ site.url }}/images/pics/{{ page.image }}" class="scale">
+            <img src="{{ site.url }}/images/pics/{{ page.image }}" alt="{{ page.alt_image }}" class="scale">
         </div>
           {% if page.caption %}
           <div class="caption">

@@ -2,6 +2,7 @@
 layout: post_de
 title: "Rathaus 2.0: Frankfurt Gestalten im Deutschlandfunk"
 image: "fg-funk.png"
+alt_image: "Karte von Frankfurt gestalten"
 lang: de
 caption: 'Frankfurt Gestalten Karte'
 categories:

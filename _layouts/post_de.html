@@ -36,7 +36,7 @@
               {% if post.categories contains tag %}
                 <div class="row">
                   <div class="large-3 medium-3 small-4 columns img-round">
-                    <img src="{{ site.url }}/images/pics/thumb/{{ post.image }}" class="thumbnail">
+                    <img src="{{ site.url }}/images/pics/thumb/{{ post.image }}" alt="{{ page.alt_image }}" class="scale">
                   </div>
                   <div class="large-9 medium-9 small-8 columns">
                     <h5><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>

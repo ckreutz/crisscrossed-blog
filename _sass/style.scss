@@ -125,10 +125,10 @@ p, ol, ul {
   font-size: 30px;
 }
 
-#post p + p {
-  text-indent: 1.5em; /* indent subsequent paragraphs */
-  margin-top: -1.5em; /* no top margin on subsequent paragraphs */
-}
+// #post p + p {
+//   text-indent: 1.5em; /* indent subsequent paragraphs */
+//   margin-top: -1.5em; /* no top margin on subsequent paragraphs */
+// }
 
 .post-content li, .page-content li {
     list-style-position: inside;
