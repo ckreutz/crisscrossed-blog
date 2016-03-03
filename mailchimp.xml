@@ -14,15 +14,14 @@
     {% for post in site.posts limit: 20 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <media:content url="http://www.crisscrossed.net/images/photos/medium/{{ post.image }}" type="image/{% if post.image contains 'png' %}png{% else %}jpg {% endif%}" medium="image" height="280" width="670" />
+      <media:content url="http://www.crisscrossed.net/images/pics/{{ post.image }}" type="image/{% if post.image contains 'png' %}png{% else %}jpg {% endif%}" medium="image" height="280" width="670" />
       <link>http://www.crisscrossed.net{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>Christian Kreutz</author>
       <guid>http://www.crisscrossed.net{{ post.id }}</guid>
-      <enclosure url="http://www.crisscrossed.net/images/photos/medium/{{ post.image }}" type="image/{% if post.image contains 'png' %}png{% else %}jpg {% endif%}" />
-      <description><img src="http://www.crisscrossed.net/images/photos/medium/{{ post.image }}"/>{{ post.content | xml_escape }}</description>
+      <enclosure url="http://www.crisscrossed.net/images/pics/{{ post.image }}" type="image/{% if post.image contains 'png' %}png{% else %}jpg {% endif%}" />
+      <description><img src="http://www.crisscrossed.net/images/pics/{{ post.image }}"/>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
   </channel>
 </rss>
-
