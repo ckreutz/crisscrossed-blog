@@ -24,6 +24,8 @@
         {% endif %}
         <li class="tab"><a href="{{ site.url }}/{{ link.url }}" title="{{ link.text }}" class="{{ current }}">{{ link.text }}</a></li>
       {% endfor %}
+      <li class="tab"><a href="{% if page.lang == "de" %} /de/feed.xml {% else %} /atom.xml {% endif %}" title="RSS Feed"><div class="fa fa-rss"></div></a></li>
+
     </ul>
   </div>
   <div class="top-bar-right">
