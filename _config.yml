@@ -22,6 +22,9 @@ navigation:
   - text: Archive
     url: archive
     name: archive
+  - text: ICT4D
+    url: ict4d
+    name: ict4d
   - text: Deutsch
     url: de
     name: de
