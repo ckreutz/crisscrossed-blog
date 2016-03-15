@@ -157,18 +157,6 @@ $(document).ready(function () {
   var piechart = c3.generate({
     bindto: '.hashtags',
       data: {
-          columns: [
-              ['data1', 30]
-          ],
-          type : 'pie',
-          onclick: function (d, i) { console.log("onclick", d, i); },
-          onmouseover: function (d, i) { console.log("onmouseover", d, i); },
-          onmouseout: function (d, i) { console.log("onmouseout", d, i); }
-      }
-  });
-
-  setTimeout(function () {
-    piechart.load({
         columns: [
         ['globaldev',1300],
         ['m4d',1103],
@@ -180,9 +168,13 @@ $(document).ready(function () {
         ['socent',665],
         ['innovation',655],
         ['opendata',617]
-        ]
-    });
-  }, 1500);
+        ],
+          type : 'pie',
+          onclick: function (d, i) { console.log("onclick", d, i); },
+          onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+          onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+      }
+  });
 
   var linechart = c3.generate({
     bindto: '.contributions',
@@ -191,6 +183,5 @@ $(document).ready(function () {
       mimeType: 'json'
     }
   });
-  console.log(linechart.data);
 });
 </script>
