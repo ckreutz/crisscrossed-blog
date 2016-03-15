@@ -1,0 +1,32 @@
+{% include header.html %}
+<div class="row" id="page">
+  <div class="large-12 medium-12 columns">
+    <div class="callout font white white-black">
+      <div class="headline-area">
+        <h1 class="page-title" style="margin-bottom: 25px;">
+          {{ page.title }}</h1>
+      </div>
+      <div class="page-content">
+        {{ content  }}
+      </div>
+    </div>
+  </div>
+</div>
+{% if jekyll.environment == "production" %}
+<div id="comments">
+  <div id="disqus_thread"/>
+  <script type="text/javascript">
+    var disqus_shortname = 'crisscrossed';
+    var disqus_identifier = '{{ page.url }}';
+    (function() {
+      var dsq = document.createElement('script');
+      dsq.type = 'text/javascript';
+      dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  </div>
+</div>
+{% endif %}
+{% include footer.html %}

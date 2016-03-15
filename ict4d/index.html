@@ -1,0 +1,194 @@
+---
+layout: full_page
+title: "Top resources in the ICT4D community"
+---
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="{{ site.url }}/js/d3.min.js"></script>
+<script src="{{ site.url }}/js/c3.min.js"></script>
+
+<div class="row">
+  <div class="large-7 medium-6 columns">
+    <p>For the past years the ICT4D community <a href="http://www.crisscrossed.net/2009/08/25/a-worldwide-community-mapping-400-ict4d-twitter-users/">has notably grown</a> and continues to do so as every month over a thousand links are shared through the hashtags #ICT4D, #M4D and others. Although the term ICT4D has been extensively argued for a number of reasons, it still works as a cluster to find out more on potentials and challenges for ICTs in the developemt context.
+    </p>
+    <p>
+    It is not easy, but also time consuming, to find the best resources related to the topic. Therefore, I have started mining such tweets and resources to facilitate and provide them to the ICT4D community. My <a href="https://twitter.com/ict4d">@ict4d</a> acccount was always meant to be a twitter account for people in search of great resources around ICT4D. Now, this is a weekly service to deliver a list of the best trending resources to your inbox. Enjoy and send me feedback any time <a href="https://twitter.com/ict4d">@ict4d</a> or comment below.</p>
+  </div>
+  <div class="large-5 medium-6 columns">
+    <h4>Tired of scanning tweets?</h4>
+      <!-- Begin MailChimp Signup Form -->
+      <div class="callout small blue">
+        <div id="mc_embed_signup">
+          <form action="//crisscrossed.us8.list-manage.com/subscribe/post?u=7e357462910b9a15434ff8359&amp;id=792705ce5d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <div id="mc_embed_signup_scroll" style="padding-top: 30px; padding-bottom: 30px;padding-right: 8px;padding-left: 8px;">
+            <h4 class="font-title">Weekly resources right in your inbox!</h4>
+            <div class="mc-field-group">
+              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your email">
+            </div>
+            <div id="mce-responses" class="clear">
+        	  <div class="response" id="mce-error-response" style="display:none"></div>
+        	  <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7e357462910b9a15434ff8359_792705ce5d" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button secondary"></div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <p>Last updated: 15-03-2016</p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-12 medium-12 centered columns">
+    <h2 class="font-title centered">this week</h4>
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 medium-6 columns">
+    <h3 class="centered"><span class="fa fa-twitter blue"></span> Top 10 resources</h3>
+    <div id="weekly_links"></div>
+  </div>
+  <div class="large-6 medium-6 columns">
+    <h3><span class="fa fa-retweet blue"></span> Top contributors </h3>
+    <div id="weekly_ict4d_contributor"></div>
+    <p>These are the users, who share the most ICT4D links.</p>
+    <h3><span class="fa fa-link blue"></span> Top shared websites </h3>
+    <div id="weekly_ict4d_domains"></div>
+    <p>These are are the top linked websites. </p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-12 medium-12 centered columns spacetop">
+    <h3>Most common hashtags used in the ICT4D community</h3>
+    <div class="hashtags"></div>
+  </div>
+</div>
+<div class="row">
+  <div class="large-12 medium-12 centered columns spacebottom spacetop">
+    <h2 class="font-title centered">last week</h4>
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 medium-6 columns">
+    <h3 class="centered"><span class="fa fa-twitter blue"></span> Top 10 resources</h3>
+    <div id="last_week_links"></div>
+  </div>
+  <div class="large-6 medium-6 columns">
+    <h3><span class="fa fa-retweet blue"></span> Top contributors </h3>
+    <div id="last_weekly_ict4d_contributor"></div>
+    <h3><span class="fa fa-link blue"></span> Top shared websites </h3>
+    <div id="last_weekly_ict4d_domains"></div>
+  </div>
+</div>
+<div class="row">
+  <div class="large-12 medium-12 centered columns spacetop">
+    <p>Disclaimer: This services is in beta and under constant development. There might always be the best links listed, but definetely some gems. Send feedback <a href="https://twitter.com/ict4d">@ict4d</a>. </p>
+  </div>
+</div>
+
+<style type="text/css">
+.c3 svg{font:10px sans-serif}.c3 line,.c3 path{fill:none;stroke:#000}.c3 text{-webkit-user-select:none;-moz-user-select:none;user-select:none}.c3-bars path,.c3-event-rect,.c3-legend-item-tile,.c3-xgrid-focus,.c3-ygrid{shape-rendering:crispEdges}.c3-chart-arc path{stroke:#fff}.c3-chart-arc text{fill:#fff;font-size:13px}.c3-grid line{stroke:#aaa}.c3-grid text{fill:#aaa}.c3-xgrid,.c3-ygrid{stroke-dasharray:3 3}.c3-text.c3-empty{fill:gray;font-size:2em}.c3-line{stroke-width:1px}.c3-circle._expanded_{stroke-width:1px;stroke:#fff}.c3-selected-circle{fill:#fff;stroke-width:2px}.c3-bar{stroke-width:0}.c3-bar._expanded_{fill-opacity:.75}.c3-target.c3-focused{opacity:1}.c3-target.c3-focused path.c3-line,.c3-target.c3-focused path.c3-step{stroke-width:2px}.c3-target.c3-defocused{opacity:.3!important}.c3-region{fill:#4682b4;fill-opacity:.1}.c3-brush .extent{fill-opacity:.1}.c3-legend-item{font-size:12px}.c3-legend-item-hidden{opacity:.15}.c3-legend-background{opacity:.75;fill:#fff;stroke:#d3d3d3;stroke-width:1}.c3-tooltip-container{z-index:10}.c3-tooltip{border-collapse:collapse;border-spacing:0;background-color:#fff;empty-cells:show;-webkit-box-shadow:7px 7px 12px -9px #777;-moz-box-shadow:7px 7px 12px -9px #777;box-shadow:7px 7px 12px -9px #777;opacity:.9}.c3-tooltip tr{border:1px solid #CCC}.c3-tooltip th{background-color:#aaa;font-size:14px;padding:2px 5px;text-align:left;color:#FFF}.c3-tooltip td{font-size:13px;padding:3px 6px;background-color:#fff;border-left:1px dotted #999}.c3-tooltip td>span{display:inline-block;width:10px;height:10px;margin-right:6px}.c3-tooltip td.value{text-align:right}.c3-area{stroke-width:0;opacity:.2}.c3-chart-arcs-title{dominant-baseline:middle;font-size:1.3em}.c3-chart-arcs .c3-chart-arcs-background{fill:#e0e0e0;stroke:none}.c3-chart-arcs .c3-chart-arcs-gauge-unit{fill:#000;font-size:16px}.c3-chart-arcs .c3-chart-arcs-gauge-max,.c3-chart-arcs .c3-chart-arcs-gauge-min{fill:#777}.c3-chart-arc .c3-gauge-value{fill:#000}
+.circle{width:50px;height:50px;border-radius:50px;font-size:20px;color:#fff;line-height:50px;text-align:center;background:#e5790c}
+td {padding: 8px;}
+h2,h3,h3 {padding-bottom: 10px;}
+</style>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
+<script id="tp-user-list" type="text/template">
+  {% raw %}
+  <ol>
+    {{#list}}
+     <li>
+        <a href="https://twitter.com/{{username}}" target="_blank">{{ username }}</a>
+       </li>
+     {{/list}}
+  </ol>
+  {% endraw %}
+</script>
+<script id="tpl-list" type="text/template">
+  {% raw %}
+  <ol>
+    {{#list}}
+     <li>
+        {{ domain }}
+       </li>
+     {{/list}}
+  </ol>
+  {% endraw %}
+</script>
+
+<script id="tpl" type="text/template">
+  {% raw %}
+  <table>
+  <tbody>
+   {{#links}}
+    <tr>
+      <td>
+        <div class="circle">{{ shares }}</span>
+      </td>
+      <td>
+        <a href="{{ url }}" target="_blank">{{ text }}</a>
+      </td>
+    {{/links}}
+    </tr>
+  </tbody>
+  </table>
+ {% endraw %}
+</script>
+
+<script>
+var listlinks = function (url, tplId, anchor) {
+$.getJSON(url, function(data) {
+  var template = $(tplId).html();
+  var stone = Handlebars.compile(template)(data);
+  $(anchor).append(stone);
+});
+}
+listlinks('/files/ict4d/domains_this_week.json', '#tpl-list', '#weekly_ict4d_domains');
+listlinks('/files/ict4d/domains_last_week.json', '#tpl-list', '#last_weekly_ict4d_domains');
+listlinks('/files/ict4d/contributors_this_week.json', '#tp-user-list', '#weekly_ict4d_contributor');
+listlinks('/files/ict4d/contributors_last_week.json', '#tp-user-list', '#last_weekly_ict4d_contributor');
+listlinks('/files/ict4d/this_week.json', '#tpl', '#weekly_links');
+listlinks('/files/ict4d/last_week.json', '#tpl', '#last_week_links');
+
+$(document).ready(function () {
+  var piechart = c3.generate({
+    bindto: '.hashtags',
+      data: {
+          columns: [
+              ['data1', 30]
+          ],
+          type : 'pie',
+          onclick: function (d, i) { console.log("onclick", d, i); },
+          onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+          onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+      }
+  });
+
+  setTimeout(function () {
+    piechart.load({
+        columns: [
+        ['globaldev',1300],
+        ['m4d',1103],
+        ['africa',1000],
+        ['ict',980],
+        ['mhealth',747],
+        ['tech',720],
+        ['edtech',692],
+        ['socent',665],
+        ['innovation',655],
+        ['opendata',617]
+        ]
+    });
+  }, 1500);
+
+  var linechart = c3.generate({
+    bindto: '.contributions',
+    data: {
+      url: '/files/ict4d/ict4d_contributions.json',
+      mimeType: 'json'
+    }
+  });
+  console.log(linechart.data);
+});
+</script>

@@ -9,3 +9,4 @@ s3_website.yml
 .jekyll-metadata
 node_modules
 aws-credentials.json
+/files/ict4d/

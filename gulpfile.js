@@ -54,7 +54,7 @@ gulp.task('browser-sync', ['compressjs', 'sass', 'jekyll-build'], function() {
 gulp.task('compressjs', function() {
    gulp.src('js/found*.js')
      .pipe(uglify())
-     .pipe(concat('foundation.js'))
+     .pipe(concat('main.js'))
      .pipe(gulp.dest('js/min'));
   });
 
@@ -166,7 +166,7 @@ gulp.task('publish', function() {
  */
 gulp.task('watch', function () {
   gulp.watch('_sass/*.scss', ['sass']);
-  gulp.watch(['*.html', '_layouts/*.html', '_includes/*.html', '_includes/*.css', '_posts/*'], ['jekyll-rebuild']);
+  gulp.watch(['**/*.html', '_layouts/*.html', '_includes/*.html', '_includes/*.css', '_posts/*'], ['jekyll-rebuild']);
 });
 
 /**
