@@ -9,7 +9,7 @@ title: "Top resources in the ICT4D community"
 
 <div class="row">
   <div class="large-7 medium-6 columns">
-    <p>For the past years the ICT4D community <a href="http://www.crisscrossed.net/2009/08/25/a-worldwide-community-mapping-400-ict4d-twitter-users/">has notably grown</a> and continues to do so as every month over a thousand links are shared through the hashtags #ICT4D, #M4D and others. Although the term ICT4D has been extensively argued for a number of reasons, it still works as a cluster to find out more on potentials and challenges for ICTs in the developemt context.
+    <p>For the past years the ICT4D community <a href="http://www.crisscrossed.net/2009/08/25/a-worldwide-community-mapping-400-ict4d-twitter-users/">has notably grown</a> and continues to do so as every month over a thousand links are shared through the hashtags #ICT4D, #M4D and others. Although the term ICT4D has been extensively argued for a number of reasons, it still works as a cluster to find out more on potentials and challenges for ICTs in the development context.
     </p>
     <p>
     It is not easy, but also time consuming, to find the best resources related to the topic. Therefore, I have started mining such tweets and resources to facilitate and provide them to the ICT4D community. My <a href="https://twitter.com/ict4d">@ict4d</a> acccount was always meant to be a twitter account for people in search of great resources around ICT4D. Now, this is a weekly service to deliver a list of the best trending resources to your inbox. Enjoy and send me feedback any time <a href="https://twitter.com/ict4d">@ict4d</a> or comment below.</p>
@@ -36,7 +36,7 @@ title: "Top resources in the ICT4D community"
         </div>
       </div>
       <p><b>or follow <a href="https://twitter.com/ict4d">@ict4d</a></b></p>
-      <p>Last updated: 15-03-2016</p>
+      <div id="updated"></div>
 
   </div>
 </div>
@@ -63,11 +63,13 @@ title: "Top resources in the ICT4D community"
   <div class="large-12 medium-12 centered columns spacetop">
     <h3>Most common hashtags used in the ICT4D community</h3>
     <div class="hashtags"></div>
+    <h3>Tweets analyzed by week</h3>
+    <div class="contributions"></div>
   </div>
 </div>
 <div class="row">
   <div class="large-12 medium-12 centered columns spacebottom spacetop">
-    <h2 class="font-title centered">last week</h4>
+    <h2 class="font-title centered">last week</h2>
   </div>
 </div>
 <div class="row">
@@ -105,6 +107,11 @@ h2,h3,h3 {padding-bottom: 10px;}
        </li>
      {{/list}}
   </ol>
+  {% endraw %}
+</script>
+<script id="tpl-updated" type="text/template">
+  {% raw %}
+  <p>Last updated: {{ updated }}</p>
   {% endraw %}
 </script>
 <script id="tpl-list" type="text/template">
@@ -152,6 +159,7 @@ listlinks('/files/ict4d/contributors_this_week.json', '#tp-user-list', '#weekly_
 listlinks('/files/ict4d/contributors_last_week.json', '#tp-user-list', '#last_weekly_ict4d_contributor');
 listlinks('/files/ict4d/this_week.json', '#tpl', '#weekly_links');
 listlinks('/files/ict4d/last_week.json', '#tpl', '#last_week_links');
+listlinks('/files/ict4d/updated.json', '#tpl-updated', '#updated');
 
 $(document).ready(function () {
   var piechart = c3.generate({
@@ -178,9 +186,12 @@ $(document).ready(function () {
 
   var linechart = c3.generate({
     bindto: '.contributions',
-    data: {
-      url: '/files/ict4d/ict4d_contributions.json',
-      mimeType: 'json'
+    data: {json: [
+                {name: 'www.site1.com', upload: 200, download: 200, total: 400},
+                {name: 'www.site2.com', upload: 100, download: 300, total: 400},
+                {name: 'www.site3.com', upload: 300, download: 200, total: 500},
+                {name: 'www.site4.com', upload: 400, download: 100, total: 500},
+            ],
     }
   });
 });
