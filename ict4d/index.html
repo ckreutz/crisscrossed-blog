@@ -63,7 +63,7 @@ title: "Top resources in the ICT4D community"
   <div class="large-12 medium-12 centered columns spacetop">
     <h3>Most common hashtags used in the ICT4D community</h3>
     <div class="hashtags"></div>
-    <h3>Tweets analyzed by week</h3>
+    <h3 class="spacetop">Tweets analyzed weekly</h3>
     <div class="contributions"></div>
   </div>
 </div>
@@ -86,7 +86,7 @@ title: "Top resources in the ICT4D community"
 </div>
 <div class="row">
   <div class="large-12 medium-12 centered columns spacetop">
-    <p>Disclaimer: This services is in beta and under constant development. There might always be the best links listed, but definetely some gems. Send feedback <a href="https://twitter.com/ict4d">@ict4d</a>. </p>
+    <p>Disclaimer: This services is in beta and under constant development. There might not gulp defaultalways be the best links listed, but definetely some gems. Send feedback <a href="https://twitter.com/ict4d">@ict4d</a>. </p>
   </div>
 </div>
 
@@ -177,22 +177,22 @@ $(document).ready(function () {
         ['innovation',655],
         ['opendata',617]
         ],
-          type : 'pie',
-          onclick: function (d, i) { console.log("onclick", d, i); },
-          onmouseover: function (d, i) { console.log("onmouseover", d, i); },
-          onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+          type : 'pie'
       }
   });
 
   var linechart = c3.generate({
     bindto: '.contributions',
-    data: {json: [
-                {name: 'www.site1.com', upload: 200, download: 200, total: 400},
-                {name: 'www.site2.com', upload: 100, download: 300, total: 400},
-                {name: 'www.site3.com', upload: 300, download: 200, total: 500},
-                {name: 'www.site4.com', upload: 400, download: 100, total: 500},
-            ],
-    }
+      data: {
+        url: '/files/ict4d/ict4d_contributions.json',
+        mimeType: 'json',
+        keys: {
+//                x: 'name', // it's possible to specify 'x' when category axis
+                value: ['tweets'],
+            }
+
+      }
   });
+
 });
 </script>
