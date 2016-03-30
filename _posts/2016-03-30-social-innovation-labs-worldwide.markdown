@@ -54,7 +54,7 @@ La 27e Région calls itsel a “public transformation lab.” The goal behind th
 ### [Denmark: The MindLab](http://mind-lab.dk/on)
 The MindLab is a cross-governmental or civic innovation lab whose projects are based on finding solutions to social problems. They cover broad policy areas such as entrepreneurship, digital self-service, education and employment. Be sure to check their [cases](http://mind-lab.dk/en/cases/) and their [blog](http://mindblog.dk/en/) with helpful introductions to various methodologies.
 
-### [Austria, Graz: The City Lab](http://www.stadtlaborgraz.at/index.php/en/thecitylab)
+### [Austria, Graz: The City Lab](http://www.stadtlaborgraz.at)
 The City Lab is civic and social innovation lab created to tackle issues relating to urban quality of life. At their core lies the vision of a sustainable city or "Smart City," considering its "diverse technical, planning, economic and social challenges" to increase the quality of life in neighborhoods, city districts and city regions together with the people concerned. They create spaces for ideas and engage with stakeholders from business, public administration, science and research as well as citizens and civil society.
 
 ### [Vancouver, Canada: The Local Economic Development Lab](http://ledlab.ca)
