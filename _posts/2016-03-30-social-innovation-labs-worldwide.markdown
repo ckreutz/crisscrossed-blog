@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20+ inspiring social innovation labs examples worldwide"
+title: "20+ inspiring social innovation lab examples worldwide"
 image: "social-innovation-labs.jpg"
 alt_image: "Social Innovation Lab at PopTech @ Flickr"
 lang: en
