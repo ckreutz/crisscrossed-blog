@@ -39,6 +39,9 @@ Part of the Government of Chile, the Laboratorio de Gobierno is a civic innovati
 ### [Innovation Lab Kosovo](http://kosovoinnovations.org)
 As a civic innovation lab, it works on projects related to children and youth. With the use of information and technologies they "can analyze and understand the dynamics of need and service provision in ways never previously possible: we can uncover pockets of vulnerability, understand need in real time, and radically increase transparency and accountability."
 
+### [Nairobi, Kenya Garage](http://www.nairobigarage.com/)
+An innovation lab in Kenya that hosts various fascinating initiatives such as [Code for Africa](https://codeforafrica.org/) working on open data and open government projects. One such project is [Star Health](http://health.the-star.co.ke/): "Keeping the health sector accountable to citizens."
+
 ### [Barcelona, Spain: BCNLAB](http://www.barcelonalab.cat/ca/)
 Barcelona Laboratori is a place and platform for creativity from the Future Institute Barcelona. Their main objective is to encourage innovation through public and private collaboration between the arts, science and technology. The lab's origin lies on the culture domain, but they experiment a lot with technology (e.g. hackathons) and citizen science.
 
@@ -83,4 +86,4 @@ One of the pioneers of social innovation labs are impact hubs with 80 locations 
 
 Did I miss any social innovation labs? Just add them in the comment section.
 
-Last updated 30.03.2016
+Last updated 18.04.2016
