@@ -66,7 +66,7 @@ The Local Economic Development Lab is a 'social innovation lab' with an economic
 ### [Alberta, Canada: Energy Future Labs](http://energyfutureslab.com/)
 One of the few labs that has a thematic focus. "The Energy Futures Lab is convening innovators and influencers to collectively address current and future energy challenges." The government running the lab in an oil-rich Pronvince in Canada seems to look at new pathways to transform the Alberta energy system.
 
-### [Washington, USA: The Gov Lab](http://www.thegovlab.org/about.html)
+### [New York City, USA: The Gov Lab](http://www.thegovlab.org/about.html)
 A civic innovation lab that aims to engage individuals and civil society as well as governmental institutions to find solutions to common problems. To achieve collaboration, they build platforms, networks, and asses whether existing governance innovations do actually have an impact on people's lives. They have a range of [interesting projects](http://www.thegovlab.org/projects.html) with a heavy technology and data focus
 
 ### [Oakland, USA: OpenOakland](https://www.openoakland.org/)
