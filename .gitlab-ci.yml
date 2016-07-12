@@ -1,0 +1,24 @@
+# This file is a template, and might need editing before it works on your project.
+# Full project: https://gitlab.com/pages/jekyll
+image: ruby:2.3
+
+before_script:
+  - apt-get update >/dev/null
+  - apt-get install -y locales >/dev/null
+  - echo "en_US UTF-8" > /etc/locale.gen
+  - locale-gen en_US.UTF-8
+  - export LANG=en_US.UTF-8
+  - export LANGUAGE=en_US:en
+  - export LC_ALL=en_US.UTF-8
+
+build:
+  stage: build
+  script:
+  - gem install jekyll jekyll-paginate jekyll-minimagick json jekyll-haml rdiscount dpl
+  - git clone https://github.com/crisscrossed/csstyle.git /builds/crisscrossed/crisscrossed-blog/_sass/csstyle
+  - jekyll build -d build
+  - dpl --skip_cleanup --provider=s3 --region=eu-west-1 --access-key-id=$AWS_ACCESS_KEY_ID --secret-access-key=$AWS_SECRET_ACCESS_KEY --bucket=www.crisscrossed.net --local-dir=build/ 
+  artifacts:
+    paths:
+    - build
+
