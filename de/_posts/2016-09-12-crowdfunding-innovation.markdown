@@ -9,6 +9,8 @@ categories:
 - bürgerbeteiligung
 ---
 
+**[Download Ebook](http://www.crisscrossed.de/data/10_trends_in_open_innovation.epub)**
+
 Für den Launch des Ebooks "[10 trends in open innovation](https://10innovations.alumniportal.com/)" hat mich Wolfgang Gumpelmaier-Mach vom [Crowdfunding Service Magazin](http://crowdfunding-service.com/magazin/interview-crowdfunding-und-open-innovation-in-der-internationalen-zusammenarbeit/) interviewt. Wolfgang und seine Kollegen haben ein spannendes Kapitel zur Publikation beigesteuert, wo es natürlich um Crowdfunding geht.
 
 **Wolfgang**: Christian, du hast für die GIZ und das Alumniportal Deutschland das Projekt „10 innovations“ mit herausgegeben. Nun erscheint die Publikation als eBook. Was erwartet den Leser?
