@@ -16,9 +16,8 @@ build:
   script:
   - gem install jekyll jekyll-paginate jekyll-minimagick json jekyll-haml rdiscount dpl
   - git clone https://github.com/crisscrossed/csstyle.git /builds/crisscrossed/crisscrossed-blog/_sass/csstyle
-  - jekyll build -d build
-  - dpl --skip_cleanup --provider=s3 --region=eu-west-1 --access-key-id=$AWS_ACCESS_KEY_ID --secret-access-key=$AWS_SECRET_ACCESS_KEY --bucket=www.crisscrossed.net --local-dir=build/ 
+  - JEKYLL_ENV=production jekyll build -d build
+  - dpl --skip_cleanup --provider=s3 --region=eu-west-1 --access-key-id=$AWS_ACCESS_KEY_ID --secret-access-key=$AWS_SECRET_ACCESS_KEY --bucket=www.crisscrossed.net --local-dir=build/
   artifacts:
     paths:
     - build
-
