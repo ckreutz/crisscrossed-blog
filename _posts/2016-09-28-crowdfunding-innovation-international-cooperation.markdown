@@ -7,6 +7,7 @@ lang: en
 caption: '10 Open Innovations - Publikation der GIZ'
 categories:
 - open innovation
+- crowdfunding
 ---
 
 **[Download ebook](http://www.crisscrossed.de/data/10_trends_in_open_innovation.epub)**

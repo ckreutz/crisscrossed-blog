@@ -13,9 +13,9 @@ A joint blog post by Frieder Binder and Christian Kreutz
 Visualization are powerful as they show a lot more than words can tell. We love to watch on innovation environments from a bird-view to see how knowledge sharing and learning is happening. Is it a highly active community? Highly diverse and a fine network connecting many dots, which tells you a lot about the level of innovation an organization stands. To show the power of social network analysis we put together some intriguing network visualization that tell a story by themselves.
 
 ![](/images/sna/HierarchieFewHubsConnect.jpg "Network 1")
-![](/images/sna/GraphImage_DW_allspaces.no_groups.jpg "Network 1")
-![](/images/sna/GraphImage_DW_allspaces_groups_spiral_layout.jpg "Network 1")
-![](/images/sna/GraphImage_DW_allspaces_groups_intergroup_edge_hidden.jpg "Network 1")
+![](/images/sna/allspaces.no_groups.jpg "Network 1")
+![](/images/sna/allspaces_groups_spiral_layout.jpg "Network 1")
+![](/images/sna/allspaces_groups_intergroup_edge_hidden.jpg "Network 1")
 
 
 ## Visualizations network innovation works and where not
